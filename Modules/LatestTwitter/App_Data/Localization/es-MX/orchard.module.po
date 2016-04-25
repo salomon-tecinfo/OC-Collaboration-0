@@ -1,0 +1,114 @@
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "LatestTwitter"
+msgstr "LatestTwitter"
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Maarten Balliauw"
+msgstr "Maarten Balliauw"
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "http://blog.maartenballiauw.be"
+msgstr "http://blog.maartenballiauw.be"
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Display latest Tweets for a user in a widget."
+msgstr "Muestra los últimos tweets de un usuario en un widget."
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "LatestTwitter.Description"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Display latest Tweets for a user in a widget."
+msgstr "Muestra los últimos tweets de un usuario en un widget."
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "LatestTwitter.Category"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Widget"
+msgstr "Widget"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Twitter username"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Twitter username"
+msgstr "Nombre de usuario en Twitter"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Number of Tweets to display"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Number of Tweets to display"
+msgstr "Cantidad de tweets para mostrarse"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Time to cache Tweets (in minutes)"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Time to cache Tweets (in minutes)"
+msgstr "Tiempo para cachear Tweets (en minutos)"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Additional options"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Additional options"
+msgstr "Opciones adicionales"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show avatars"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show avatars"
+msgstr "Mostrar avatares"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show username in tweets"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show username in tweets"
+msgstr "Mostrar el nombre de usuario en los tweets"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show timestamps"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show timestamps"
+msgstr "Mostrar impresiones de fecha"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show as links"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show as links"
+msgstr "Mostrar como enlaces"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show mentions as links"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show mentions as links"
+msgstr "Mostrar menciones como enlaces"
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show hashtags as links"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show hashtags as links"
+msgstr "Mostrar los hashtags como enlaces"
+
+#: ~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml
+#| msgid "follow"
+msgctxt "~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml"
+msgid "follow"
+msgstr "seguir"
+
+#: ~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml
+#| msgid "on twitter"
+msgctxt "~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml"
+msgid "on twitter"
+msgstr "en twitter"
+
+#: ~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml
+#| msgid " "
+msgctxt "~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml"
+msgid " "
+msgstr " "
+

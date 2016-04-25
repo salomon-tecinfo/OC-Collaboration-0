@@ -1,0 +1,119 @@
+#. "Name"
+#: "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "Secure Sockets Layer"
+msgstr "Capa de Sockets Seguros"
+
+#. "Author"
+#: "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "The Orchard Team"
+msgstr "El Equipo de Orchard"
+
+#. "Website"
+#: "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "This module will ensure SSL is used when accessing specific parts of the website like the dashboard, authentication pages or custom pages."
+msgstr "Este módulo se asegurará de que SSL se utiliza para acceder a determinadas partes del sitio web como el dashboard, páginas de autenticación o páginas personalizadas."
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Urls' site setting invalid"
+msgstr "La configuración de 'Urls' del sitio web no es válida"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Secure Everything' site setting set to '{0}'"
+msgstr "Se ha establecido a '{0}' la configuración del sitio 'Asegurar todo'"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Custom Enabled' site setting set to '{0}'"
+msgstr "Se ha establecido a '{0}' la configuración del sitio 'Personalización habilitada'"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Urls' site setting set to '{0}'"
+msgstr "Se ha establecido a '{0}' la configuración del sitio 'Urls'"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Secure Host Name' site setting set to '{0}'"
+msgstr "Se ha establecido a '{0}' la configuración del sitio 'Nombre seguro de host'"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Insecure Host Name' site setting set to '{0}'"
+msgstr "Se ha establecido a '{0}' la configuración del sitio 'Nombre no seguro de host'"
+
+#: "Orchard.SecureSocketsLayer.Filters.SecureSocketsLayersFilter"
+msgctxt "Orchard.SecureSocketsLayer.Filters.SecureSocketsLayersFilter"
+msgid "You need to configure the SSL settings."
+msgstr "Tienes que preparar la configuración de SSL."
+
+#: "Orchard.SecureSocketsLayer.Handlers.SslSettingsPartHandler"
+msgctxt "Orchard.SecureSocketsLayer.Handlers.SslSettingsPartHandler"
+msgid "SSL"
+msgstr "SSL"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "SSL Settings"
+msgstr "Configuración de SSL"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Enable SSL redirection"
+msgstr "Permitir redirección de SSL"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Secure Host Name"
+msgstr "Nombre de Host seguro"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "(Mandatory) The host name secured traffic should be redirected to (e.g. localhost:44300, secure.mydomain.com). Don't include the protocol or anything else than the host name. A port can be specified after a colon if necessary (e.g. secure.127-0-0-1.org.uk:4333)."
+msgstr "(Obligatorio) El nombre de host de tráfico seguro debe redirigirse a (por ejemplo localhost:44300, secure.mydomain.com). No incluye el protocolo o cualquier otra cosa distinta al nombre de host. Puede especificar un puerto después de una coma si es necesario (por ejemplo secure.127-0-0-1.org.uk:4333)."
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Insecure Host Name"
+msgstr "Nombre de Host inseguro"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "(Mandatory) The host name non-secured traffic should be redirected to (e.g. localhost:30321, mydomain.com). Don't include the protocol or anything else than the host name. A port can be specified after a colon if necessary (e.g. dev.127-0-0-1.org.uk:4333)."
+msgstr "(Obligatorio) El nombre de host de tráfico no seguro debe redirigirse a (por ejemplo localhost:30321, secure.mydomain.com). No incluye el protocolo o cualquier otra cosa distinta al nombre de host. Puede especificar un puerto después de una coma si es necesario (por ejemplo secure.127-0-0-1.org.uk:4333)."
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Force SSL on all pages"
+msgstr "Fuerza SSL en todas las páginas"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Enable SSL on specific pages"
+msgstr "Habilitar SSL en páginas específicas"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Urls"
+msgstr "URLs"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Provide a list of urls, one per line. Urls can contains wildcard matches using '*', or root identifier like '~/'"
+msgstr "Proporcionar una lista de direcciones URL, una por línea. Las URLs pueden contiener comodines usando ' *', o un identificador raíz como ' ~ /'"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Examples: http://mysite.com/mypage, ~/Profile/Edit, ~/Profile/*"
+msgstr "Ejemplos: http://mysite.com/mypage, ~/Profile/editar, ~/Profile/*"
+

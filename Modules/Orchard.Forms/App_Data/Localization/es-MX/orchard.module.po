@@ -1,0 +1,32 @@
+#. "Name"
+#. "Orchard.Forms.Name"
+#: "~/Modules/Orchard.Forms/Module.txt"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Forms"
+msgstr "Forms"
+
+#. "Author"
+#: "~/Modules/Orchard.Forms/Module.txt"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "The Orchard Team"
+msgstr "El Equipo de Orchard"
+
+#. "Website"
+#: "~/Modules/Orchard.Forms/Module.txt"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "https://github.com/OrchardCMS/Orchard"
+msgstr ""
+
+#. "Description"
+#. "Orchard.Forms.Description"
+#: "~/Modules/Orchard.Forms/Module.txt"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Provides a system to publish and alter html forms."
+msgstr "Proporciona un sistema para publicar y modificar formularios html."
+
+#. "Orchard.Forms.Category"
+#: "~/Modules/Orchard.Forms/Module.txt"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Developer"
+msgstr "Desarrollador"
+

@@ -1,0 +1,134 @@
+#. "Name"
+#: "~/Modules/Orchard.Warmup/Module.txt"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "Warmup"
+msgstr "Warmup"
+
+#. "Author"
+#: "~/Modules/Orchard.Warmup/Module.txt"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "The Orchard Team"
+msgstr "El Equipo Orchard"
+
+#. "Website"
+#: "~/Modules/Orchard.Warmup/Module.txt"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.Warmup/Module.txt"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "Provides a mecanism to generate a static version of pages for being used during application warm up."
+msgstr "Proporciona un mecanismo para generar una versión estática de las páginas usadas durante el calentamiento de la aplicación."
+
+#: "Orchard.Warmup.AdminMenu"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Settings"
+msgstr "Configuración"
+
+#: "Orchard.Warmup.AdminMenu"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Performance"
+msgstr "Rendimiento"
+
+#: "Orchard.Warmup.AdminMenu"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Warmup"
+msgstr "Calentamiento"
+
+#: "Orchard.Warmup.Commands.WarmupCommands"
+msgctxt "Orchard.Warmup.Commands.WarmupCommands"
+msgid "Generation finished"
+msgstr "Generación finalizada"
+
+#. "Not authorized to manage settings"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Not authorized to manage settings"
+msgstr "No esta autorizado para administrar las configuraciones"
+
+#: "Orchard.Warmup.Controllers.AdminController"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "\"{0}\" is an invalid warmup url."
+msgstr "\"{0}\" es un url de calentamiento inválido."
+
+#: "Orchard.Warmup.Controllers.AdminController"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Delay must be greater than zero."
+msgstr "El retraso debe ser mayor que cero."
+
+#: "Orchard.Warmup.Controllers.AdminController"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Warmup updated successfully."
+msgstr "El calentamiento fue actualizado exitosamente."
+
+#: "Orchard.Warmup.Services.SettingsBanner"
+msgctxt "Orchard.Warmup.Services.SettingsBanner"
+msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgstr "La funcionalidad Warmup neces que se ajuste la <a href=\"{0}\">configuración de la url básica del sitio </a> ."
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Performance"
+msgstr "Rendimiento"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "The paths below will be requested using {0} as a base url. You can change the base url on the {1}. "
+msgstr "La ruta siguiente será solicitada usando {0} como url base. Puedes cambiar el url base en el {1}."
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "General Settings page"
+msgstr "Página de Propiedades Generales de Configuración"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "This must be a set of relative paths, e.g., /, /About. Please ensure that you enter only one path per line."
+msgstr "Debe ser un par de rutas relativas, ej. /, /Acerca. Por favor asegurate de solo agregar una ruta por línea."
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Generate warmup pages periodically"
+msgstr "Generar páginas de calentamiento periódicamente"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Every"
+msgstr "Todo"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "minutes"
+msgstr "minutos"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Generate warmup pages any time some content is published"
+msgstr "Generar páginas de calentamiento en cualquier momento que se publique algún contenido"
+
+#. "Status"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Status"
+msgstr "Estado"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "This is a table of the reports in your application"
+msgstr "Esta es una tabla de reportes en tu aplicación"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Path"
+msgstr "Ruta"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Date generated"
+msgstr "Fecha generado"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Save"
+msgstr "Guardar"
+

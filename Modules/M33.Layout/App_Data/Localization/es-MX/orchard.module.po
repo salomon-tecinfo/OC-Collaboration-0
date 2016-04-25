@@ -1,0 +1,236 @@
+msgctxt "~/Modules/M33.Layout/Module.txt"
+msgid "Theme Editor"
+msgstr "Theme Editor"
+
+msgctxt "~/Modules/M33.Layout/Module.txt"
+msgid "Rickard Magnusson M33, Downplay Design"
+msgstr "Rickard Magnusson M33, Downplay Design"
+
+msgctxt "~/Modules/M33.Layout/Module.txt"
+msgid "http://www.m33.se"
+msgstr "http://www.m33.se"
+
+msgctxt "~/Modules/M33.Layout/Module.txt"
+msgid "This module lets you create and edit javascript, css and Razor files and select a page template for a page."
+msgstr "This module lets you create and edit javascript, css and Razor files and select a page template for a page."
+
+#: "M33.Layout.AdminMenu"
+msgctxt "M33.Layout.AdminMenu"
+msgid "Themes"
+msgstr "Themes"
+
+#: "M33.Layout.AdminMenu"
+msgctxt "M33.Layout.AdminMenu"
+msgid "Css Editor"
+msgstr "Css Editor"
+
+#: "M33.Layout.AdminMenu"
+msgctxt "M33.Layout.AdminMenu"
+msgid "View Editor"
+msgstr "View Editor"
+
+#: "M33.Layout.AdminMenu"
+msgctxt "M33.Layout.AdminMenu"
+msgid "JS Editor"
+msgstr "JS Editor"
+
+#: "M33.Layout.AdminMenu"
+msgctxt "M33.Layout.AdminMenu"
+msgid "Settings"
+msgstr "Settings"
+
+#. "Not authorized to manage files"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Not authorized to manage files"
+msgstr "Not authorized to manage files"
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Not authorized to manage css"
+msgstr "Not authorized to manage css"
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Not authorized to manage script files"
+msgstr "Not authorized to manage script files"
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Updated Theme.txt successfully."
+msgstr "Updated Theme.txt successfully."
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Updated Placement.info successfully."
+msgstr "Updated Placement.info successfully."
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Updated/added Theme.png successfully."
+msgstr "Updated/added Theme.png successfully."
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Updated/added ThemeZonePreview.png successfully."
+msgstr "Updated/added ThemeZonePreview.png successfully."
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Added image successfully."
+msgstr "Added image successfully."
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "Uploading media file failed:"
+msgstr "Uploading media file failed:"
+
+#: "M33.Layout.Controllers.AdminController"
+msgctxt "M33.Layout.Controllers.AdminController"
+msgid "This file already exist.Choose another filename!"
+msgstr "This file already exist.Choose another filename!"
+
+#: "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgid "Create file"
+msgstr "Create file"
+
+#: "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgid "You can add a new file to this theme by select a type and enter a filename. If you create a new view that should be a page layout file and be visible in page layout selector, name the file 'Layout-YourThemeName', without extension."
+msgstr "You can add a new file to this theme by select a type and enter a filename. If you create a new view that should be a page layout file and be visible in page layout selector, name the file 'Layout-YourThemeName', without extension."
+
+#: "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgid "Select type of file to create"
+msgstr "Select type of file to create"
+
+#: "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgid "Type the name of the file  without extension."
+msgstr "Type the name of the file  without extension."
+
+#. "Save"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgid "Save"
+msgstr "Save"
+
+#: "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Add.cshtml"
+msgid "Cansel"
+msgstr "Cansel"
+
+#: "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgid "Css Editor"
+msgstr "Css Editor"
+
+#: "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgid "Edit theme styles"
+msgstr "Edit theme styles"
+
+#: "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgid "Edit all stylesheet for this theme."
+msgstr "Edit all stylesheet for this theme."
+
+#: "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgid "Select css file"
+msgstr "Select css file"
+
+#: "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgid "Content"
+msgstr "Content"
+
+#. "Save"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Index.cshtml"
+msgid "Save"
+msgstr "Save"
+
+#: "~/Modules/M33.Layout/Views/Admin/JsEditor.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/JsEditor.cshtml"
+msgid "Javascript Editor"
+msgstr "Javascript Editor"
+
+#: "~/Modules/M33.Layout/Views/Admin/JsEditor.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/JsEditor.cshtml"
+msgid "Select javascriptfile"
+msgstr "Select javascriptfile"
+
+#: "~/Modules/M33.Layout/Views/Admin/JsEditor.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/JsEditor.cshtml"
+msgid "Content"
+msgstr "Content"
+
+#. "Save"
+msgctxt "~/Modules/M33.Layout/Views/Admin/JsEditor.cshtml"
+msgid "Save"
+msgstr "Save"
+
+#: "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "Theme Settings"
+msgstr "Theme Settings"
+
+#: "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "Theme.txt"
+msgstr "Theme.txt"
+
+#: "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "Placement.info"
+msgstr "Placement.info"
+
+#: "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "Theme.png"
+msgstr "Theme.png"
+
+#. "Browse"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "Browse"
+msgstr "Browse"
+
+#: "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "ThemeZonePreview.png"
+msgstr "ThemeZonePreview.png"
+
+#: "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "ThemeExtended"
+msgstr "ThemeExtended"
+
+#: "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/Settings.cshtml"
+msgid "Save"
+msgstr "Save"
+
+#: "~/Modules/M33.Layout/Views/Admin/ViewEditor.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/ViewEditor.cshtml"
+msgid "Razor view Editor"
+msgstr "Razor view Editor"
+
+#: "~/Modules/M33.Layout/Views/Admin/ViewEditor.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/ViewEditor.cshtml"
+msgid "Select view"
+msgstr "Select view"
+
+#: "~/Modules/M33.Layout/Views/Admin/ViewEditor.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/Admin/ViewEditor.cshtml"
+msgid "Content"
+msgstr "Content"
+
+#. "Save"
+msgctxt "~/Modules/M33.Layout/Views/Admin/ViewEditor.cshtml"
+msgid "Save"
+msgstr "Save"
+
+#: "~/Modules/M33.Layout/Views/EditorTemplates/Parts/LayoutSelector.cshtml"
+msgctxt "~/Modules/M33.Layout/Views/EditorTemplates/Parts/LayoutSelector.cshtml"
+msgid "Layout"
+msgstr "Layout"
+

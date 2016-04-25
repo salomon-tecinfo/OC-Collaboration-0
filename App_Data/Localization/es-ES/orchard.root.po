@@ -1,0 +1,1884 @@
+#: Orchard.CRM.Project.Activities.CheckUserTagActivity
+msgctxt Orchard.CRM.Project.Activities.CheckUserTagActivity
+msgid "Orchard Collaboration"
+msgstr "Orchard Collaboration"
+
+#: Orchard.CRM.Project.Activities.CheckUserTagActivity
+msgctxt Orchard.CRM.Project.Activities.CheckUserTagActivity
+msgid "Specifies whether the created user of the content has the specified tag or not"
+msgstr "Specifies whether the created user of the content has the specified tag or not"
+
+#: Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+msgctxt Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+msgid "CRM Project"
+msgstr "CRM Project"
+
+#: Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+msgctxt Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+msgid "Send email to the followers"
+msgstr "Enviar email a responsables"
+
+#: Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+
+#. "Done"
+msgctxt Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+msgid "Done"
+msgstr "Terminado"
+
+#: Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+
+#. "Failed"
+msgctxt Orchard.CRM.Project.Activities.SendEmailToFollowersActivity
+msgid "Failed"
+msgstr "Fallo"
+
+#: Orchard.CRM.Project.Commands.EmptyContentItemCommand
+msgctxt Orchard.CRM.Project.Commands.EmptyContentItemCommand
+msgid "EmptyItem created successfully."
+msgstr "EmptyItem created successfully."
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Tickets group by status"
+msgstr "Asuntos agrupados por Estado"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Active Tickets group by priority"
+msgstr "Active Tickets group by priority"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Over due Tickets group by Type (Chart)"
+msgstr "Over due Tickets group by Type (Chart)"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Over due Tickets group by Type (list)"
+msgstr "Over due Tickets group by Type (list)"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Latest Discussions"
+msgstr "Latest Discussions"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Latest Wiki pages"
+msgstr "Latest Wiki pages"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Unassigned Tickets"
+msgstr "Unassigned Tickets"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Active Critical Tickets"
+msgstr "Active Critical Tickets"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Latest Over Due Tickets"
+msgstr "Latest Over Due Tickets"
+
+#: Orchard.CRM.Project.Commands.PortletCommand
+msgctxt Orchard.CRM.Project.Commands.PortletCommand
+msgid "Project Latest Activities"
+msgstr "Project Latest Activities"
+
+#: Orchard.CRM.Project.Controllers.FollowerController
+
+#. "You are not authorized to view the item"
+msgctxt Orchard.CRM.Project.Controllers.FollowerController
+msgid "You are not authorized to view the item"
+msgstr "You are not authorized to view the item"
+
+#: Orchard.CRM.Project.Controllers.FollowerController
+msgctxt Orchard.CRM.Project.Controllers.FollowerController
+msgid "Set as followd"
+msgstr "Set as followd"
+
+#: Orchard.CRM.Project.Controllers.FollowerController
+msgctxt Orchard.CRM.Project.Controllers.FollowerController
+msgid "Set as un-followd"
+msgstr "Set as un-followd"
+
+#: Orchard.CRM.Project.Controllers.MilestoneController
+
+#. "You are not authorized to view the item"
+msgctxt Orchard.CRM.Project.Controllers.MilestoneController
+msgid "You are not authorized to view the item"
+msgstr "You are not authorized to view the item"
+
+#: Orchard.CRM.Project.Controllers.MilestoneController
+msgctxt Orchard.CRM.Project.Controllers.MilestoneController
+msgid "ProjectId is not provided. It is mandatory field."
+msgstr "ProjectId is not provided. It is mandatory field."
+
+#: Orchard.CRM.Project.Controllers.MilestoneController
+msgctxt Orchard.CRM.Project.Controllers.MilestoneController
+msgid "Project doesn't have any Backlog"
+msgstr "Project doesn't have any Backlog"
+
+#: Orchard.CRM.Project.Controllers.ProjectItemsOwnershipController
+msgctxt Orchard.CRM.Project.Controllers.ProjectItemsOwnershipController
+msgid "ids parameter is required"
+msgstr "ids parameter is required"
+
+#: Orchard.CRM.Project.Controllers.ProjectItemsOwnershipController
+msgctxt Orchard.CRM.Project.Controllers.ProjectItemsOwnershipController
+msgid "Too many ids parameters"
+msgstr "Too many ids parameters"
+
+#: Orchard.CRM.Project.Controllers.SearchController
+msgctxt Orchard.CRM.Project.Controllers.SearchController
+msgid "Invalid search query: {0}"
+msgstr "Invalid search query: {0}"
+
+#: Orchard.CRM.Project.Controllers.UserController
+
+#. "Not authorized to list users"
+msgctxt Orchard.CRM.Project.Controllers.UserController
+msgid "Not authorized to list users"
+msgstr "Not authorized to list users"
+
+#: Orchard.CRM.Project.Controllers.UserController
+
+#. "There is no user with the given Id"
+msgctxt Orchard.CRM.Project.Controllers.UserController
+msgid "There is no user with the given Id"
+msgstr "There is no user with the given Id"
+
+#: Orchard.CRM.Project.Controllers.UserController
+
+#. "The given user doesn't have customer permission"
+msgctxt Orchard.CRM.Project.Controllers.UserController
+msgid "The given user doesn't have customer permission"
+msgstr "The given user doesn't have customer permission"
+
+#: Orchard.CRM.Project.Drivers.AttachToFolderDriver
+msgctxt Orchard.CRM.Project.Drivers.AttachToFolderDriver
+msgid "[No Folder Is Selected]"
+msgstr "[No Folder Is Selected]"
+
+#: Orchard.CRM.Project.Drivers.FileFieldDriver
+msgctxt Orchard.CRM.Project.Drivers.FileFieldDriver
+msgid "The file size is bigger than the maximum file size, maximum size is {0}KB."
+msgstr "The file size is bigger than the maximum file size, maximum size is {0}KB."
+
+#: Orchard.CRM.Project.Drivers.FileFieldDriver
+msgctxt Orchard.CRM.Project.Drivers.FileFieldDriver
+msgid "The file type is not allowed for {0}."
+msgstr "The file type is not allowed for {0}."
+
+#: Orchard.CRM.Project.Drivers.FileFieldDriver
+msgctxt Orchard.CRM.Project.Drivers.FileFieldDriver
+msgid "You must provide a file for {0}."
+msgstr "You must provide a file for {0}."
+
+#: Orchard.CRM.Project.Drivers.FolderDriver
+
+#. "You don't have permission to create/edit the item"
+msgctxt Orchard.CRM.Project.Drivers.FolderDriver
+msgid "You don't have permission to create/edit the item"
+msgstr "You don't have permission to create/edit the item"
+
+#: Orchard.CRM.Project.Drivers.FolderDriver
+msgctxt Orchard.CRM.Project.Drivers.FolderDriver
+msgid "No project is selected"
+msgstr "No project is selected"
+
+#: Orchard.CRM.Project.Drivers.FolderDriver
+msgctxt Orchard.CRM.Project.Drivers.FolderDriver
+msgid "There is no project with the given Id"
+msgstr "There is no project with the given Id"
+
+#: Orchard.CRM.Project.Drivers.FolderDriver
+msgctxt Orchard.CRM.Project.Drivers.FolderDriver
+msgid "A Folder can not be parent of himself. Please select another folder."
+msgstr "A Folder can not be parent of himself. Please select another folder."
+
+#: Orchard.CRM.Project.Drivers.FolderListDriver
+msgctxt Orchard.CRM.Project.Drivers.FolderListDriver
+msgid "Root"
+msgstr "Root"
+
+#: Orchard.CRM.Project.Drivers.MilestoneDriver
+
+#. "Milestone is not attached to a project"
+msgctxt Orchard.CRM.Project.Drivers.MilestoneDriver
+msgid "Milestone is not attached to a project"
+msgstr "Milestone is not attached to a project"
+
+#: Orchard.CRM.Project.Drivers.MilestoneDriver
+msgctxt Orchard.CRM.Project.Drivers.MilestoneDriver
+msgid "Project doesn't have any Backlog"
+msgstr "Project doesn't have any Backlog"
+
+#: Orchard.CRM.Project.Drivers.MilestoneDriver
+msgctxt Orchard.CRM.Project.Drivers.MilestoneDriver
+msgid "No Status"
+msgstr "No Status"
+
+#: Orchard.CRM.Project.Drivers.ProjectItemPermissionDriver
+msgctxt Orchard.CRM.Project.Drivers.ProjectItemPermissionDriver
+msgid "ProjectId is a required field"
+msgstr "ProjectId is a required field"
+
+#: Orchard.CRM.Project.Drivers.ProjectItemPermissionDriver
+msgctxt Orchard.CRM.Project.Drivers.ProjectItemPermissionDriver
+msgid "There is no project with the given Id"
+msgstr "There is no project with the given Id"
+
+#: Orchard.CRM.Project.Drivers.ProjectListDriver
+msgctxt Orchard.CRM.Project.Drivers.ProjectListDriver
+msgid "You don't have permission to view the item"
+msgstr "You don't have permission to view the item"
+
+#: Orchard.CRM.Project.Providers.CheckUserTagActivityForm
+msgctxt Orchard.CRM.Project.Providers.CheckUserTagActivityForm
+msgid "Tag"
+msgstr "Tag"
+
+#: Orchard.CRM.Project.Providers.CheckUserTagActivityForm
+msgctxt Orchard.CRM.Project.Providers.CheckUserTagActivityForm
+msgid "Please specify the user Tag that you want the activity to check the created user of the Content against it."
+msgstr "Please specify the user Tag that you want the activity to check the created user of the Content against it."
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgid "Html"
+msgstr "Html"
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgid "Html Layouts"
+msgstr "Html Layouts"
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgid "Project Dashboard List of items portlet"
+msgstr "Project Dashboard List of items portlet"
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgid "Uses a build-in shape to render list of items as a Project portlet."
+msgstr "Uses a build-in shape to render list of items as a Project portlet."
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardListLayout
+msgid "Renders list of items as a Project Dashboard portlet"
+msgstr "Renders list of items as a Project Dashboard portlet"
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgid "Html"
+msgstr "Html"
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgid "Html Layouts"
+msgstr "Html Layouts"
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgid "Project Dashboard Ticket list portlet"
+msgstr "Project Dashboard Ticket list portlet"
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgid "Uses a build-in shape to render list of tickets inside a Project portlet."
+msgstr "Uses a build-in shape to render list of tickets inside a Project portlet."
+
+#: Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgctxt Orchard.CRM.Project.Providers.ProjectDashboardTicketsListLayout
+msgid "Renders list of tickets as a Project Dashboard portlet"
+msgstr "Renders list of tickets as a Project Dashboard portlet"
+
+#: Orchard.CRM.Project.Providers.ProjectTokenProvider
+
+#. "AttachToProject"
+msgctxt Orchard.CRM.Project.Providers.ProjectTokenProvider
+msgid "AttachToProject"
+msgstr "AttachToProject"
+
+#: Orchard.CRM.Project.Providers.ProjectTokenProvider
+
+#. "ProjectId"
+msgctxt Orchard.CRM.Project.Providers.ProjectTokenProvider
+msgid "ProjectId"
+msgstr "ProjectId"
+
+#: Orchard.CRM.Project.Providers.ProjectTokenProvider
+
+#. "Project"
+msgctxt Orchard.CRM.Project.Providers.ProjectTokenProvider
+msgid "Project"
+msgstr "Project"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+
+#. "ActivityStream Item"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+msgid "ActivityStream Item"
+msgstr "ActivityStream Item"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+
+#. "ChangeDescription"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+msgid "ChangeDescription"
+msgstr "ChangeDescription"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+
+#. "ContentDescription"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+msgid "ContentDescription"
+msgstr "ContentDescription"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+
+#. "Url"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+msgid "Url"
+msgstr "Url"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+
+#. "Changes"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+msgid "Changes"
+msgstr "Changes"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+
+#. "ChangedByUsername"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+msgid "ChangedByUsername"
+msgstr "ChangedByUsername"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+
+#. "ChangedByFullname"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ActivityStreamTokenProvider
+msgid "ChangedByFullname"
+msgstr "ChangedByFullname"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.AttachToFolderStreamWriter
+
+#. "{0} is added to the folder '{1}'"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.AttachToFolderStreamWriter
+msgid "{0} is added to the folder '{1}'"
+msgstr "{0} is added to the folder '{1}'"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.AttachToFolderStreamWriter
+
+#. "{0} is detached from the folder '{1}'"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.AttachToFolderStreamWriter
+msgid "{0} is detached from the folder '{1}'"
+msgstr "{0} is detached from the folder '{1}'"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgid "Empty"
+msgstr "Empty"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgid "changed the Title to: '{0}'"
+msgstr "changed the Title to: '{0}'"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgid "changes the folder to a root folder"
+msgstr "changes the folder to a root folder"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+
+#. "move the folder to {0}"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgid "move the folder to {0}"
+msgstr "move the folder to {0}"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgid "Creates new folder"
+msgstr "Creates new folder"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgid "Creates the '{0}'"
+msgstr "Creates the '{0}'"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.FolderStreamWriter
+msgid "on Folder"
+msgstr "on Folder"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgid "Project is created"
+msgstr "Project is created"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+
+#. "Empty"
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgid "Empty"
+msgstr "Empty"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgid "changed the Title to: '{0}'"
+msgstr "changed the Title to: '{0}'"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgid "changed the Description"
+msgstr "changed the Description"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgid "On new project"
+msgstr "On new project"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgid "Creates the '{0}'"
+msgstr "Creates the '{0}'"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.ProjectStreamWriter
+msgid "on Project"
+msgstr "on Project"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.Descriptors.FolderDescriptor
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.Descriptors.FolderDescriptor
+msgid "New folder"
+msgstr "New folder"
+
+#: Orchard.CRM.Project.Providers.ActivityStream.Descriptors.FolderDescriptor
+msgctxt Orchard.CRM.Project.Providers.ActivityStream.Descriptors.FolderDescriptor
+msgid "Folder - {0}"
+msgstr "Folder - {0}"
+
+#: Orchard.CRM.Project.Providers.Filters.AttachToFolderFilter
+
+#. "AttachToFolder Fields"
+msgctxt Orchard.CRM.Project.Providers.Filters.AttachToFolderFilter
+msgid "AttachToFolder Fields"
+msgstr "AttachToFolder Fields"
+
+#: Orchard.CRM.Project.Providers.Filters.AttachToFolderFilter
+msgctxt Orchard.CRM.Project.Providers.Filters.AttachToFolderFilter
+msgid "Related Folder"
+msgstr "Related Folder"
+
+#: Orchard.CRM.Project.Providers.Filters.FolderFilter
+
+#. "Folder Fields"
+msgctxt Orchard.CRM.Project.Providers.Filters.FolderFilter
+msgid "Folder Fields"
+msgstr "Folder Fields"
+
+#: Orchard.CRM.Project.Providers.Filters.FolderFilter
+msgctxt Orchard.CRM.Project.Providers.Filters.FolderFilter
+msgid "Project of Folder"
+msgstr "Project of Folder"
+
+#: Orchard.CRM.Project.Providers.SortCriterias.MilestoneSortCriteria
+
+#. "Milestone Fields"
+msgctxt Orchard.CRM.Project.Providers.SortCriterias.MilestoneSortCriteria
+msgid "Milestone Fields"
+msgstr "Milestone Fields"
+
+#: Orchard.CRM.Project.Providers.SortCriterias.MilestoneSortCriteria
+msgctxt Orchard.CRM.Project.Providers.SortCriterias.MilestoneSortCriteria
+msgid "Sort by Milestone StartTime"
+msgstr "Sort by Milestone StartTime"
+
+#: Orchard.CRM.Project.Providers.SortCriterias.MilestoneSortCriteria
+msgctxt Orchard.CRM.Project.Providers.SortCriterias.MilestoneSortCriteria
+msgid "Sort by Milestone EndTime"
+msgstr "Sort by Milestone EndTime"
+
+#: Orchard.CRM.Project.Services.ExtendedProjectService
+
+#. "Backlog"
+msgctxt Orchard.CRM.Project.Services.ExtendedProjectService
+msgid "Backlog"
+msgstr "Backlog"
+
+#: Orchard.CRM.Project.Services.ExtendedProjectService
+msgctxt Orchard.CRM.Project.Services.ExtendedProjectService
+msgid "Edit"
+msgstr "Editar"
+
+#: Orchard.CRM.Project.Services.ExtendedProjectService
+msgctxt Orchard.CRM.Project.Services.ExtendedProjectService
+msgid "People"
+msgstr "Colaboradores"
+
+#: Orchard.CRM.Project.Services.FolderService
+msgctxt Orchard.CRM.Project.Services.FolderService
+msgid "Root"
+msgstr "Root"
+
+#: Orchard.CRM.Project.Services.ProjectSearchService
+msgctxt Orchard.CRM.Project.Services.ProjectSearchService
+msgid "Invalid search query: {0}"
+msgstr "Invalid search query: {0}"
+
+#: ~/Views/Content-DiscussionItem.Detail.cshtml
+msgctxt ~/Views/Content-DiscussionItem.Detail.cshtml
+msgid " delete items"
+msgstr " delete items"
+
+#: ~/Views/Content-DiscussionItem.Detail.cshtml
+msgctxt ~/Views/Content-DiscussionItem.Detail.cshtml
+msgid "Are you sure you want to delete the given items?"
+msgstr "Are you sure you want to delete the given items?"
+
+#: ~/Views/Content-DiscussionItem.Detail.cshtml
+msgctxt ~/Views/Content-DiscussionItem.Detail.cshtml
+msgid "Yes"
+msgstr "Yes"
+
+#: ~/Views/Content-DiscussionItem.Detail.cshtml
+msgctxt ~/Views/Content-DiscussionItem.Detail.cshtml
+msgid "No"
+msgstr "No"
+
+#: ~/Views/Content-FolderItem.Detail.cshtml
+msgctxt ~/Views/Content-FolderItem.Detail.cshtml
+msgid " delete items"
+msgstr " delete items"
+
+#: ~/Views/Content-FolderItem.Detail.cshtml
+msgctxt ~/Views/Content-FolderItem.Detail.cshtml
+msgid "Are you sure you want to delete the given items?"
+msgstr "Are you sure you want to delete the given items?"
+
+#: ~/Views/Content-FolderItem.Detail.cshtml
+msgctxt ~/Views/Content-FolderItem.Detail.cshtml
+msgid "Yes"
+msgstr "Yes"
+
+#: ~/Views/Content-FolderItem.Detail.cshtml
+msgctxt ~/Views/Content-FolderItem.Detail.cshtml
+msgid "No"
+msgstr "No"
+
+#: ~/Views/Content-WikiItem.Detail.cshtml
+msgctxt ~/Views/Content-WikiItem.Detail.cshtml
+msgid " delete items"
+msgstr " delete items"
+
+#: ~/Views/Content-WikiItem.Detail.cshtml
+msgctxt ~/Views/Content-WikiItem.Detail.cshtml
+msgid "Are you sure you want to delete the given items?"
+msgstr "Are you sure you want to delete the given items?"
+
+#: ~/Views/Content-WikiItem.Detail.cshtml
+msgctxt ~/Views/Content-WikiItem.Detail.cshtml
+msgid "Yes"
+msgstr "Yes"
+
+#: ~/Views/Content-WikiItem.Detail.cshtml
+msgctxt ~/Views/Content-WikiItem.Detail.cshtml
+msgid "No"
+msgstr "No"
+
+#: ~/Views/Content.Edit-WikiItem.cshtml
+msgctxt ~/Views/Content.Edit-WikiItem.cshtml
+msgid "Edit {0}"
+msgstr "Edit {0}"
+
+#: ~/Views/Content.Edit-WikiItem.cshtml
+msgctxt ~/Views/Content.Edit-WikiItem.cshtml
+msgid "Edit Wiki Item"
+msgstr "Edit Wiki Item"
+
+#: ~/Views/Content.SaveButton.cshtml
+msgctxt ~/Views/Content.SaveButton.cshtml
+msgid "Save"
+msgstr "Save"
+
+#: ~/Views/CurrentContentItemPermissions.cshtml
+msgctxt ~/Views/CurrentContentItemPermissions.cshtml
+msgid "X"
+msgstr "X"
+
+#: ~/Views/EditProjectRelatedItem.cshtml
+msgctxt ~/Views/EditProjectRelatedItem.cshtml
+msgid "New"
+msgstr "Nuevo"
+
+#: ~/Views/EditProjectRelatedItem.cshtml
+msgctxt ~/Views/EditProjectRelatedItem.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/EditProjectRelatedItem.cshtml
+msgctxt ~/Views/EditProjectRelatedItem.cshtml
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: ~/Views/FollowerLinkView.cshtml
+
+#. "Unfollow"
+msgctxt ~/Views/FollowerLinkView.cshtml
+msgid "Unfollow"
+msgstr "Dejar de seguir"
+
+#: ~/Views/FollowerLinkView.cshtml
+
+#. "Follow"
+msgctxt ~/Views/FollowerLinkView.cshtml
+msgid "Follow"
+msgstr "Seguir"
+
+#: ~/Views/Item.MenuView.cshtml
+msgctxt ~/Views/Item.MenuView.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/Item.MenuView.cshtml
+msgctxt ~/Views/Item.MenuView.cshtml
+msgid "People"
+msgstr "Colaboradores"
+
+#: ~/Views/Item.MenuView.cshtml
+msgctxt ~/Views/Item.MenuView.cshtml
+msgid "Remove"
+msgstr "Quitar"
+
+#: ~/Views/Item.MenuView.cshtml
+msgctxt ~/Views/Item.MenuView.cshtml
+msgid "Create Ticket"
+msgstr "Create Ticket"
+
+#: ~/Views/Item.MenuView.cshtml
+msgctxt ~/Views/Item.MenuView.cshtml
+msgid "Related Tickets"
+msgstr "Related Tickets"
+
+#: ~/Views/MilestoneDetail.cshtml
+msgctxt ~/Views/MilestoneDetail.cshtml
+msgid "Card wall"
+msgstr "Card wall"
+
+#: ~/Views/MilestoneDetail.cshtml
+msgctxt ~/Views/MilestoneDetail.cshtml
+msgid "People"
+msgstr "Colaboradores"
+
+#: ~/Views/MilestoneDetail.cshtml
+msgctxt ~/Views/MilestoneDetail.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/MilestoneDetail.cshtml
+msgctxt ~/Views/MilestoneDetail.cshtml
+msgid "Planner"
+msgstr "Planner"
+
+#: ~/Views/MilestoneDetail.cshtml
+msgctxt ~/Views/MilestoneDetail.cshtml
+msgid "Remove"
+msgstr "Quitar"
+
+#: ~/Views/Parts.Common.Body-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.Common.Body-DiscussionItem.cshtml
+msgid "There is no content"
+msgstr "There is no content"
+
+#: ~/Views/Parts.Common.Body-WikiItem.cshtml
+msgctxt ~/Views/Parts.Common.Body-WikiItem.cshtml
+msgid "There is no content"
+msgstr "There is no content"
+
+#: ~/Views/Parts.CRMComments-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.CRMComments-DiscussionItem.cshtml
+msgid "Add Comment"
+msgstr "Agregar seguimiento"
+
+#: ~/Views/Parts.DashboardActivityStream-ProjectActivityStream.cshtml
+msgctxt ~/Views/Parts.DashboardActivityStream-ProjectActivityStream.cshtml
+msgid "Activity Stream"
+msgstr "Activity Stream"
+
+#: ~/Views/Parts.DashboardActivityStream-ProjectActivityStream.cshtml
+msgctxt ~/Views/Parts.DashboardActivityStream-ProjectActivityStream.cshtml
+msgid "There is no activity so far"
+msgstr "There is no activity so far"
+
+#: ~/Views/Parts.DashboardActivityStream-ProjectLastActivityStream.cshtml
+msgctxt ~/Views/Parts.DashboardActivityStream-ProjectLastActivityStream.cshtml
+msgid "Latest project updates"
+msgstr "Ultimas actualizaciones de proyectos"
+
+#: ~/Views/Parts.DashboardActivityStream-ProjectLastActivityStream.cshtml
+msgctxt ~/Views/Parts.DashboardActivityStream-ProjectLastActivityStream.cshtml
+msgid "There is no activity so far"
+msgstr "There is no activity so far"
+
+#: ~/Views/Parts.DashboardActivityStream.cshtml
+msgctxt ~/Views/Parts.DashboardActivityStream.cshtml
+msgid "Activity Stream"
+msgstr "Histórico de actividades"
+
+#: ~/Views/Parts.DashboardActivityStream.cshtml
+msgctxt ~/Views/Parts.DashboardActivityStream.cshtml
+msgid "There is no activity so far"
+msgstr "There is no activity so far"
+
+#: ~/Views/Parts.DataReportViewer.PieChart-ProjectDashboardReportViewerPortlet.cshtml
+msgctxt ~/Views/Parts.DataReportViewer.PieChart-ProjectDashboardReportViewerPortlet.cshtml
+msgid "There is no data"
+msgstr "No hay información"
+
+#: ~/Views/Parts.DataReportViewer.SimpleList-ProjectDashboardReportViewerPortlet.cshtml
+msgctxt ~/Views/Parts.DataReportViewer.SimpleList-ProjectDashboardReportViewerPortlet.cshtml
+msgid "There is no data"
+msgstr "No hay información"
+
+#: ~/Views/Parts.DataReportViewer.SimpleList-ProjectDashboardReportViewerPortlet.cshtml
+msgctxt ~/Views/Parts.DataReportViewer.SimpleList-ProjectDashboardReportViewerPortlet.cshtml
+msgid "{0} Tickets"
+msgstr "{0} Tickets"
+
+#: ~/Views/Parts.DataReportViewer.SimpleList-ProjectTicketsSummaryGroupByStatus.cshtml
+msgctxt ~/Views/Parts.DataReportViewer.SimpleList-ProjectTicketsSummaryGroupByStatus.cshtml
+msgid "There is no data"
+msgstr "There is no data"
+
+#: ~/Views/Parts.DataReportViewer.SimpleList-ProjectTicketsSummaryGroupByStatus.cshtml
+msgctxt ~/Views/Parts.DataReportViewer.SimpleList-ProjectTicketsSummaryGroupByStatus.cshtml
+msgid "{0} Tickets"
+msgstr "{0} Tickets"
+
+#: ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgid "Uploaded Files"
+msgstr "Uploaded Files"
+
+#: ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgid " delete items"
+msgstr " delete items"
+
+#: ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgid "Are you sure you want to delete the file?"
+msgstr "Are you sure you want to delete the file?"
+
+#: ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgid "Yes"
+msgstr "Yes"
+
+#: ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.FilesList-DiscussionItem.cshtml
+msgid "No"
+msgstr "No"
+
+#: ~/Views/Parts.Title-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.Title-DiscussionItem.cshtml
+msgid "Content"
+msgstr "Content"
+
+#: ~/Views/Parts.Title-DiscussionItem.cshtml
+msgctxt ~/Views/Parts.Title-DiscussionItem.cshtml
+msgid "Related Files"
+msgstr "Related Files"
+
+#: ~/Views/Parts.Title-MilestoneItem.cshtml
+msgctxt ~/Views/Parts.Title-MilestoneItem.cshtml
+msgid "({0})"
+msgstr "({0})"
+
+#: ~/Views/Parts.Title-WikiItem.cshtml
+msgctxt ~/Views/Parts.Title-WikiItem.cshtml
+msgid "Content"
+msgstr "Content"
+
+#: ~/Views/Parts.Title-WikiItem.cshtml
+msgctxt ~/Views/Parts.Title-WikiItem.cshtml
+msgid "Related Files"
+msgstr "Related Files"
+
+#: ~/Views/ProjectDiscussions.cshtml
+msgctxt ~/Views/ProjectDiscussions.cshtml
+msgid "Project Discussions"
+msgstr "Project Discussions"
+
+#: ~/Views/ProjectDiscussions.cshtml
+msgctxt ~/Views/ProjectDiscussions.cshtml
+msgid "New discussion"
+msgstr "New discussion"
+
+#: ~/Views/ProjectDiscussions.cshtml
+msgctxt ~/Views/ProjectDiscussions.cshtml
+msgid "There is no discussion"
+msgstr "There is no discussion"
+
+#: ~/Views/ProjectProjection.cshtml
+msgctxt ~/Views/ProjectProjection.cshtml
+msgid "Project "
+msgstr "Project "
+
+#: ~/Views/ProjectProjection.cshtml
+msgctxt ~/Views/ProjectProjection.cshtml
+msgid "New "
+msgstr "New "
+
+#: ~/Views/ProjectProjection.cshtml
+msgctxt ~/Views/ProjectProjection.cshtml
+msgid "There is no "
+msgstr "There is no "
+
+#: ~/Views/ProjectSummaryProjectionPortlet.cshtml
+msgctxt ~/Views/ProjectSummaryProjectionPortlet.cshtml
+msgid "There is no item"
+msgstr "There is no item"
+
+#: ~/Views/ProjectTickets.cshtml
+msgctxt ~/Views/ProjectTickets.cshtml
+msgid "Project Tickets"
+msgstr "Project Tickets"
+
+#: ~/Views/ProjectTickets.cshtml
+msgctxt ~/Views/ProjectTickets.cshtml
+msgid "Create new Ticket"
+msgstr "Create new Ticket"
+
+#: ~/Views/ProjectTickets.cshtml
+msgctxt ~/Views/ProjectTickets.cshtml
+msgid "There is no ticket"
+msgstr "There is no ticket"
+
+#: ~/Views/ProjectTicketsSummary.cshtml
+msgctxt ~/Views/ProjectTicketsSummary.cshtml
+msgid "There is no items"
+msgstr "There is no items"
+
+#: ~/Views/ProjectTicketsSummary.cshtml
+msgctxt ~/Views/ProjectTicketsSummary.cshtml
+msgid "[NO TITLE]"
+msgstr "[NO TITLE]"
+
+#: ~/Views/SkypeTooltip.cshtml
+msgctxt ~/Views/SkypeTooltip.cshtml
+msgid "View Profile"
+msgstr "View Profile"
+
+#: ~/Views/SkypeTooltip.cshtml
+msgctxt ~/Views/SkypeTooltip.cshtml
+msgid "Chat:"
+msgstr "Chat:"
+
+#: ~/Views/SkypeTooltip.cshtml
+msgctxt ~/Views/SkypeTooltip.cshtml
+msgid "Tel:"
+msgstr "Tel:"
+
+#: ~/Views/SkypeTooltip.cshtml
+msgctxt ~/Views/SkypeTooltip.cshtml
+msgid "Mobile:"
+msgstr "Mobile:"
+
+#: ~/Views/TicketsListShape.cshtml
+msgctxt ~/Views/TicketsListShape.cshtml
+msgid "Create new Ticket"
+msgstr "Create new Ticket"
+
+#: ~/Views/TicketsListShape.cshtml
+msgctxt ~/Views/TicketsListShape.cshtml
+msgid "There is no ticket"
+msgstr "There is no ticket"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "Submit"
+msgstr "Submit"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "Create"
+msgstr "Create"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "There is no result"
+msgstr "There is no result"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "Full Name:"
+msgstr "Nombre completo:"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "Email:"
+msgstr "Email:"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "Invite to Projects"
+msgstr "Unirse a Unidad/Dirección"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "Current Projects:"
+msgstr "Unidades/Direcciones:"
+
+#: ~/Views/User.UserList.cshtml
+msgctxt ~/Views/User.UserList.cshtml
+msgid "User does not member of any project"
+msgstr "User does not member of any project"
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "Required"
+msgstr "Requerido"
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "If checked, the file will be mandatory."
+msgstr "If checked, the file will be mandatory."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "Media folder"
+msgstr "Carpeta para imagenes/video"
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "The name of the media folder where the file will be saved. You can also use these tokens: {content-type}, {field-name}, {content-item-id}."
+msgstr "The name of the media folder where the file will be saved. You can also use these tokens: {content-type}, {field-name}, {content-item-id}."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "Help text"
+msgstr "Texto de Ayuda"
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "The help text is written under the field when authors are editing the content item."
+msgstr "The help text is written under the field when authors are editing the content item."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "_blank: Open the linked document in a new window."
+msgstr "_blank: Open the linked document in a new window."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "_self: Open the linked document in the same frame as it was clicked (this is default)."
+msgstr "_self: Open the linked document in the same frame as it was clicked (this is default)."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "_parent: Open the linked document in the parent frameset."
+msgstr "_parent: Open the linked document in the parent frameset."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "_top: Open the linked document in the full body of the window."
+msgstr "_top: Open the linked document in the full body of the window."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "Extenstions Allowed"
+msgstr "Extensiones de archivo permitidas"
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "File extenstions allowed to upload sperated by comma. example .jpg, .png"
+msgstr "File extenstions allowed to upload sperated by comma. example .jpg, .png"
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "Timestamp: System will add timestamp (yyyyMMddhhmmss) to the attached file, example file-20140312131520.pdf."
+msgstr "Timestamp: System will add timestamp (yyyyMMddhhmmss) to the attached file, example file-20140312131520.pdf."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "Index: System will add the index to the attached file like in Windows, example file (1).pdf."
+msgstr "Index: System will add the index to the attached file like in Windows, example file (1).pdf."
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "Maximum file size"
+msgstr "Máximo Tamaño de archivo"
+
+#: ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgctxt ~/Views/DefinitionTemplates/FileFieldSettings.cshtml
+msgid "The maximum file size in Kilobytes."
+msgstr "Máximo Tamaño de archivo en Kilobytes."
+
+#: ~/Views/EditorTemplates/Parts.Common.Body.cshtml
+msgctxt ~/Views/EditorTemplates/Parts.Common.Body.cshtml
+msgid "Body"
+msgstr "Mensaje"
+
+#: ~/Views/EditorTemplates/Parts.Title.TitlePart.cshtml
+msgctxt ~/Views/EditorTemplates/Parts.Title.TitlePart.cshtml
+msgid "Title"
+msgstr "Título"
+
+#: ~/Views/EditorTemplates/Fields/Project.File.cshtml
+msgctxt ~/Views/EditorTemplates/Fields/Project.File.cshtml
+msgid "Browse"
+msgstr "Examinar"
+
+#: ~/Views/EditorTemplates/Parts/AttachToFolder.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/AttachToFolder.cshtml
+msgid "Folder"
+msgstr "Carpeta"
+
+#: ~/Views/EditorTemplates/Parts/AttachToMilestone.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/AttachToMilestone.cshtml
+msgid "Milestone:"
+msgstr "Suceso:"
+
+#: ~/Views/EditorTemplates/Parts/AttachToMilestone.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/AttachToMilestone.cshtml
+msgid "Size:"
+msgstr "Tamaño:"
+
+#: ~/Views/EditorTemplates/Parts/AttachToMilestone.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/AttachToMilestone.cshtml
+msgid "Milestone"
+msgstr "Suceso"
+
+#: ~/Views/EditorTemplates/Parts/Folder.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Folder.cshtml
+msgid "Title:"
+msgstr "Título:"
+
+#: ~/Views/EditorTemplates/Parts/Folder.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Folder.cshtml
+msgid "Parent Folder"
+msgstr "Carpeta padre"
+
+#: ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgid "Start:"
+msgstr "Inicio:"
+
+#: ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgid "End:"
+msgstr "Fin:"
+
+#: ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgid "Is Current"
+msgstr "Es activo"
+
+#: ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Milestone.cshtml
+msgid "Is Closed"
+msgstr "Es cerrado"
+
+#: ~/Views/EditorTemplates/Parts/Project.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Project.cshtml
+msgid "Title:"
+msgstr "Título:"
+
+#: ~/Views/EditorTemplates/Parts/Project.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/Project.cshtml
+msgid "Description:"
+msgstr "Descripcion:"
+
+#: ~/Views/EditorTemplates/Parts/ProjectDashboardEditor.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/ProjectDashboardEditor.cshtml
+msgid "Portlets in Dashboard"
+msgstr "Portlets en Tablero"
+
+#: ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgid "Visible to all"
+msgstr "Visible para todos"
+
+#: ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgid "Groups"
+msgstr "Grupos"
+
+#: ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgid "Agents"
+msgstr "Operadores"
+
+#: ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgctxt ~/Views/EditorTemplates/Parts/ProjectItemPermissions.cshtml
+msgid "Customers"
+msgstr "Interesados"
+
+#: ~/Views/Folder/Create.cshtml
+msgctxt ~/Views/Folder/Create.cshtml
+msgid "New {0}"
+msgstr "Nuevo {0}"
+
+#: ~/Views/Folder/Create.cshtml
+msgctxt ~/Views/Folder/Create.cshtml
+msgid "Create Folder"
+msgstr "Crear Carpeta"
+
+#: ~/Views/Folder/Edit.cshtml
+msgctxt ~/Views/Folder/Edit.cshtml
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: ~/Views/Folder/Edit.cshtml
+msgctxt ~/Views/Folder/Edit.cshtml
+msgid "Edit Folder"
+msgstr "Editar Carpeta"
+
+#: ~/Views/Milestone/Planner.cshtml
+msgctxt ~/Views/Milestone/Planner.cshtml
+msgid "Tickets"
+msgstr "Asuntos"
+
+#: ~/Views/Milestone/Planner.cshtml
+msgctxt ~/Views/Milestone/Planner.cshtml
+msgid "Type"
+msgstr "Tipo"
+
+#: ~/Views/Milestone/Planner.cshtml
+msgctxt ~/Views/Milestone/Planner.cshtml
+msgid "Priority"
+msgstr "Prioridad"
+
+#: ~/Views/Parts/AttachedToFolderList.cshtml
+msgctxt ~/Views/Parts/AttachedToFolderList.cshtml
+msgid "There is no item in the folder!"
+msgstr "There is no item in the folder!"
+
+#: ~/Views/Parts/AttachMilestone.cshtml
+msgctxt ~/Views/Parts/AttachMilestone.cshtml
+msgid "Milestone"
+msgstr "Suceso"
+
+#: ~/Views/Parts/AttachMilestone.cshtml
+msgctxt ~/Views/Parts/AttachMilestone.cshtml
+msgid "Size"
+msgstr "Tamaño"
+
+#: ~/Views/Parts/CRMComments.cshtml
+msgctxt ~/Views/Parts/CRMComments.cshtml
+msgid "Add Comment"
+msgstr "Agregar Seguimiento"
+
+#: ~/Views/Parts/Folder.ChangePermissionsTitle.cshtml
+msgctxt ~/Views/Parts/Folder.ChangePermissionsTitle.cshtml
+msgid "Edit Permissions - "
+msgstr "Edit Permissions - "
+
+#: ~/Views/Parts/Folder.ChangePermissionsTitle.cshtml
+msgctxt ~/Views/Parts/Folder.ChangePermissionsTitle.cshtml
+msgid "Project:"
+msgstr "Unidad/Dirección:"
+
+#: ~/Views/Parts/Folder.ChangePermissionsTitle.cshtml
+msgctxt ~/Views/Parts/Folder.ChangePermissionsTitle.cshtml
+msgid " - Wiki"
+msgstr " - Wiki"
+
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "Permissions"
+msgstr "Permisos"
+
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "Remove"
+msgstr "Quitar"
+
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "New"
+msgstr "Nuevo"
+
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "Ticket"
+msgstr "Asunto"
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "Discussion"
+msgstr "Discusión"
+
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "Wiki Page"
+msgstr "Página Wiki"
+
+#: ~/Views/Parts/Folder.Menu.cshtml
+msgctxt ~/Views/Parts/Folder.Menu.cshtml
+msgid "Wiki Folder"
+msgstr "Wiki Folder"
+
+#: ~/Views/Parts/Folder.Title.cshtml
+msgctxt ~/Views/Parts/Folder.Title.cshtml
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ~/Views/Parts/FolderList.cshtml
+msgctxt ~/Views/Parts/FolderList.cshtml
+msgid "Folders"
+msgstr "Carpetas"
+
+#: ~/Views/Parts/Follow.Link.cshtml
+
+#. "Unfollow"
+msgctxt ~/Views/Parts/Follow.Link.cshtml
+msgid "Unfollow"
+msgstr "Dejar de seguir"
+
+#: ~/Views/Parts/Follow.Link.cshtml
+
+#. "Follow"
+msgctxt ~/Views/Parts/Follow.Link.cshtml
+msgid "Follow"
+msgstr "Seguir"
+
+#: ~/Views/Parts/Milestone.Data.cshtml
+msgctxt ~/Views/Parts/Milestone.Data.cshtml
+msgid "Milestone is closed"
+msgstr "Milestone is closed"
+
+#: ~/Views/Parts/Milestone.Data.cshtml
+msgctxt ~/Views/Parts/Milestone.Data.cshtml
+msgid "Milestone is open"
+msgstr "Milestone is open"
+
+#: ~/Views/Parts/Milestone.Data.cshtml
+msgctxt ~/Views/Parts/Milestone.Data.cshtml
+msgid "Backlog"
+msgstr "Backlog"
+
+#: ~/Views/Parts/Milestone.Data.cshtml
+msgctxt ~/Views/Parts/Milestone.Data.cshtml
+msgid "From:"
+msgstr "De:"
+
+#: ~/Views/Parts/Milestone.Data.cshtml
+msgctxt ~/Views/Parts/Milestone.Data.cshtml
+msgid "To:"
+msgstr "Para:"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Tickets"
+msgstr "Asuntos"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+
+#. "Send to Backlog"
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Send to Backlog"
+msgstr "Send to Backlog"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+
+#. "Move to top"
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Move to top"
+msgstr "Mover al inicio:"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Type"
+msgstr "Tipo"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Priority"
+msgstr "Prioridad"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Move to bottom"
+msgstr "Mover al final"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Send to the top of the milestone"
+msgstr "Send to the top of the milestone"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "Send to the bottom of the milestone"
+msgstr "Send to the bottom of the milestone"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "There is no item in the Milestone"
+msgstr "There is no item in the Milestone"
+
+#: ~/Views/Parts/Milestone.Planner.cshtml
+msgctxt ~/Views/Parts/Milestone.Planner.cshtml
+msgid "There is no item in the Backlog"
+msgstr "There is no item in the Backlog"
+
+#: ~/Views/Parts/Milestone.Tickets.cshtml
+msgctxt ~/Views/Parts/Milestone.Tickets.cshtml
+msgid "Tickets"
+msgstr "Asuntos"
+
+#: ~/Views/Parts/Milestone.Tickets.cshtml
+msgctxt ~/Views/Parts/Milestone.Tickets.cshtml
+msgid "Number of tickets"
+msgstr "Numero de asuntos"
+
+#: ~/Views/Parts/Milestone.Tickets.cshtml
+msgctxt ~/Views/Parts/Milestone.Tickets.cshtml
+msgid "Total size of tickets in this column"
+msgstr "Total size of tickets in this column"
+
+#: ~/Views/Parts/Milestone.Tickets.cshtml
+msgctxt ~/Views/Parts/Milestone.Tickets.cshtml
+msgid "Type"
+msgstr "Tipo"
+
+#: ~/Views/Parts/Milestone.Tickets.cshtml
+msgctxt ~/Views/Parts/Milestone.Tickets.cshtml
+msgid "Total Size:"
+msgstr "Tamaño Total:"
+
+#: ~/Views/Parts/Milestone.Tickets.cshtml
+msgctxt ~/Views/Parts/Milestone.Tickets.cshtml
+msgid "Priority"
+msgstr "Prioridad"
+
+#: ~/Views/Parts/Milestone.Tickets.cshtml
+msgctxt ~/Views/Parts/Milestone.Tickets.cshtml
+msgid "Filter"
+msgstr "Filtro"
+
+#: ~/Views/Parts/Project.ChangePermissionsTitle.cshtml
+msgctxt ~/Views/Parts/Project.ChangePermissionsTitle.cshtml
+msgid "Edit Permissions - "
+msgstr "Editar permisos - "
+
+#: ~/Views/Parts/Project.ChangePermissionsTitle.cshtml
+msgctxt ~/Views/Parts/Project.ChangePermissionsTitle.cshtml
+msgid "Project"
+msgstr "Unidad/Dirección"
+
+#: ~/Views/Parts/Project.LastChange.cshtml
+msgctxt ~/Views/Parts/Project.LastChange.cshtml
+msgid "Last update on "
+msgstr "Ultima actualización en "
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "Search"
+msgstr "Búsqueda"
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "Submit"
+msgstr "Enviar"
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "New"
+msgstr "Nuevo"
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "Ticket"
+msgstr "Asunto"
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "Milestone"
+msgstr "Suceso"
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "Discussion"
+msgstr "Discusión"
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "Wiki Page"
+msgstr "Página Wiki"
+
+#: ~/Views/Parts/Project.Menu.cshtml
+msgctxt ~/Views/Parts/Project.Menu.cshtml
+msgid "Wiki Folder"
+msgstr "Carpeta Wiki"
+
+#: ~/Views/Parts/ProjectList.cshtml
+msgctxt ~/Views/Parts/ProjectList.cshtml
+msgid "Create new project"
+msgstr "Crear nueva Unidad/Dirección"
+
+#: ~/Views/Parts/ProjectList.cshtml
+msgctxt ~/Views/Parts/ProjectList.cshtml
+msgid "There is no project!"
+msgstr "No hay ninguna Unidad/Dirección!"
+
+#: ~/Views/Parts/Ticket.RelatedContentItem.cshtml
+msgctxt ~/Views/Parts/Ticket.RelatedContentItem.cshtml
+msgid "Related Item:"
+msgstr "Registro relacionados:"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Related Tickets"
+msgstr "Asuntos relacionados"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Add  ticket"
+msgstr "Agregar asunto"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Add"
+msgstr "Agregar"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Overdue tickets"
+msgstr "Asuntos demorados"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Overdue:"
+msgstr "Demorado:"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Ticket"
+msgstr "Asunto"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Unassigned tickets"
+msgstr "Asuntos sin asignar"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "Unassigned:"
+msgstr "Sin asignar:"
+
+#: ~/Views/Parts/TicketsForContentItem.cshtml
+msgctxt ~/Views/Parts/TicketsForContentItem.cshtml
+msgid "There is no related ticket"
+msgstr "No hay asunto relacionado"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Search"
+msgstr "Búsqueda"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Submit"
+msgstr "Enviar"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Activity Stream"
+msgstr "Histórico de Actividades"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Tickets"
+msgstr "Asuntos"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Discussions"
+msgstr "Discusiones"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "People"
+msgstr "Colaboradores"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "New"
+msgstr "Nuevo"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Add Folder"
+msgstr "Agregar Carpeta"
+
+#: ~/Views/Parts/Wiki.Menu.cshtml
+msgctxt ~/Views/Parts/Wiki.Menu.cshtml
+msgid "Add Item"
+msgstr "Agregar Registro"
+
+#: ~/Views/Parts/Wiki.Title.cshtml
+msgctxt ~/Views/Parts/Wiki.Title.cshtml
+msgid " - Wiki"
+msgstr " - Wiki"
+
+#: ~/Views/Project/Create.cshtml
+msgctxt ~/Views/Project/Create.cshtml
+msgid "New {0}"
+msgstr "Nuevo {0}"
+
+#: ~/Views/Project/Create.cshtml
+msgctxt ~/Views/Project/Create.cshtml
+msgid "Create New Project"
+msgstr "Crear Nueva Unidad/Dirección"
+
+#: ~/Views/Project/Edit.cshtml
+msgctxt ~/Views/Project/Edit.cshtml
+msgid "New {0}"
+msgstr "Nuevo {0}"
+
+#: ~/Views/Project/Edit.cshtml
+msgctxt ~/Views/Project/Edit.cshtml
+msgid "Edit Project"
+msgstr "Edit Project"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Selected {0}"
+msgstr "Seleccionado {0}"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Grant new Permissions"
+msgstr "Otorgar nuevos permisos"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Type"
+msgstr "Tipo"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Owner"
+msgstr "Propietario"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Edit Access"
+msgstr "Editar Acceso"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Readonly Access (Watcher)"
+msgstr "Acceso solo-lectura"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Groups"
+msgstr "Grupos"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Agents"
+msgstr "Operadores"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Customers"
+msgstr "Interesados"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Remove old permission"
+msgstr "Remove old permission"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Apply to children"
+msgstr "Apply to children"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Grant"
+msgstr "Otorgar"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Return"
+msgstr "Regresar"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Current Permissions"
+msgstr "Permisos actuales"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid " delete items"
+msgstr " eliminar registros"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Are you sure you want to delete the given permission?"
+msgstr "Are you sure you want to delete the given permission?"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "Yes"
+msgstr "Si"
+
+#: ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/Edit.cshtml
+msgid "No"
+msgstr "No"
+
+#: ~/Views/ProjectItemsOwnership/PermissionError.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/PermissionError.cshtml
+msgid "Permission Error"
+msgstr "Error en permisos"
+
+#: ~/Views/ProjectItemsOwnership/PermissionError.cshtml
+msgctxt ~/Views/ProjectItemsOwnership/PermissionError.cshtml
+msgid "You don't have permission to do this operation"
+msgstr "You don't have permission to do this operation"
+
+#: ~/Views/Search/Index.cshtml
+
+#. "Search"
+msgctxt ~/Views/Search/Index.cshtml
+msgid "Search"
+msgstr "Búsqueda"
+
+#: ~/Views/Search/Index.cshtml
+msgctxt ~/Views/Search/Index.cshtml
+msgid "[NO-TITLE]"
+msgstr "[NO-TITLE]"
+
+#: ~/Views/Search/Index.cshtml
+msgctxt ~/Views/Search/Index.cshtml
+msgid "Submit"
+msgstr "Enviar"
+
+#: ~/Views/Search/Index.cshtml
+
+#. "There is <em>one</em> result"
+msgctxt ~/Views/Search/Index.cshtml
+msgid "There is <em>one</em> result"
+msgstr "There is <em>one</em> result"
+
+#: ~/Views/Search/Index.cshtml
+msgctxt ~/Views/Search/Index.cshtml
+msgid "<em>zero</em> results"
+msgstr "<em>zero</em> results"
+
+#: ~/Views/Search/Index.cshtml
+msgctxt ~/Views/Search/Index.cshtml
+msgid "<em>{1} - {2}</em> of <em>{0}</em> results"
+msgstr "<em>{1} - {2}</em> of <em>{0}</em> results"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "User Detail"
+msgstr "Detalle de Usuario"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Full Name:"
+msgstr "Nombre completo:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Email:"
+msgstr "Email:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Skype Id:"
+msgstr "Skype Id:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Tel:"
+msgstr "Tel:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Mobile:"
+msgstr "Celular:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "User doesn't have any tag"
+msgstr "Usuario no tiene etiquetas"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Invite to Projects"
+msgstr "Participar en Unidad/Dirección"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Current Projects:"
+msgstr "Unidades/Direcciones:"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "User does not member of any project"
+msgstr "User does not member of any project"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Activity Stream"
+msgstr "Histórico de actividades"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "There is no activity so far"
+msgstr "There is no activity so far"
+
+#: ~/Views/User/Display.cshtml
+msgctxt ~/Views/User/Display.cshtml
+msgid "Are you sure you want to remove this element?"
+msgstr "Are you sure you want to remove this element?"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "User Detail"
+msgstr "Detalle de usuario"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Edit"
+msgstr "Editar"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Username:"
+msgstr "Nombre de usuario"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Full Name:"
+msgstr "Nombre completo:"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Email:"
+msgstr "Email:"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Skype Id:"
+msgstr "Skype Id:"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Tel:"
+msgstr "Tel:"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Mobile:"
+msgstr "Celular:"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Current Projects:"
+msgstr "Unidades/Direcciones actuales:"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "User does not member of any project"
+msgstr "User does not member of any project"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Invite to projects"
+msgstr "Invitar a Unidades/Direcciones"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "Invite"
+msgstr "Invitar"
+
+#: ~/Views/User/Invite.cshtml
+msgctxt ~/Views/User/Invite.cshtml
+msgid "There is no new project and user already has been invited to existing projects."
+msgstr "There is no new project and user already has been invited to existing projects."
+
+#: ~/Views/WikiItem/Create.cshtml
+msgctxt ~/Views/WikiItem/Create.cshtml
+msgid "New {0}"
+msgstr "Nuevo {0}"
+
+#: ~/Views/WikiItem/Create.cshtml
+msgctxt ~/Views/WikiItem/Create.cshtml
+msgid "Create Wiki Item"
+msgstr "Create Wiki Item"
+
+#: ~/Views/WikiItem/Edit.cshtml
+msgctxt ~/Views/WikiItem/Edit.cshtml
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: ~/Views/WikiItem/Edit.cshtml
+msgctxt ~/Views/WikiItem/Edit.cshtml
+msgid "Edit Wiki Item"
+msgstr "Edit Wiki Item"
+

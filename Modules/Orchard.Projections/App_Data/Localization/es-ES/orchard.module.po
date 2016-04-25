@@ -1,0 +1,2404 @@
+#. "Name"
+#: "~/Modules/Orchard.Projections/Module.txt"
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "Projector"
+msgstr "Proyector"
+
+#. "Author"
+#: "~/Modules/Orchard.Projections/Module.txt"
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "The Orchard Team"
+msgstr "El equipo de Orchard"
+
+#. "Website"
+#: "~/Modules/Orchard.Projections/Module.txt"
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "https://github.com/OrchardCMS/Orchard"
+msgstr ""
+
+#. "Description"
+#: "~/Modules/Orchard.Projections/Module.txt"
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "Provides methods to control how lists of content items are filtered and displayed"
+msgstr "Proporciona métodos para controlar cómo los elementos de contenido de las listas son filtrados y presentados"
+
+#. "Queries"
+msgctxt "Orchard.Projections.AdminMenu"
+msgid "Queries"
+msgstr "Consultas"
+
+#: "Orchard.Projections.AdminMenu"
+msgctxt "Orchard.Projections.AdminMenu"
+msgid "Bindings"
+msgstr "Bindings"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Creation date"
+msgstr "Fecha de creación"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "When the content item was created"
+msgstr "Cuando ha sido creado el content item"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Modification date"
+msgstr "Fecha de modificación"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "When the content item was modified"
+msgstr "Cuando ha sido modificado el content item"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Publication date"
+msgstr "Fecha de publicación"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "When the content item was published"
+msgstr "Cuando ha sido publicado el content item"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Title Part Title"
+msgstr "Título para Part Title"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "The title assigned using the Title part"
+msgstr "El título asignado en Title part"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Body Part Text"
+msgstr "Texto del Body Part"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "The text from the Body part"
+msgstr "El texto en el Body part"
+
+#: "Orchard.Projections.Controllers.AdminController"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Not authorized to list queries"
+msgstr "No estás autorizado para listar queries"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Not authorized to manage queries"
+msgstr "No estas autorizado para administrar queries"
+
+#: "Orchard.Projections.Controllers.AdminController"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Not authorized to edit queries"
+msgstr "No estás autorizado para editar queries"
+
+#: "Orchard.Projections.Controllers.AdminController"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Query {0} deleted"
+msgstr "Query {0} eliminada"
+
+#. "Not authorized to list bindings"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Not authorized to list bindings"
+msgstr "No autorizado para listar bindings"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Binding created successfully"
+msgstr "Binding creada satisfactoriamente"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "The record for this binding is no longer available, please remove it."
+msgstr "El registro (record) para este binding no va a estár disponible nunca más, por favor elimínalo."
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "The member for this binding is no longer available, please remove it."
+msgstr "El miembro para este binding no va a estár disponible nunca más, por favor elimínalo."
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Binding updated successfully"
+msgstr "Binding actualizada satisfactoriamente"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Not authorized to delete bindings"
+msgstr "No autorizado a eliminar bindings"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Binding deleted"
+msgstr "Binding eliminada"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.FilterController"
+msgid "Not authorized to manage queries"
+msgstr "No estas autorizado para administrar queries"
+
+#: "Orchard.Projections.Controllers.FilterController"
+msgctxt "Orchard.Projections.Controllers.FilterController"
+msgid "Filter deleted"
+msgstr "Filtro eliminado"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Not authorized to manage queries"
+msgstr "No estas autorizado para administrar queries"
+
+#: "Orchard.Projections.Controllers.LayoutController"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Layout deleted"
+msgstr "Layout eliminado"
+
+#: "Orchard.Projections.Controllers.LayoutController"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Layout Created"
+msgstr "Layout creado"
+
+#: "Orchard.Projections.Controllers.LayoutController"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Layout Saved"
+msgstr "Layout guardado"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.PropertyController"
+msgid "Not authorized to manage queries"
+msgstr "No estas autorizado para administrar queries"
+
+#: "Orchard.Projections.Controllers.PropertyController"
+msgctxt "Orchard.Projections.Controllers.PropertyController"
+msgid "Property deleted"
+msgstr "Propiedad eliminada"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.SortCriterionController"
+msgid "Not authorized to manage queries"
+msgstr "No estas autorizado para administrar queries"
+
+#: "Orchard.Projections.Controllers.SortCriterionController"
+msgctxt "Orchard.Projections.Controllers.SortCriterionController"
+msgid "Sort criteria deleted"
+msgstr "Criterio de orden eliminado"
+
+#: "Orchard.Projections.Drivers.ProjectionPartDriver"
+msgctxt "Orchard.Projections.Drivers.ProjectionPartDriver"
+msgid "Suffix should not contain special characters."
+msgstr "El sufijo no debe contener caracteres especiales."
+
+#: "Orchard.Projections.Drivers.QueryPartTitleDriver"
+msgctxt "Orchard.Projections.Drivers.QueryPartTitleDriver"
+msgid "A query with the same title already exists"
+msgstr "Ya existe una query con el mismo título (title)"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "Undefined"
+msgstr "Indefinido"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "Yes"
+msgstr "Si"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "No"
+msgstr "No"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "Enter the value the string should be."
+msgstr "Introduce el valor que debe tener la cadena de texto."
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "{0} is undefined"
+msgstr "{0} indefinido"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "{0} is true"
+msgstr "{0} es verdadero"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "{0} is false"
+msgstr "{0} es falso"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Operator"
+msgstr "Operador"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "A date"
+msgstr "Una fecha"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Please use this format: YYYY-MM-DD hh:mm:ss. e.g., 2010-04-12 would filter on the whole day. You can also use the Date token like this: {Date.Format:yyyy-MM-dd}"
+msgstr "Por favor, utiliza este formato: YYYY-MM-DD hh:mm:ss. ej. 2010-04-12 podría filtrar el día entero. También puedes utilizar el token Date así: {Date.Format:yyyy-MM-dd}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "An offset from the current time"
+msgstr "Un offset de la hora actual"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "You can provide time in the past by using negative values. e.g., -1 day"
+msgstr "Puedes asignar una fecha en el pasado pasando valores negativos, ej. -1 día"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Value"
+msgstr "Valor"
+
+#. "Unit"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Unit"
+msgstr "Unidad"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Min"
+msgstr "Mínimo"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Max"
+msgstr "Máximo"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is less than"
+msgstr "Es menor que"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is less than or equal to"
+msgstr "Es menor o igual a"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is equal to"
+msgstr "Es igual a"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is not equal to"
+msgstr "No es igual a"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is greater than or equal to"
+msgstr "Es mayor o igual a"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is greater than"
+msgstr "Es mayor que"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is between"
+msgstr "Está entre"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is not between"
+msgstr "No está entre"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Year"
+msgstr "Año"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Month"
+msgstr "Mes"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Day"
+msgstr "Día"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Hour"
+msgstr "Hora"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Minute"
+msgstr "Minuto"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Second"
+msgstr "Segundo"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is less than {1}{2}"
+msgstr "{0} es menor que {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is less or equal than {1}{2}"
+msgstr "{0} es menor o igual que {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} equals {1}{2}"
+msgstr "{0} igual a {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is not equal to {1}{2}"
+msgstr "{0} es distinto a {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is greater than {1}{2}"
+msgstr "{0} es mayor que {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is greater or equal than {1}{2}"
+msgstr "{0} es mayor o igual que {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is between {1}{2} and {3}{4}"
+msgstr "{0} está entre {1}{2} y {3}{4}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is not between {1}{2} and {3}{4}"
+msgstr "{0} no se encuentra entre {1}{2} y {3}{4}"
+
+#. "The field {0} is required."
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "The field {0} is required."
+msgstr "El campo {0} es obligatorio."
+
+#. "Min"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "Min"
+msgstr "Mínimo"
+
+#. "Max"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "Max"
+msgstr "Máximo"
+
+#. "Value"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "Value"
+msgstr "Valor"
+
+#. "The field {0} should contain a valid date (YYYY-MM-DD hh:mm:ss)"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "The field {0} should contain a valid date (YYYY-MM-DD hh:mm:ss)"
+msgstr "El campo {0} debe contener una fecha válida (YYYY-MM-DD hh:mm:ss)"
+
+#. "The field {0} must be a valid number."
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "The field {0} must be a valid number."
+msgstr "El campo {0} debe ser un número válido."
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Operator"
+msgstr "Operador"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Value"
+msgstr "Valor"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Min"
+msgstr "Mínimo"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Max"
+msgstr "Máximo"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is less than"
+msgstr "Es mejor que"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is less than or equal to"
+msgstr "Es menor o igual que"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is equal to"
+msgstr "Es igual a"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is not equal to"
+msgstr "Es distinto a"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is greater than or equal to"
+msgstr "Es mayor o igual que"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is greater than"
+msgstr "Es mayor que"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is between"
+msgstr "se encuentra entre"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is not between"
+msgstr "No se encuentra entre"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is less than {1}"
+msgstr "{0} es menor que {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is less or equal than {1}"
+msgstr "{0} es menor o igual que {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} equals {1}"
+msgstr "{0} igual a {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is not equal to {1}"
+msgstr "{0} es distinto a {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is greater than {1}"
+msgstr "{0} es mayor que {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is greater or equal than {1}"
+msgstr "{0} es mayor o igual que {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is between {1} and {2}"
+msgstr "{0} se encuentra entre {1} y {2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is not between {1} and {2}"
+msgstr "{0} no se encuentra entre {1} y {2}"
+
+#. "The field {0} is required."
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "The field {0} is required."
+msgstr "El campo {0} es obligatorio."
+
+#. "Min"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "Min"
+msgstr "Mínimo"
+
+#. "Max"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "Max"
+msgstr "Máximo"
+
+#. "Value"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "Value"
+msgstr "Valor"
+
+#. "The field {0} should contain a valid number"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "The field {0} should contain a valid number"
+msgstr "El campo {0} debe contener un número válido"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Operator"
+msgstr "Operador"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Value"
+msgstr "Valor"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Enter the value the string should be."
+msgstr "Introduce el valor que debe contener la cadena de texto."
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Is equal to"
+msgstr "Es igual a"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Is not equal to"
+msgstr "Es distinto a"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Contains"
+msgstr "Contiene"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Contains any word"
+msgstr "Contiene cualquier palabra"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Contains all words"
+msgstr "Contiene todas las palabras"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Starts with"
+msgstr "Comienza con"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Does not start with"
+msgstr "No comienza con"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Ends with"
+msgstr "Termina con"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Does not end with"
+msgstr "No termina con"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Does not contain"
+msgstr "No contiene"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} is equal to '{1}'"
+msgstr "{0} es igual a '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} is not equal to '{1}'"
+msgstr "{0} es distinto a '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} contains '{1}'"
+msgstr "{0} contiene '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} contains any of '{1}'"
+msgstr "{0} contiene cualquiera de '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} contains all '{1}'"
+msgstr "{0} contiene todos '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} starts with '{1}'"
+msgstr "{0} empieza con '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} does not start with '{1}'"
+msgstr "{0} no comienza con '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} ends with '{1}'"
+msgstr "{0} termina en '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} does not end with '{1}'"
+msgstr "{0} no termina en '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} does not contain '{1}'"
+msgstr "{0} no contiene '{1}'"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Short date pattern: 6/15/2009"
+msgstr "Patrón de fecha corta: 6/15/2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Long date pattern: Monday, June 15, 2009"
+msgstr "Patrón de fecha extendida: Monday, June 15, 2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Full date/time pattern (short time): Monday, June 15, 2009 1:45 PM"
+msgstr "Patrón de fecha completa (hora corta): Monday, June 15, 2009 1:45 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Full date/time pattern (long time): Monday, June 15, 2009 1:45:30 PM"
+msgstr "Patrón de fecha completa (hora extendida): Monday, June 15, 2009 1:45 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "General date/time pattern (short time): 6/15/2009 1:45 PM"
+msgstr "Patrón de fecha/hora general (hora corta): 6/15/2009 1:45 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "General date/time pattern (long time): 6/15/2009 1:45:30 PM"
+msgstr "Patrón de fecha/hora general (hora extendida): 6/15/2009 1:45:30 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Month/day pattern: June 15"
+msgstr "Patrón mes/día: Junio 15"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Round-trip date/time pattern: 2009-06-15T13:45:30.0900000"
+msgstr "Patrón de fecha/hora redondeado: 2009-06-15T13:45:30.0900000"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "RFC1123 pattern: Mon, 15 Jun 2009 20:45:30 GMT"
+msgstr "Patrón RFC1123: Mon, 15 Jun 2009 20:45:30 GMT"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Sortable date/time pattern: 2009-06-15T13:45:30"
+msgstr "Patrón ordenable de fecha universal: 2009-06-15 20:45:30Z"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Short time pattern: 1:45 PM"
+msgstr "Patrón de hora corta: 1:45 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Long time pattern: 1:45:30 PM"
+msgstr "Patrón hora extendida: 1:45:30 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Universal sortable date/time pattern: 2009-06-15 20:45:30Z"
+msgstr "Patrón ordenable de fecha universal: 2009-06-15 20:45:30Z"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Universal full date/time pattern:  Monday, June 15, 2009 8:45:30 PM"
+msgstr "Patrón completo de fecha universal: Monday, June 15, 2009 8:45:30 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Year month pattern: June, 2009"
+msgstr "Patrón año / mes: Junio, 2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Day: 15"
+msgstr "Día: 15"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Month: 6"
+msgstr "Mes: 6 (Month: 6)"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Year: 2009"
+msgstr "Año: 2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Day of year: 166"
+msgstr "Día del año: 166"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Relative time: 1 minute ago"
+msgstr "Tiempo relativo: 1 minute ago (hace un minuto)"
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Text to put before the number, such as currency symbol."
+msgstr "Texto para colocar antes del número, por ejemplo un símbolo de moneda."
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Suffix"
+msgstr "Sufijo"
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Text to put after the number, such as currency symbol."
+msgstr "Texto para colocar antes del número, por ejemplo un símbolo de moneda."
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "{0} Content Fields"
+msgstr "Content Fields {0}"
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "Content Fields for {0}"
+msgstr "Content Fields para {0}"
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "{0} property for {1}"
+msgstr "Propiedad {0} para {1}"
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "Field {0} {1} \"{2}\""
+msgstr "Campo {0} {1} \"{2}\""
+
+#: "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgctxt "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgid "Content part records"
+msgstr "Content Part Records"
+
+#: "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgctxt "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgid "Select some content part records."
+msgstr "Seleccionar algunos registros Content Part."
+
+#. "Content"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Content"
+msgstr "Contenido"
+
+#. "Content types"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Content Types"
+msgstr "Content types"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Specific content types"
+msgstr "Content types específicos"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Any content item"
+msgstr "Cualquier content item"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Content with type {0}"
+msgstr "Content con el tipo {0}"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Select some content types."
+msgstr "Selecciona algunos content types."
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Any"
+msgstr "Cualquiera"
+
+#. "Content"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Content"
+msgstr "Contenido"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Eager fetch"
+msgstr "Eager fetch"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Eager fetch content part records"
+msgstr "Eager fetch de registros Content Part"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "No content part record"
+msgstr "No hay registros Content Part"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Eager fetch part records {0}"
+msgstr "Eager fetch registros de Parts {0}"
+
+#: "Orchard.Projections.Providers.Filters.MemberBindingFilter"
+msgctxt "Orchard.Projections.Providers.Filters.MemberBindingFilter"
+msgid "Members for {0}"
+msgstr "Miembros de {0}"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Html"
+msgstr "Html"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Html Layouts"
+msgstr "Html Layouts"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Grid"
+msgstr "Grid"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Organizes content items in a grid."
+msgstr "Organiza content items en un grid."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "{0} columns grid"
+msgstr "{0} columnas del grid"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "{0} lines grid"
+msgstr "{0} líneas del grid"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Alignment"
+msgstr "Alineación (alignment)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Horizontal alignment will place items starting in the upper left and moving right."
+msgstr "Alignment horizontal colocará los elementos empezado en la esquina superior izquierda y los irá colocando a la derecha del elemento anterior."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Vertical"
+msgstr "Vertical"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Vertical alignment will place items starting in the upper left and moving down."
+msgstr "Alineación vetical colocará los elementos comenzado en la esquina superior izquierda y los irá colocando debajo."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Number of columns/lines "
+msgstr "Número de columnas/líneas"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "How many columns (in Horizontal mode) or lines (in Vertical mode) to display in the grid."
+msgstr "Cuántas columnas (en modo horizontal) o líneas (en modo vertical) se mostrarán en el grid."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Html properties"
+msgstr "Propiedades html"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Grid tag"
+msgstr "etiqueta Grid"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The tag of the grid. Leave empty for no tag. (e.g., table)"
+msgstr "La etiqueta del grid. Deja vacío para que no lleve ninguna etiqueta. (por ej. table)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Grid id"
+msgstr "Grid id"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The id to provide on the grid element."
+msgstr "El id que se proporciona en el elemento grid."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Grid class"
+msgstr "Clase css del grid"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The class to provide on the grid element."
+msgstr "La clase css para el elemento grid."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Row tag"
+msgstr "Etiqueta de fila"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The tag of a row. Leave empty for no tag. (e.g., tr)"
+msgstr "La etiqueta de una fila. Dejar vacío para que no lleve ninguna etiqueta (por ej. tr)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Row class"
+msgstr "La clase css para la fila"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The class to provide on each row."
+msgstr "La clase css para cada fila."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Cell tag"
+msgstr "Etiqueta celda"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The tag of a cell. Leave empty for no tag. (e.g., td)"
+msgstr "La etiqueta de una celda. Dejar vacío para que no lleve ninguna etiqueta (por ej. td)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Cell class"
+msgstr "Clase de celda"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The class to provide on each cell."
+msgstr "La clase para proporcionar en cada celda."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Empty Cell"
+msgstr "Celda vacía"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The HTML to render as empty cells to fill a row. (e.g., <td>&nbsp;</td>"
+msgstr "El código HTML para renderizar como celdas vacías para llenar una fila. (por ejemplo, <td>&nbsp;</td>)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The field Alignment is required."
+msgstr "El campo Alignment es obligatorio."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The field Columns/Lines is required."
+msgstr "El campo Conlumns/Lines es obligatorio."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The field Columns/Lines must be a valid number."
+msgstr "El campo Conlumns/Lines debe ser un número válido."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Html"
+msgstr "Html"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Html Layouts"
+msgstr "Html Layouts"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Html List"
+msgstr "Lista Html"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Organizes content items inside a simple list."
+msgstr "Organiza conent items dentro de una lista simple."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Ordered Html List"
+msgstr "Lista Html ordenada (ol)"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Unordered Html List"
+msgstr "Lista Html desorneada (ul)"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Order"
+msgstr "Orden"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Unordered list"
+msgstr "Lista desordenada (ul)"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Ordered list"
+msgstr "Lista ordenada (ol)"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Html properties"
+msgstr "Propiedades html"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "List id"
+msgstr "Id de la lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "The id to provide on the list element."
+msgstr "El id para el elemento lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "List class"
+msgstr "Clase css de la lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "The class to provide on the list element."
+msgstr "La clase css para el elemento lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Item class"
+msgstr "Clase css del elemento"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "The class to provide on each list item."
+msgstr "La clase css para cada elemento de la lista."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "You must provide an Order"
+msgstr "Debes proporcionar un orden"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Html"
+msgstr "Html"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Html Layouts"
+msgstr "Html Layouts"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Raw"
+msgstr "Vista limpia (Raw)"
+
+#. "Renders content with custom separators."
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Renders content with custom separators."
+msgstr "Renderiza el contenido con separadores personalizados."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Html properties"
+msgstr "Propiedades Html"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Container tag"
+msgstr "Etiqueta del contenedor"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The tag of the container. Leave empty for no container."
+msgstr "La etiqueta para el contenedor. Déjalo vacío para que no haya un contenedor."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Container id"
+msgstr "Id del contenedor"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The id to provide on the container element."
+msgstr "El id para proporcionar en el elemento contenedor."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Container class"
+msgstr "Clase css del contenedor"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The class to provide on the container element."
+msgstr "La clase css para el contenedor elemento."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Item tag"
+msgstr "Etiqueta del elemento"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The tag of each item. Leave empty for no tag."
+msgstr "La etiqueta para cada elemento. Déjalo vacío para no etiquetar."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Item class"
+msgstr "Clase css para el elemento"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The class to provide on each item."
+msgstr "La clase css para cada elemento."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Prepend"
+msgstr "Anteponer"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Some HTML to insert before the first element."
+msgstr "Código HTML para insertar antes del primer elemento."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Separator"
+msgstr "Separador"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Some HTML to insert between two items."
+msgstr "Código HTML para insertar entre los elementos."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Append"
+msgstr "Agregar"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Some HTML to insert after the last element."
+msgstr "Código HTML para insertar después del último elemento."
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Html"
+msgstr "Html"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Html Layouts"
+msgstr "Html Layouts"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Shape"
+msgstr "Shape"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Uses a specific shape name to render the layout."
+msgstr "Utiliza un nombre de shape específico para renderizar el layout."
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Renders content in a {0} layout"
+msgstr "Renderiza el contenido en un layout {0}"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgid "Shape options"
+msgstr "Las opciones del shape"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgid "Shape type"
+msgstr "el tipo del Shape (shape type)"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgid "The type of the shape which is used for rendering content items."
+msgstr "El tipo del shape que será utilizado para renderizar content items."
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "{0} Content Fields"
+msgstr "Content Fields {0}"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "Content Fields for {0}"
+msgstr "Content Fields para {0}"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "{0} property for {1}"
+msgstr "Propiedad {0} para {1}"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "Field {0}: {1}"
+msgstr "Campo {0}: {1}"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "Default value"
+msgstr "Valor por defecto"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Content"
+msgstr "Contenido"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Content properties"
+msgstr "Content propiedades"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Display Text"
+msgstr "Texto para mostrar"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "The text representing the content, e.g. its Title."
+msgstr "El texto que representa el contenido, ej. su Title."
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Content: Display Text"
+msgstr "Content: Texto para mostrar"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Content"
+msgstr "Contenido"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Content properties"
+msgstr "Content propiedades"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Custom Value"
+msgstr "Valor personalizado"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "A static text. Use it for custom tokens with Rewrite options."
+msgstr "Un texto estático. Úsalo para tokens personalizado con las opciones Rewrite."
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Content: Custom Value"
+msgstr "Content: valor personalizado"
+
+#: "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgctxt "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgid "Members for {0}"
+msgstr "Miembros de {0}"
+
+#: "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgctxt "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "{0} Content Fields"
+msgstr "Content Fields {0}"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "Content Fields for {0}"
+msgstr "Content Fields para {0}"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "{0} property for {1}"
+msgstr "Propiedad {0} para {1}"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "Ordered by field {0}, ascending"
+msgstr "Ordenado por el campo {0}, ascendente"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "Ordered by field {0}, descending"
+msgstr "Ordenado por el campo {0}, descendente"
+
+#: "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgctxt "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgid "Members for {0}"
+msgstr "Miembros de {0}"
+
+#: "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgctxt "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgid "Ordered by {0}, ascending"
+msgstr "Ordenado por {0}, ascendente"
+
+#: "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgctxt "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgid "Ordered by {0}, descending"
+msgstr "Ordenado por {0}, descendente"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "General"
+msgstr "General"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "General sort criteria"
+msgstr "Criterio de ordenación general"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "Random"
+msgstr "Aleatorio"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "Sorts the results randomly."
+msgstr "Ordenar los resultados aleatoriamente."
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "Random order"
+msgstr "Ordenación aleatoria"
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "Sort ascending"
+msgstr "Ordenar ascendente"
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "Sort descending"
+msgstr "Ordenar descendente"
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "The direction the field will be sorted by."
+msgstr "La dirección por la que va a ser ordenada el campo."
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "The Sort field is required."
+msgstr "El campo de ordenación es obligatorio."
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Edit Query - {0}"
+msgstr "Editar consulta - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Filters"
+msgstr "Filtros"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Add a new Group"
+msgstr "Agregar un nuevo grupo"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Or"
+msgstr "O"
+
+#. "Description"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "+ Add a new Filter"
+msgstr "+ Agregar un nuevo filtro"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Delete group"
+msgstr "Eliminar grupo"
+
+#. "Edit"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Sort Criteria"
+msgstr "Criterio de orden"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "+ Add a new Sort Criteria"
+msgstr "+ Agregar un nuevo criterio de orden"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Up"
+msgstr "Arriba"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Down"
+msgstr "Abajo"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Layouts"
+msgstr "Layouts"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "+ Add a new Layout"
+msgstr "+ Agregar un nuevo Layout"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Add a new Layout"
+msgstr "Agregar un nuevo Layout"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Preview"
+msgstr "Previsualización"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Close"
+msgstr "Cerrar"
+
+#. "Manage Queries"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Manage Queries"
+msgstr "Administrar consultas"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Add a new Query"
+msgstr "Agregar una nueva consulta"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Select all"
+msgstr ""
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr ""
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Acciones:"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Elegir acción..."
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Aplicar"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+#. "Name"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr "Todo"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "Filtro"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Properties"
+msgstr "Propiedades"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Preview"
+msgstr "Previsualización"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgid "Manage Queries"
+msgstr "Administrar consultas"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgid "The query returned no results"
+msgstr "La consulta no devolvió resultados"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Binding"
+msgstr "Binding"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Content Part Record"
+msgstr "Content part record"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "The content part to add to the providers."
+msgstr "El content part a agregar a los proveedores."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Member"
+msgstr "Miembro"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "The name of the member."
+msgstr "El nombre del miembro."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Display"
+msgstr "Visualización"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Text to display in lists for this property."
+msgstr "Texto a mostrar en el listado para ésta propiedad."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Description to display in lists for this property."
+msgstr "Descripción a mostrar en el listado para ésta propiedad."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Save"
+msgstr "Guardar"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Manage Bindings"
+msgstr "Administrar Bindings"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Add a new Binding"
+msgstr "Agregar un nuevo Binding"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Actions:"
+msgstr "Acciones:"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Choose action..."
+msgstr "Elegir acción..."
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Apply"
+msgstr "Aplicar"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "All"
+msgstr "Todo"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Filter"
+msgstr "Filtro"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Type"
+msgstr "Tipo"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Member"
+msgstr "Miembro"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Display"
+msgstr "Visualización"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgid "Add a Binding"
+msgstr "Agregar un Binding"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgid "There are no currently available bindings"
+msgstr "Actualmente no hay bindings disponibles"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "For Query"
+msgstr "Para la consulta"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "Edit Query"
+msgstr "Editar consultas"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "The query to use to create menu items."
+msgstr "La consulta a usar para crear elementos de menu."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "Items to display"
+msgstr "Elementos a mostrar"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "The number of items to display. Enter 0 for no limit."
+msgstr "Cantidad de elementos a mostrar. Ingrese 0 para sin límite."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "Offset"
+msgstr "Offset"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "The number of items to skip (e.g., if 2 is entered, the first 2 items won't be diplayed)."
+msgstr "La cantidad de items a saltar ( por ejemplo, si se ingresa 2 los primeros dos elementos no se visualizarán)"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "For Query"
+msgstr "Para la consulta"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "(Default Layout)"
+msgstr "(Layout por defecto)"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "({0})"
+msgstr "({0})"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Edit Query"
+msgstr "Editar consulta"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "The query to display."
+msgstr "La consulta a visualizar."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Items to display"
+msgstr "Elementos a visualizar"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "The number of items to display. Enter 0 for no limit. When using pagination, this is the number of items per page."
+msgstr "La cantidad de elementos a mostrar. Introduce 0 para no limitar. Cuando se usa paginación éste es el número de elementos por página."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Offset"
+msgstr "Offset"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "The number of items to skip (e.g., if 2 is entered, the first 2 items won't be diplayed)."
+msgstr "Cantidad de elementos a saltar (Ej. Si introduces 2 los primeros dos elementos no se mostrarán)"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Maximum items"
+msgstr "Elementos máximos"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Maximum number of items which can be queried at once. Use 0 for unlimited. This is only used as a failsafe when the number of items comes from a user-provided source such as the query string."
+msgstr "Cantidad máxima de elementos que pueden ser consultados a la vez. Usar 0 para no limitar. Ésto es usado a modo de prueba de fallos cuando la cantidad de elementos vienen dados por datos provistos por el usuario como puede ser el query string."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Suffix"
+msgstr "Sufijo"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Optional. Provide a suffix to use when multiple pagers are displayed on the same page, e.g., when using multiple Projection Widgets, or to define alternates."
+msgstr "Opcional. Agregar un sufijo cuando haya multiples paginadores visualizados en la misma página. Por ejemplo cuando se utilizan multiples Widgets de Projection, o para definir alternativas."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Show pager"
+msgstr "Mostrar paginador"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Check to add a pager to the list."
+msgstr "Tener en cuenta agregar un paginar a la lista."
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "Add a Filter"
+msgstr "Añadir un filtro"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "There are no currently available filters"
+msgstr "Actualmente no hay filtros disponibles"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "Edit Filter - {0}"
+msgstr "Editar Filtro - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "You may optionally give a description to this filter, to be used in the dashboard screens."
+msgstr "Opcionalmente puedes dar una descripción para este filtro, será usada en las vistas de dashboard."
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "Save"
+msgstr "Guardar"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "Add a Layout"
+msgstr "Agregar un layout"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "There are no currently available layouts"
+msgstr "Actualmente no hay disponible ningún layout"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Edit Layout - {0}"
+msgstr "Editar layout - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Description"
+msgstr "Descripción "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgstr "Opcionalmente puedes dar una descripción para este layout, será usada en las vistas de dashboard."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Display mode"
+msgstr "Modo de visualización "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Content"
+msgstr "Contenido "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Properties"
+msgstr "Propiedades"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "You can choose to display each content item using specific properties only."
+msgstr "Puedes optar por mostrar cada elemento de contenido utilizando sólo las propiedades específicas."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Display Type"
+msgstr "Tipo de visualización "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "The display type determines how the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgstr "El tipo de visualización determina como será formateado el elemento de contenido. Ej. Summary, SummaryAdmin, Detail, etc."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "You can only add properties when this layout is saved."
+msgstr "Sólo puedes agregar propiedades cuando el layout esté guardado"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Save"
+msgstr "Guardar"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Edit Layout - {0}"
+msgstr "Editar layout - {0}"
+
+#. "Description"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Description"
+msgstr "Descripción "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgstr "Opcionalmente puedes dar una descripción para este layout, será usada en las vistas de dashboard."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Display mode"
+msgstr "Modo de visualización "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Content"
+msgstr "Contenido"
+
+#. "Properties"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Properties"
+msgstr "Propiedades"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "You can choose to display each content item using specific properties only."
+msgstr "Puedes elegir mostrar cada content item usando únicamente las propiedades especificadas."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Display Type"
+msgstr "Tipo de visualización "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "The display type determines how the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgstr "El tipo de vista (display type) determina cómo el content item debe formatearse, ej. Summary, SummaryAdmin, Detail, ..."
+
+#. "Add a new Property"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Add a new Property"
+msgstr "Agregar nueva propiedad"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Up"
+msgstr "Arriba"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Down"
+msgstr "Abajo"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Grouping property"
+msgstr "Propiedad de agrupación "
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "None"
+msgstr "Ninguno"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Optionally, select a property which will be used to group content items."
+msgstr "Opcionalmente, selecciona una propiedad que será usada para agrupar content items."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "No properties are currently available in order to group this view."
+msgstr "Actualmente no hay propiedades disponibles para agrupar ésta vista."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Save"
+msgstr "Guardar"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Close"
+msgstr "Cerrar"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "Add a Property"
+msgstr "Agregar una propiedad"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "There are no currently available properties"
+msgstr "Actualmente no hay propiedades disponibles"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Edit Property - {0}"
+msgstr "Editar propiedad - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "You may optionally give a description to this property, to be used in the dashboard screens."
+msgstr "Opcionalmente puedes dar una descripción para esta propiedad, será usada en las vistas de dashboard."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Display"
+msgstr "Visualización"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Link to original content item"
+msgstr "Enlace al content item original"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to make this property a link to the original content item."
+msgstr "Marca para hacer que esta propiedad enlace al content item original."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Exclude from display"
+msgstr "Excluir de la vista"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check if this property should not be displayed, but only used by the layout for grouping for instance."
+msgstr "Marca si esta propiedad no debe mostrarse, pero únicamente se usará por el layout que agrupe la instancia"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Label"
+msgstr "Etiqueta"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Create a label"
+msgstr "Crear una etiqueta"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The text to display as a label for this property."
+msgstr "Texto para mostrar como etiqueta para esta propiedad."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Style"
+msgstr "Estilo"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Customize property HTML"
+msgstr "Personaliza una propiedad HTML"
+
+#. "HTML element"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "HTML element"
+msgstr "Elemento HTML"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The HTML element to wrap around this property (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "El elemento HTML para envolver (wrap) esta propiedad (ej, h1, p, etc) Usa - para evitar que la etiqueta sea renderizada"
+
+#. "Css class"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Css class"
+msgstr "Clase css"
+
+#. "The Css class to apply to this element."
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The Css class to apply to this element."
+msgstr "La clase css para aplicar a este elemento"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Customize label HTML"
+msgstr "Personaliza un label HTML"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The HTML element to wrap around this label (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "El elemento HTML para envolver (wrap) esta etiqueta (ej, h1, p, etc) Usa - para evitar que la etiqueta sea renderizada"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Customize Wrapper HTML"
+msgstr "Personaliza un wrapper HTML"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The HTML element to wrap around this wrapper (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "El elemento HTML para envolver (wrap) este wrapper (ej, h1, p, etc) Usa - para evitar que la etiqueta sea renderizada"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "No Results"
+msgstr "No hay resultados"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "No results text"
+msgstr "No hay resultados de texto"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Text to display when the property is empty."
+msgstr "Texto para mostrar cuando la propiedad esté vacía."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Number 0 as empty"
+msgstr "El número 0 como valor vacío"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to simulate empty text when result is the number 0"
+msgstr "Marca para simular texto vacía cuando el resultado da 0"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Hide if empty"
+msgstr "Ocultar si está vacio"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to hide the whole property when the value is empty."
+msgstr "Marca para ocultar toda la propiedad cuando su valor esté vacío."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Rewrite Results"
+msgstr "Reescribir resultados"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Rewrite output"
+msgstr "Reescribir output"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to override the output of this property."
+msgstr "Marca para sobreescribir el output de esta propiedad."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Rewrite text"
+msgstr "Reescribir texto"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The text to write for this field. It may include HTML. {Text} can be used to inject the current property text."
+msgstr "El texto para escribir este campo. Debe incluir HTML. Puedes usar {Text} para inyectar el texto de la propiedad actual."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Trim"
+msgstr "Limpiar espacios en blanco al principio y al final."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to trim the result if it's longer that a specified amount of characters."
+msgstr "Marca para limpiar los espacios en el resultado si la cantidad de caracteres supera la establecida."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Maximum length"
+msgstr "Longitud máxima"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The maximum number of characters this property can be."
+msgstr "El número máximo de caracteres que puede tener esta propiedad."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Trim only on a word boundary"
+msgstr "Limpiar espacios solo al superar el máximo de caracteres."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Checked to trim the property only on a word boundary."
+msgstr "Marca para limpiar los espacios de la propiedad sólo cuando supere el número máximo de palabras."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Add an Ellipsis"
+msgstr "Añade una elipsis"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to insert and ellipsis ({0}) if the property is trimmed."
+msgstr "Marca para insertar una elipsis ({0}) si la propiedad está trimmed."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Strip HTML tags"
+msgstr "Despojar de etiquetas HTML"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to remove any HTML tag from the property."
+msgstr "Marca para eliminar cualquier etiqueta HTML de la propiedad."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Remove whitespace"
+msgstr "Eliminar espacios en blanco"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to remove the spaces at both the beginning and the end of the property."
+msgstr "Marca para eliminar los espacios tanto al inicio como al final de la propiedad."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Preserve new lines"
+msgstr "Mantener líneas nuevas"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to convert a line break to a &lt;br /&gt; tag."
+msgstr "Marcar para convertir un salto de línea a una etiqueta  &lt;br /&gt; ."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Save"
+msgstr "Guardar"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "Add a Sort Criterion"
+msgstr "Añade un criterio para ordenar"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "There are no currently available sort criterias"
+msgstr "Actualmente no hay criterios para ordenar"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "Edit Sort Criterion - {0}"
+msgstr "Editar criterio para ordenar - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "You may optionally give a description to this sort criterion, to be used in the dashboard screens."
+msgstr "Opcionalmente puedes dar una descripción para este criterio de ordenación, será usada en las vistas de dashboard."
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "Save"
+msgstr "Guardar"
+

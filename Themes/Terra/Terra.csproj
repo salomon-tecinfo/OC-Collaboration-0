@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+	<PropertyGroup>
+    	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    	<ProductVersion>9.0.30729</ProductVersion>
+    	<SchemaVersion>2.0</SchemaVersion>
+    	<ProjectGuid>{C5DE6B5D-9DF1-484F-9CD7-CBCB7F6C838B}</ProjectGuid>
+    	<ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    	<OutputType>Library</OutputType>
+    	<AppDesignerFolder>Properties</AppDesignerFolder>
+    	<RootNamespace>Terra</RootNamespace>
+    	<AssemblyName>Terra</AssemblyName>
+    	<TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    	<MvcBuildViews>false</MvcBuildViews>
+    	<FileUpgradeFlags>
+    	</FileUpgradeFlags>
+    	<OldToolsVersion>4.0</OldToolsVersion>
+    	<UpgradeBackupLocation />
+    	<TargetFrameworkProfile />
+		<IISExpressSSLPort />
+    	<IISExpressAnonymousAuthentication />
+    	<IISExpressWindowsAuthentication />
+    	<IISExpressUseClassicPipelineMode />
+  	</PropertyGroup>
+  	<ItemGroup>
+		<Content Include="Content\Images\flags\af-ZA.gif" />
+		<Content Include="Content\Images\flags\ar-AE.gif" />
+		<Content Include="Content\Images\flags\ar-az-cyrl.gif" />
+		<Content Include="Content\Images\flags\ar-az-latn.gif" />
+		<Content Include="Content\Images\flags\ar-BH.gif" />
+		<Content Include="Content\Images\flags\ar-DZ.gif" />
+		<Content Include="Content\Images\flags\ar-EG.gif" />
+		<Content Include="Content\Images\flags\ar-IQ.gif" />
+		<Content Include="Content\Images\flags\ar-JO.gif" />
+		<Content Include="Content\Images\flags\ar-KW.gif" />
+		<Content Include="Content\Images\flags\ar-LB.gif" />
+		<Content Include="Content\Images\flags\ar-LY.gif" />
+		<Content Include="Content\Images\flags\ar-MA.gif" />
+		<Content Include="Content\Images\flags\ar-OM.gif" />
+		<Content Include="Content\Images\flags\ar-QA.gif" />
+		<Content Include="Content\Images\flags\ar-SA.gif" />
+		<Content Include="Content\Images\flags\ar-SY.gif" />
+		<Content Include="Content\Images\flags\ar-TN.gif" />
+		<Content Include="Content\Images\flags\ar-YE.gif" />
+		<Content Include="Content\Images\flags\arn-CL.gif" />
+		<Content Include="Content\Images\flags\as-IN.gif" />
+		<Content Include="Content\Images\flags\az-AZ-Cyrl.gif" />
+		<Content Include="Content\Images\flags\az-AZ-Latn.gif" />
+		<Content Include="Content\Images\flags\az-Cyrl-AZ.gif" />
+		<Content Include="Content\Images\flags\az-Latn-AZ.gif" />
+		<Content Include="Content\Images\flags\ba-RU.gif" />
+		<Content Include="Content\Images\flags\be-BY.gif" />
+		<Content Include="Content\Images\flags\bg-BG.gif" />
+		<Content Include="Content\Images\flags\bn-IN.gif" />
+		<Content Include="Content\Images\flags\bo-CN.gif" />
+		<Content Include="Content\Images\flags\br-FR.gif" />
+		<Content Include="Content\Images\flags\ca-ES.gif" />
+		<Content Include="Content\Images\flags\co-FR.gif" />
+		<Content Include="Content\Images\flags\cs-CZ.gif" />
+		<Content Include="Content\Images\flags\cy-GB.gif" />
+		<Content Include="Content\Images\flags\da-DK.gif" />
+		<Content Include="Content\Images\flags\de-AT.gif" />
+		<Content Include="Content\Images\flags\de-CH.gif" />
+		<Content Include="Content\Images\flags\de-DE.gif" />
+		<Content Include="Content\Images\flags\de-LI.gif" />
+		<Content Include="Content\Images\flags\de-LU.gif" />
+		<Content Include="Content\Images\flags\div-MV.gif" />
+		<Content Include="Content\Images\flags\dsb-DE.gif" />
+		<Content Include="Content\Images\flags\dv-MV.gif" />
+		<Content Include="Content\Images\flags\el-GR.gif" />
+		<Content Include="Content\Images\flags\en-AU.gif" />
+		<Content Include="Content\Images\flags\en-BZ.gif" />
+		<Content Include="Content\Images\flags\en-CA.gif" />
+		<Content Include="Content\Images\flags\en-CB.gif" />
+		<Content Include="Content\Images\flags\en-GB.gif" />
+		<Content Include="Content\Images\flags\en-IE.gif" />
+		<Content Include="Content\Images\flags\en-IN.gif" />
+		<Content Include="Content\Images\flags\en-JM.gif" />
+		<Content Include="Content\Images\flags\en-MY.gif" />
+		<Content Include="Content\Images\flags\en-NZ.gif" />
+		<Content Include="Content\Images\flags\en-PH.gif" />
+		<Content Include="Content\Images\flags\en-TT.gif" />
+		<Content Include="Content\Images\flags\en-US.gif" />
+		<Content Include="Content\Images\flags\en-ZA.gif" />
+		<Content Include="Content\Images\flags\en-ZW.gif" />
+		<Content Include="Content\Images\flags\es-AR.gif" />
+		<Content Include="Content\Images\flags\es-BO.gif" />
+		<Content Include="Content\Images\flags\es-CL.gif" />
+		<Content Include="Content\Images\flags\es-CO.gif" />
+		<Content Include="Content\Images\flags\es-CR.gif" />
+		<Content Include="Content\Images\flags\es-DO.gif" />
+		<Content Include="Content\Images\flags\es-EC.gif" />
+		<Content Include="Content\Images\flags\es-ES.gif" />
+		<Content Include="Content\Images\flags\es-GT.gif" />
+		<Content Include="Content\Images\flags\es-HN.gif" />
+		<Content Include="Content\Images\flags\es-MX.gif" />
+		<Content Include="Content\Images\flags\es-NI.gif" />
+		<Content Include="Content\Images\flags\es-PA.gif" />
+		<Content Include="Content\Images\flags\es-PE.gif" />
+		<Content Include="Content\Images\flags\es-PR.gif" />
+		<Content Include="Content\Images\flags\es-PY.gif" />
+		<Content Include="Content\Images\flags\es-SV.gif" />
+		<Content Include="Content\Images\flags\es-US.gif" />
+		<Content Include="Content\Images\flags\es-UY.gif" />
+		<Content Include="Content\Images\flags\es-VE.gif" />
+		<Content Include="Content\Images\flags\et-EE.gif" />
+		<Content Include="Content\Images\flags\eu-ES.gif" />
+		<Content Include="Content\Images\flags\fa-IR.gif" />
+		<Content Include="Content\Images\flags\fi-FI.gif" />
+		<Content Include="Content\Images\flags\fo-FO.gif" />
+		<Content Include="Content\Images\flags\fr-BE.gif" />
+		<Content Include="Content\Images\flags\fr-CA.gif" />
+		<Content Include="Content\Images\flags\fr-CH.gif" />
+		<Content Include="Content\Images\flags\fr-FR.gif" />
+		<Content Include="Content\Images\flags\fr-LU.gif" />
+		<Content Include="Content\Images\flags\fr-MC.gif" />
+		<Content Include="Content\Images\flags\fy-NL.gif" />
+		<Content Include="Content\Images\flags\ga-IE.gif" />
+		<Content Include="Content\Images\flags\gd-GB.gif" />
+		<Content Include="Content\Images\flags\gl-ES.gif" />
+		<Content Include="Content\Images\flags\gsw-FR.gif" />
+		<Content Include="Content\Images\flags\gu-IN.gif" />
+		<Content Include="Content\Images\flags\he-IL.gif" />
+		<Content Include="Content\Images\flags\hi-IN.gif" />
+		<Content Include="Content\Images\flags\hr-HR.gif" />
+		<Content Include="Content\Images\flags\hsb-DE.gif" />
+		<Content Include="Content\Images\flags\hu-HU.gif" />
+		<Content Include="Content\Images\flags\hy-AM.gif" />
+		<Content Include="Content\Images\flags\id-ID.gif" />
+		<Content Include="Content\Images\flags\ii-CN.gif" />
+		<Content Include="Content\Images\flags\is-IS.gif" />
+		<Content Include="Content\Images\flags\it-CH.gif" />
+		<Content Include="Content\Images\flags\it-IT.gif" />
+		<Content Include="Content\Images\flags\iu-Cans-CA.gif" />
+		<Content Include="Content\Images\flags\iu-Latn-CA.gif" />
+		<Content Include="Content\Images\flags\ja-JP.gif" />
+		<Content Include="Content\Images\flags\ka-GE.gif" />
+		<Content Include="Content\Images\flags\kk-KZ.gif" />
+		<Content Include="Content\Images\flags\kn-IN.gif" />
+		<Content Include="Content\Images\flags\ko-KR.gif" />
+		<Content Include="Content\Images\flags\kok-IN.gif" />
+		<Content Include="Content\Images\flags\ky-KG.gif" />
+		<Content Include="Content\Images\flags\lb-LU.gif" />
+		<Content Include="Content\Images\flags\lt-LT.gif" />
+		<Content Include="Content\Images\flags\lv-LV.gif" />
+		<Content Include="Content\Images\flags\mi-NZ.gif" />
+		<Content Include="Content\Images\flags\mk-MK.gif" />
+		<Content Include="Content\Images\flags\ml-IN.gif" />
+		<Content Include="Content\Images\flags\mn-MN.gif" />
+		<Content Include="Content\Images\flags\mn-Mong-CN.gif" />
+		<Content Include="Content\Images\flags\moh-CA.gif" />
+		<Content Include="Content\Images\flags\mr-IN.gif" />
+		<Content Include="Content\Images\flags\ms-BN.gif" />
+		<Content Include="Content\Images\flags\ms-MY.gif" />
+		<Content Include="Content\Images\flags\nb-NO.gif" />
+		<Content Include="Content\Images\flags\nl-BE.gif" />
+		<Content Include="Content\Images\flags\nl-NL.gif" />
+		<Content Include="Content\Images\flags\nn-NO.gif" />
+		<Content Include="Content\Images\flags\nso-ZA.gif" />
+		<Content Include="Content\Images\flags\oc-FR.gif" />
+		<Content Include="Content\Images\flags\or-IN.gif" />
+		<Content Include="Content\Images\flags\pa-IN.gif" />
+		<Content Include="Content\Images\flags\pl-PL.gif" />
+		<Content Include="Content\Images\flags\pt-BR.gif" />
+		<Content Include="Content\Images\flags\pt-PT.gif" />
+		<Content Include="Content\Images\flags\quz-BO.gif" />
+		<Content Include="Content\Images\flags\quz-EC.gif" />
+		<Content Include="Content\Images\flags\quz-PE.gif" />
+		<Content Include="Content\Images\flags\rm-CH.gif" />
+		<Content Include="Content\Images\flags\ro-RO.gif" />
+		<Content Include="Content\Images\flags\ru-RU.gif" />
+		<Content Include="Content\Images\flags\sa-IN.gif" />
+		<Content Include="Content\Images\flags\sah-RU.gif" />
+		<Content Include="Content\Images\flags\se-FI.gif" />
+		<Content Include="Content\Images\flags\se-NO.gif" />
+		<Content Include="Content\Images\flags\se-SE.gif" />
+		<Content Include="Content\Images\flags\sk-SK.gif" />
+		<Content Include="Content\Images\flags\sl-SI.gif" />
+		<Content Include="Content\Images\flags\sma-NO.gif" />
+		<Content Include="Content\Images\flags\sma-SE.gif" />
+		<Content Include="Content\Images\flags\smj-NO.gif" />
+		<Content Include="Content\Images\flags\smj-SE.gif" />
+		<Content Include="Content\Images\flags\smn-FI.gif" />
+		<Content Include="Content\Images\flags\sms-FI.gif" />
+		<Content Include="Content\Images\flags\sq-AL.gif" />
+		<Content Include="Content\Images\flags\sv-FI.gif" />
+		<Content Include="Content\Images\flags\sv-SE.gif" />
+		<Content Include="Content\Images\flags\sw-KE.gif" />
+		<Content Include="Content\Images\flags\syr-SY.gif" />
+		<Content Include="Content\Images\flags\ta-IN.gif" />
+		<Content Include="Content\Images\flags\te-IN.gif" />
+		<Content Include="Content\Images\flags\th-TH.gif" />
+		<Content Include="Content\Images\flags\tn-ZA.gif" />
+		<Content Include="Content\Images\flags\tr-TR.gif" />
+		<Content Include="Content\Images\flags\tt-RU.gif" />
+		<Content Include="Content\Images\flags\tzm-Latn-DZ.gif" />
+		<Content Include="Content\Images\flags\ug-CN.gif" />
+		<Content Include="Content\Images\flags\uk-UA.gif" />
+		<Content Include="Content\Images\flags\ur-PK.gif" />
+		<Content Include="Content\Images\flags\uz-Cyrl-UZ.gif" />
+		<Content Include="Content\Images\flags\uz-Latn-UZ.gif" />
+		<Content Include="Content\Images\flags\uz-UZ-Cyrl.gif" />
+		<Content Include="Content\Images\flags\uz-UZ-Latn.gif" />
+		<Content Include="Content\Images\flags\vi-VN.gif" />
+		<Content Include="Content\Images\flags\xh-ZA.gif" />
+		<Content Include="Content\Images\flags\zh-CHS.gif" />
+		<Content Include="Content\Images\flags\zh-CHT.gif" />
+		<Content Include="Content\Images\flags\zh-CN.gif" />
+		<Content Include="Content\Images\flags\zh-HK.gif" />
+		<Content Include="Content\Images\flags\zh-MO.gif" />
+		<Content Include="Content\Images\flags\zh-SG.gif" />
+		<Content Include="Content\Images\flags\zh-TW.gif" />
+		<Content Include="Content\Images\flags\zu-ZA.gif" />
+		<Content Include="Content\Images\accordion-plus-white.png" />
+		<Content Include="Content\Images\accordion-plus.png" />
+		<Content Include="Content\Images\arrow-submenu.png" />
+		<Content Include="Content\Images\bg.transp.tile-wavecut.png" />
+		<Content Include="Content\Images\cart.png" />
+		<Content Include="Content\Images\header-aux.png" />
+		<Content Include="Content\Images\logo.png" />
+		<Content Include="Content\Images\search.gif" />
+		<Content Include="Content\Images\search.png" />
+		<Content Include="Content\Web.config" />
+		<Content Include="Filters\LayoutFilter.cs" />
+		<Content Include="js\BindMENU.js" />
+		<Content Include="js\bootstrap.min.js" />
+		<Content Include="js\fix-responsive-WP8.js" />
+		<Content Include="js\fix-search-ie8.js" />
+		<Content Include="js\html5shiv.min.js" />
+		<Content Include="js\initilizations.js" />
+		<Content Include="js\jquery.min.js" />
+		<Content Include="js\jquery.nivo.slider.pack.js" />
+		<Content Include="js\respond.min.js" />
+		<Content Include="js\Web.config" />
+		<Content Include="Styles\css\font-awesome.min.css" />
+		<Content Include="Styles\css\mobile-megamenu.css" />
+		<Content Include="Styles\css\mobile-select.css" />
+		<Content Include="Styles\css\mobile-toggle.css" />
+		<Content Include="Styles\fonts\fontawesome-webfont.eot" />
+		<Content Include="Styles\fonts\fontawesome-webfont.svg" />
+		<Content Include="Styles\fonts\fontawesome-webfont.ttf" />
+		<Content Include="Styles\fonts\fontawesome-webfont.woff" />
+		<Content Include="Styles\fonts\fontawesome-webfont.woff2" />
+		<Content Include="Styles\fonts\FontAwesome.otf" />
+		<Content Include="Styles\C00_Clean.html" />
+		<Content Include="Styles\C00_CleanWPadding.html" />
+		<Content Include="Styles\C01.html" />
+		<Content Include="Styles\C02.html" />
+		<Content Include="Styles\C03.html" />
+		<Content Include="Styles\C04.html" />
+		<Content Include="Styles\site.css" />
+		<Content Include="Styles\site.uncompressed.css" />
+		<Content Include="Styles\Web.config" />
+		<Content Include="Views\Parts\Product.cshtml" />
+		<Content Include="Views\Layout-HomePage.cshtml" />
+		<Content Include="Views\Layout-Home_Boxed.cshtml" />
+		<Content Include="Views\Layout-Home_Boxed_Sidebar.cshtml" />
+		<Content Include="Views\Layout-Inner.cshtml" />
+		<Content Include="Views\Layout-Inner_Boxed.cshtml" />
+		<Content Include="Views\Layout-Inner_Boxed_Sidebar.cshtml" />
+		<Content Include="Views\Layout-Inner_Sidebar.cshtml" />
+		<Content Include="Views\Layout.cshtml" />
+		<Content Include="Views\LogOn2.cshtml" />
+		<Content Include="Views\Widget.Wrapper.cshtml" />
+		<Content Include="Instructions.txt" />
+		<Content Include="Placement.info" />
+		<Content Include="Theme.png" />
+		<Content Include="Theme.txt" />
+		<Content Include="ThemeZonePreview.png" />
+	</ItemGroup>
+</Project>

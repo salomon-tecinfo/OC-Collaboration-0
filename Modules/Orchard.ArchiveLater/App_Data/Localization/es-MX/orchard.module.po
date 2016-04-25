@@ -1,0 +1,59 @@
+#. "Name"
+#: "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "Archive Later"
+msgstr "Archivar Después"
+
+#. "Author"
+#: "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "The Orchard Team"
+msgstr "El Equipo Orchard"
+
+#. "Website"
+#: "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "The ArchiveLater module introduces scheduled archiving functionality."
+msgstr "El módulo ArchivarDespués introduce funcionalidad de archivado programado."
+
+#: "Orchard.ArchiveLater.Drivers.ArchiveLaterPartDriver"
+msgctxt "Orchard.ArchiveLater.Drivers.ArchiveLaterPartDriver"
+msgid "'{0} {1}' could not be parsed as a valid date and time."
+msgstr "'{0} {1}' no se pudo analizar como una fecha y hora válidas."
+
+#: "Orchard.ArchiveLater.Services.ArchiveLaterService"
+msgctxt "Orchard.ArchiveLater.Services.ArchiveLaterService"
+msgid "Couldn't archive selected content."
+msgstr "No se pudo archivar el contenido seleccionado"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Archive Settings"
+msgstr "Archivar Propiedades de Configuración"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Archive Later"
+msgstr "Archivar Después"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "Scheduled"
+msgstr "Programado"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is scheduled for archiving"
+msgstr "Esta página esta programada para archivar"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "Unpublish on"
+msgstr "Publicación suprimida el"
+

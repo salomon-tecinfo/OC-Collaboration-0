@@ -1,0 +1,28 @@
+
+<div class="C02 container-box">
+	<div class="TL">
+		<div class="TR">
+			<div class="TM">
+	<span class="CTitle">	
+		@if ((HasText(title) && renderTitle) || Model.Header != null) {
+			if (HasText(title) && renderTitle) {@title}
+			@Display(Model.Header)
+		}
+	</span>
+	</div>
+		</div>
+	</div>
+	<div class="ML">
+		<div class="MR">
+			<div class="MM">	
+		@Display(Model.Child)
+		@if(Model.Footer != null) {@Display(Model.Footer)}
+	</div>
+		</div>
+	</div>
+	<div class="BL">
+		<div class="BR">
+			<div class="BM"></div>
+		</div>
+	</div>
+</div>

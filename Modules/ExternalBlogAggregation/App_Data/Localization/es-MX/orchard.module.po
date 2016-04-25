@@ -1,0 +1,54 @@
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "External Blog Aggregation"
+msgstr "Agregación procedente de un Blog Externo"
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Bertrand Le Roy"
+msgstr "Bertrand Le Roy"
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Manual aggregation of blog posts from external sources"
+msgstr "Agregación manual de entradas de blog procedentes de recursos externos"
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "ExternalBlogAggregation.Name"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "External Blog Aggregation"
+msgstr "Agregación procedente de un Blog Externo"
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "ExternalBlogAggregation.Description"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Manual aggregation of blog posts from external sources"
+msgstr "Agregación manual de entradas de blog procedentes de recursos externos"
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "ExternalBlogAggregation.Category"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Content"
+msgstr "Contenido"
+
+#: ~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPost.cshtml
+#| msgid "Posted by {0} on {1:MM/dd/yyyy} at {1:hh:mm tt}."
+msgctxt "~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPost.cshtml"
+msgid "Posted by {0} on {1:MM/dd/yyyy} at {1:hh:mm tt}."
+msgstr "Creado por {0} el {1:dd/MM/yyyy} a las {1:hh:mm tt}."
+
+#: ~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPostActions.cshtml
+#| msgid "View"
+msgctxt "~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPostActions.cshtml"
+msgid "View"
+msgstr "Vista"
+

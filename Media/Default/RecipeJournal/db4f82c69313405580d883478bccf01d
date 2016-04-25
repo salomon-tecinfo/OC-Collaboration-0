@@ -1,0 +1,39 @@
+<RecipeJournal>
+  <Status>Complete</Status>
+  <Message>Executing step Feature.</Message>
+  <Message>Executing step Metadata.</Message>
+  <Message>Executing step Settings.</Message>
+  <Message>Executing step Migration.</Message>
+  <Message>Executing step Command.</Message>
+  <Message>Commands: Executing item layer create Default /LayerRule:&amp;quot;true&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed on all pages&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create Authenticated /LayerRule:&amp;quot;authenticated&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed when the user is authenticated&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create AuthenticatedOperator /LayerRule:&amp;quot;authenticated and (permission(&amp;#39;OperatorPermission&amp;#39;) or permission(&amp;#39;AdvancedOperatorPermission&amp;#39;))&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed to operator and advanced-operator users&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create AuthenticatedOperatorHomePage /LayerRule:&amp;quot;url(&amp;#39;~/&amp;#39;) and authenticated and (permission(&amp;#39;OperatorPermission&amp;#39;) or permission(&amp;#39;AdvancedOperatorPermission&amp;#39;))&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed to operator and advanced-operator users&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create AuthenticatedCustomer /LayerRule:&amp;quot;authenticated and permission(&amp;#39;CustomerPermission&amp;#39;) and not (permission(&amp;#39;OperatorPermission&amp;#39;) or permission(&amp;#39;AdvancedOperatorPermission&amp;#39;))&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed to customer users&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create AuthenticatedCustomerHomePage /LayerRule:&amp;quot;url(&amp;#39;~/&amp;#39;) and authenticated and permission(&amp;#39;CustomerPermission&amp;#39;) and not (permission(&amp;#39;OperatorPermission&amp;#39;) or permission(&amp;#39;AdvancedOperatorPermission&amp;#39;))&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed to customer users&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create Anonymous /LayerRule:&amp;quot;not authenticated&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed when the user is anonymous&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create AnonymousHomePage /LayerRule:&amp;quot;not authenticated and url(&amp;#39;~/&amp;#39;)&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed in the homepage for anonymous users&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create Disabled /LayerRule:&amp;quot;false&amp;quot; /Description:&amp;quot;The widgets in this layer are never displayed&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create TheHomepage /LayerRule:&amp;quot;url &amp;#39;~/&amp;#39;&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed on the home page&amp;quot;.</Message>
+  <Message>Commands: Executing item site setting set baseurl.</Message>
+  <Message>Commands: Executing item menu create /MenuName:&amp;quot;Main Operator Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item ticket-dashboard-widget create /Title:&amp;quot;Dashboard&amp;quot; /LayerName:&amp;quot;AuthenticatedOperatorHomePage&amp;quot; /Zone:&amp;quot;Content&amp;quot; /RenderTitle:false.</Message>
+  <Message>Commands: Executing item tickets-menu create /MenuName:&amp;quot;Main Operator Menu&amp;quot; /MenuText:&amp;quot;Tickets&amp;quot;.</Message>
+  <Message>Commands: Executing item projectlist-create /MenuName:&amp;quot;Main Operator Menu&amp;quot; /MenuText:&amp;quot;Projects&amp;quot;.</Message>
+  <Message>Commands: Executing item menuitem create /MenuPosition:&amp;quot;0&amp;quot; /MenuText:&amp;quot;Home&amp;quot; /Url:&amp;quot;~/&amp;quot; /MenuName:&amp;quot;Main Operator Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item menuitem create /MenuPosition:&amp;quot;3&amp;quot; /MenuText:&amp;quot;Customers&amp;quot; /Url:&amp;quot;~/OrchardCollaboration.Project/User/Customers&amp;quot; /MenuName:&amp;quot;Main Operator Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item menuitem create /MenuPosition:&amp;quot;3&amp;quot; /MenuText:&amp;quot;Operators&amp;quot; /Url:&amp;quot;~/OrchardCollaboration.Project/User/Operators&amp;quot; /MenuName:&amp;quot;Main Operator Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item widget create MenuWidget /Title:&amp;quot;Main Operator Menu&amp;quot; /RenderTitle:false /Zone:&amp;quot;Navigation&amp;quot; /Position:&amp;quot;1&amp;quot; /Layer:&amp;quot;AuthenticatedOperator&amp;quot; /Identity:&amp;quot;MenuWidget1&amp;quot; /MenuName:&amp;quot;Main Operator Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item menu create /MenuName:&amp;quot;Main Customer Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item ticket-dashboard-widget create /Title:&amp;quot;Dashboard&amp;quot; /LayerName:&amp;quot;AuthenticatedCustomerHomePage&amp;quot; /Zone:&amp;quot;Content&amp;quot; /RenderTitle:false.</Message>
+  <Message>Commands: Executing item tickets-menu create /MenuName:&amp;quot;Main Customer Menu&amp;quot; /MenuText:&amp;quot;Tickets&amp;quot;.</Message>
+  <Message>Commands: Executing item projectlist-create /MenuName:&amp;quot;Main Customer Menu&amp;quot; /MenuText:&amp;quot;Projects&amp;quot;.</Message>
+  <Message>Commands: Executing item menuitem create /MenuPosition:&amp;quot;0&amp;quot; /MenuText:&amp;quot;Home&amp;quot; /Url:&amp;quot;~/&amp;quot; /MenuName:&amp;quot;Main Customer Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item widget create MenuWidget /Title:&amp;quot;Main Customer Menu&amp;quot; /RenderTitle:false /Zone:&amp;quot;Navigation&amp;quot; /Position:&amp;quot;1&amp;quot; /Layer:&amp;quot;AuthenticatedCustomer&amp;quot; /Identity:&amp;quot;MenuWidget2&amp;quot; /MenuName:&amp;quot;Main Customer Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item menu create /MenuName:&amp;quot;Anonymous Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item menuitem create /MenuPosition:&amp;quot;0&amp;quot; /MenuText:&amp;quot;Home&amp;quot; /Url:&amp;quot;~/&amp;quot; /MenuName:&amp;quot;Anonymous Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item widget create MenuWidget /Title:&amp;quot;Anonymous Menu&amp;quot; /RenderTitle:false /Zone:&amp;quot;Navigation&amp;quot; /Position:&amp;quot;1&amp;quot; /Layer:&amp;quot;Anonymous&amp;quot; /Identity:&amp;quot;MenuWidget3&amp;quot; /MenuName:&amp;quot;Anonymous Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item orchardcollaboration homepage create /Title:&amp;quot;Welcome to Orchard Collaboration!&amp;quot; /RenderTitle:true /Zone:&amp;quot;Content&amp;quot; /Position:&amp;quot;1&amp;quot; /Layer:&amp;quot;AnonymousHomePage&amp;quot; /Identity:&amp;quot;PageWidget1&amp;quot;.</Message>
+  <Message>Commands: Executing item empty-item create /Slug:&amp;quot;welcome-to-orchard-collaboration&amp;quot; /Title:&amp;quot;Welcome to Orchard Collaboration!&amp;quot; /Path:&amp;quot;welcome-to-orchard-collaboration&amp;quot; /Homepage:true.</Message>
+  <Message>Commands: Executing item theme activate &amp;quot;Bootstrap&amp;quot;.</Message>
+</RecipeJournal>

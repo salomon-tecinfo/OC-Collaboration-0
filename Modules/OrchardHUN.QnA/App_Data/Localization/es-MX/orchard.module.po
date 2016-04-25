@@ -1,0 +1,126 @@
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Questions & Answers"
+msgstr "Preguntas y Respuestas"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "The Orchard Hungary Team"
+msgstr "El equipo de Hungría de Orchard"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "http://orchardqna.codeplex.com/"
+msgstr "http://orchardqna.codeplex.com/"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "A lightweight discussions module with discussion pools and organizing through tags."
+msgstr "Un módulo ligero para debates, con grupos de debates y organizado a través de etiquetas."
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Name"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Questions & Answers"
+msgstr "Preguntas y Respuestas"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Description"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "A lightweight discussions module with discussion pools"
+msgstr "Un módulo ligero para debates, con grupos de debates"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Category"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Community"
+msgstr "Comunidad"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "Questions & Answers"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "Questions & Answers"
+msgstr "Preguntas y Respuestas"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "QnA Discussion Pool"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "QnA Discussion Pool"
+msgstr "Grupo de debate de PyR"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "Categories"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "Categories"
+msgstr "Categorías"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "QnA Discussion"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "QnA Discussion"
+msgstr "Debate de PyR"
+
+#: .Routes
+#| msgid "NewDiscussion"
+msgctxt ".Routes"
+msgid "NewDiscussion"
+msgstr "Nuevodebate"
+
+#: OrchardHUN.QnA.Controllers.QnADiscussionsController
+#| msgid "You haven't selected any categories."
+msgctxt "OrchardHUN.QnA.Controllers.QnADiscussionsController"
+msgid "You haven't selected any categories."
+msgstr "No has seleccionado ninguna categoría."
+
+#: OrchardHUN.QnA.Controllers.QnADiscussionsController
+#| msgid "Please log in to create a new discussion"
+msgctxt "OrchardHUN.QnA.Controllers.QnADiscussionsController"
+msgid "Please log in to create a new discussion"
+msgstr "Por favor autentícate para crear un nuevo debate"
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml
+#| msgid "Start new discussion"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml"
+msgid "Start new discussion"
+msgstr "Comienza un nuevo debate"
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml
+#| msgid "The discussion could not be started. Please correct the errrors below."
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml"
+msgid "The discussion could not be started. Please correct the errrors below."
+msgstr "El debate no puede comenzar. Por favor corrige los errores abajo."
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussionTitlePart.cshtml
+#| msgid "Title"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussionTitlePart.cshtml"
+msgid "Title"
+msgstr "Título"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "edit"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "edit"
+msgstr "Editar"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "remove"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "remove"
+msgstr "Eliminar"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "Are you sure you want to remove this element?"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "Are you sure you want to remove this element?"
+msgstr "¿Estás seguro de que quieres eliminar este elemento?"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/NewDiscussionLink.cshtml
+#| msgid "Start new discussion"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/NewDiscussionLink.cshtml"
+msgid "Start new discussion"
+msgstr "Comenzar un nuevo debate"
+

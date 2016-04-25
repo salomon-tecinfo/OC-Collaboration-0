@@ -1,0 +1,292 @@
+#. "Name"
+#. "Orchard.ImportExport.Name"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Import Export"
+msgstr "Importar Exportar"
+
+#. "Author"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "The Orchard Team"
+msgstr "El Equipo Orchard"
+
+#. "Website"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Provides content item data import and export capability."
+msgstr "Proporciona capacidad de importar y exportar datos de un elemento de contenido."
+
+#. "Orchard.ImportExport.Description"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Imports and exports content item data."
+msgstr ""
+
+#. "Orchard.ImportExport.Category"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Content"
+msgstr ""
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Import"
+msgstr "Importar"
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Export"
+msgstr "Exportar"
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Invalid file path"
+msgstr "La ruta del archivo no es válida."
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "File not found."
+msgstr "No se ha encontrado el archivo."
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Import running..."
+msgstr "Importación en marcha..."
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Export starting..."
+msgstr ""
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Export completed at {0}"
+msgstr ""
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Not allowed to import."
+msgstr "No tienes autorización para importar."
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Not allowed to export."
+msgstr "No tienes autorización para exportar."
+
+#: "Orchard.ImportExport.Providers.ExportActions.BuildRecipeAction"
+msgctxt "Orchard.ImportExport.Providers.ExportActions.BuildRecipeAction"
+msgid "No configuration file was specified."
+msgstr ""
+
+#: "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgctxt "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgid "No recipe file selected."
+msgstr ""
+
+#: "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgctxt "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgid "Please specify a new password for the super user."
+msgstr ""
+
+#: "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgctxt "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgid "The passwords do not match."
+msgstr ""
+
+#: "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgctxt "Orchard.ImportExport.Providers.ImportActions.ExecuteRecipeAction"
+msgid "The recipe contained no steps. No work was scheduled."
+msgstr ""
+
+#: "Orchard.ImportExport.Recipes.Builders.CustomStepsStep"
+msgctxt "Orchard.ImportExport.Recipes.Builders.CustomStepsStep"
+msgid "Additional Export Steps"
+msgstr ""
+
+#: "Orchard.ImportExport.Recipes.Builders.CustomStepsStep"
+msgctxt "Orchard.ImportExport.Recipes.Builders.CustomStepsStep"
+msgid "Exports additional items."
+msgstr ""
+
+#. "Export"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Export"
+msgstr "Exportar"
+
+#. "Import"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "Import"
+msgstr "Importar"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Import Result"
+msgstr "Importar resultado"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "The recipe file was successfully imported."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "The recipe file import failed. Check the logs (recipe execution ID <strong>{0}</strong>) for more information."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Recipe steps"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Recipe"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Step"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Executed"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Result"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Message"
+msgstr "Mensaje"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Untitled"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Successful"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Failed"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/BuilderSteps/CustomSteps.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/BuilderSteps/CustomSteps.cshtml"
+msgid "Choose the custom steps to execute in the export file:"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/BuilderSteps/CustomSteps.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/BuilderSteps/CustomSteps.cshtml"
+msgid "There are no additional export steps available."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgid "Select the recipe steps to execute"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgid "Upload a configuration file with recipe steps to execute"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgid "Export Options"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgid "Configuration File"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ExportActions/BuildRecipe.cshtml"
+msgid "Browse..."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Import the uploaded recipe"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Reset the site and run setup using the uploaded recipe"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Choose a recipe file to import. Please consider {0} or backing up your data first."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "exporting"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Recipe File"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Browse..."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Import Options"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Select wether you want to import the selected recipe into the current site or if you want to do a full site reset first."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "This will delete your database tables. Please consider creating a backup first."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Site Owner Password"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Specify a new password for the site owner in case your recipe doesn't contain the current site owner."
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Confirm Site Owner Password"
+msgstr ""
+
+#: "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/EditorTemplates/ImportActions/ExecuteRecipe.cshtml"
+msgid "Repeat the password to make sure you didn't mistype anything."
+msgstr ""
+

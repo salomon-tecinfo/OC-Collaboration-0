@@ -1,0 +1,1361 @@
+#: Bootstrap.AdminMenu
+
+#. "Themes"
+msgctxt Bootstrap.AdminMenu
+msgid "Themes"
+msgstr "Temas bootstrap**"
+
+#: Bootstrap.AdminMenu
+
+#. "Choose Options"
+msgctxt Bootstrap.AdminMenu
+msgid "Choose Options"
+msgstr "Seleciona opciones"
+
+#: Bootstrap.Controllers.AdminController
+
+#. "Couldn't update Bootstrap settings"
+msgctxt Bootstrap.Controllers.AdminController
+msgid "Couldn't update Bootstrap settings"
+msgstr "Couldn't update Bootstrap settings"
+
+#: Bootstrap.Controllers.AdminController
+
+#. "Your settings have been saved."
+msgctxt Bootstrap.Controllers.AdminController
+msgid "Your settings have been saved."
+msgstr "Your settings have been saved."
+
+#: ~/Bootstrap/Views/CommentGravatar.cshtml
+msgctxt ~/Bootstrap/Views/CommentGravatar.cshtml
+msgid "Gravatar Image"
+msgstr "Gravatar Image"
+
+#: ~/Bootstrap/Views/CommentMetadata.cshtml
+msgctxt ~/Bootstrap/Views/CommentMetadata.cshtml
+msgid "Commented"
+msgstr "Commented"
+
+#: ~/Bootstrap/Views/CommentReplyButton.cshtml
+msgctxt ~/Bootstrap/Views/CommentReplyButton.cshtml
+msgid "Reply"
+msgstr "Responder"
+
+#: ~/Bootstrap/Views/Document.cshtml
+msgctxt ~/Bootstrap/Views/Document.cshtml
+msgid "You are using an outdated browser"
+msgstr "You are using an outdated browser"
+
+#: ~/Bootstrap/Views/Document.cshtml
+msgctxt ~/Bootstrap/Views/Document.cshtml
+msgid "Upgrade your browser today"
+msgstr "Upgrade your browser today"
+
+#: ~/Bootstrap/Views/Document.cshtml
+msgctxt ~/Bootstrap/Views/Document.cshtml
+msgid "or"
+msgstr "o"
+
+#: ~/Bootstrap/Views/Document.cshtml
+msgctxt ~/Bootstrap/Views/Document.cshtml
+msgid "install Google Chrome Frame"
+msgstr "install Google Chrome Frame"
+
+#: ~/Bootstrap/Views/Document.cshtml
+msgctxt ~/Bootstrap/Views/Document.cshtml
+msgid "to better experience this site"
+msgstr "to better experience this site"
+
+#: ~/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/Bootstrap/Views/LogOn.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/Bootstrap/Views/LogOn.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/Bootstrap/Views/LogOn.cshtml
+msgid "Remember me"
+msgstr "Recuerdame"
+
+#: ~/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/Bootstrap/Views/LogOn.cshtml
+msgid "Login"
+msgstr "Iniciar sesión**"
+
+#: ~/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/Bootstrap/Views/LogOn.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/Bootstrap/Views/LogOn.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/Bootstrap/Views/LogOn.cshtml
+msgid "Lost your Password?"
+msgstr "Perdiste tu contraseña"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "This user account will be linked to <b>{0}</b> when you login."
+msgstr "This user account will be linked to <b>{0}</b> when you login."
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Log in using your {0} account"
+msgstr "Log in using your {0} account"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Remember me"
+msgstr "Recuerdame"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Login"
+msgstr "Iniciar Sesión**"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Lost your Password?"
+msgstr "Perdiste tu contraseña"
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "This user account will be linked to <b>{0}</b> when you login."
+msgstr "This user account will be linked to <b>{0}</b> when you login."
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Email"
+msgstr "Email"
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Login"
+msgstr "Iniciar Sesión**"
+
+#: ~/Bootstrap/Views/Register.cshtml
+msgctxt ~/Bootstrap/Views/Register.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/Bootstrap/Views/Register.cshtml
+msgctxt ~/Bootstrap/Views/Register.cshtml
+msgid "Email"
+msgstr "Email"
+
+#: ~/Bootstrap/Views/Register.cshtml
+msgctxt ~/Bootstrap/Views/Register.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/Bootstrap/Views/Register.cshtml
+msgctxt ~/Bootstrap/Views/Register.cshtml
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ~/Bootstrap/Views/Register.cshtml
+msgctxt ~/Bootstrap/Views/Register.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/Bootstrap/Views/Register.cshtml
+msgctxt ~/Bootstrap/Views/Register.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/Bootstrap/Views/Register.cshtml
+msgctxt ~/Bootstrap/Views/Register.cshtml
+msgid "Login"
+msgstr "Iniciar Sesión**"
+
+#: ~/Bootstrap/Views/User.cshtml
+msgctxt ~/Bootstrap/Views/User.cshtml
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: ~/Bootstrap/Views/User.cshtml
+msgctxt ~/Bootstrap/Views/User.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Bootstrap/Views/User.cshtml
+msgctxt ~/Bootstrap/Views/User.cshtml
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: ~/Bootstrap/Views/User.cshtml
+msgctxt ~/Bootstrap/Views/User.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Swatch"
+msgstr "Paleta de Colores"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Fluid Layout"
+msgstr "Usar Esquema Fluido"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a fluid layout (100% width)"
+msgstr "Select this checkbox to use a fluid layout (100% width)"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Fixed Navigation Bar"
+msgstr "Use Fixed Navigation Bar"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a fixed navigation"
+msgstr "Select this checkbox to use a fixed navigation"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Inverse Navigation Bar Color"
+msgstr "Use Inverse Navigation Bar Color"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use the inverse navigation color. *REQUIRES FIXED NAVIGATION BAR"
+msgstr "Select this checkbox to use the inverse navigation color. *REQUIRES FIXED NAVIGATION BAR"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Navigation Bar Search Field"
+msgstr "Use Navigation Bar Search Field"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a navigation bar search field. *REQUIRES SEARCH MODULE"
+msgstr "Select this checkbox to use a navigation bar search field. *REQUIRES SEARCH MODULE"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Sticky Footer"
+msgstr "Use Sticky Footer"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a sticky footer"
+msgstr "Select this checkbox to use a sticky footer"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Default"
+msgstr "Default"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Amelia"
+msgstr "Amelia"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Cerulean"
+msgstr "Cerulean"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Cosmo"
+msgstr "Cosmo"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Cyborg"
+msgstr "Cyborg"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Flatly"
+msgstr "Flatly"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Journal"
+msgstr "Journal"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Readable"
+msgstr "Readable"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Simplex"
+msgstr "Simplex"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Slate"
+msgstr "Slate"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Spacelab"
+msgstr "Spacelab"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "United"
+msgstr "United"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select the swatch that you want"
+msgstr "Select the swatch that you want"
+
+#: ~/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/Bootstrap/Views/Admin/Index.cshtml
+msgid "Save"
+msgstr "Grabar"
+
+#: ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Name"
+msgstr "Name"
+
+#: ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Email"
+msgstr "Email"
+
+#: ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Website"
+msgstr "Website"
+
+#: ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Comment"
+msgstr "Comment"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+
+#. "Change Password"
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Use the form below to change your password."
+msgstr "Use the form below to change your password."
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "New passwords are required to be a minimum of {0} characters in length."
+msgstr "New passwords are required to be a minimum of {0} characters in length."
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Current Password"
+msgstr "Contraseña Actual"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Confirm Password"
+msgstr "Confirmar Contraseña "
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+
+#. "Change Password"
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "Use the form below to change your password."
+msgstr "Use the form below to change your password."
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "New passwords are required to be a minimum of {0} characters in length."
+msgstr "New passwords are required to be a minimum of {0} characters in length."
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "Confirm Password"
+msgstr "Confirmar Contraseña "
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Lost Password"
+msgstr "Contraseña perdida"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Please enter your username or email address. You will receive a link to create a new password via email."
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Username or Email"
+msgstr "Usuario o Email"
+
+#: ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Send Request"
+msgstr "Enviar solicitudl"
+
+#: ~/Bootstrap/Views/Parts/Blogs.BlogArchives.cshtml
+msgctxt ~/Bootstrap/Views/Parts/Blogs.BlogArchives.cshtml
+msgid "None found"
+msgstr "No encontrado"
+
+#: ~/Bootstrap/Views/Parts/Blogs.RecentBlogPosts.cshtml
+msgctxt ~/Bootstrap/Views/Parts/Blogs.RecentBlogPosts.cshtml
+msgid "No posts."
+msgstr "No posts."
+
+#: ~/Bootstrap/Views/Parts/CommentForm.cshtml
+msgctxt ~/Bootstrap/Views/Parts/CommentForm.cshtml
+msgid "Comments have been disabled for this content."
+msgstr "Comments have been disabled for this content."
+
+#: ~/Bootstrap/Views/Parts/CommentForm.cshtml
+
+#. "You must {0} to comment."
+msgctxt ~/Bootstrap/Views/Parts/CommentForm.cshtml
+msgid "You must {0} to comment."
+msgstr "You must {0} to comment."
+
+#: ~/Bootstrap/Views/Parts/CommentForm.cshtml
+
+#. "sign in"
+msgctxt ~/Bootstrap/Views/Parts/CommentForm.cshtml
+msgid "sign in"
+msgstr "Iniciar Sesión**"
+
+#: ~/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgctxt ~/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: ~/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgctxt ~/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgid "{0} Comments"
+msgstr "{0} Comments"
+
+#: ~/Bootstrap/Views/Parts/Common.Body.Summary.cshtml
+msgctxt ~/Bootstrap/Views/Parts/Common.Body.Summary.cshtml
+msgid "Read More..."
+msgstr "Read More..."
+
+#: ~/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgctxt ~/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgid "No Comments"
+msgstr "No Comments"
+
+#: ~/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgctxt ~/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: ~/Bootstrap/Views/Parts/TwitterWidget.cshtml
+msgctxt ~/Bootstrap/Views/Parts/TwitterWidget.cshtml
+msgid " "
+msgstr " "
+
+#: ~/SafeMode/Views/Layout.cshtml
+msgctxt ~/SafeMode/Views/Layout.cshtml
+msgid "Welcome to Orchard"
+msgstr "Welcome to Orchard"
+
+#: ~/Terra/Views/Layout-HomePage.cshtml
+msgctxt ~/Terra/Views/Layout-HomePage.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout-HomePage.cshtml
+msgctxt ~/Terra/Views/Layout-HomePage.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout-HomePage.cshtml
+msgctxt ~/Terra/Views/Layout-HomePage.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/Layout-Home_Boxed.cshtml
+msgctxt ~/Terra/Views/Layout-Home_Boxed.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout-Home_Boxed.cshtml
+msgctxt ~/Terra/Views/Layout-Home_Boxed.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout-Home_Boxed.cshtml
+msgctxt ~/Terra/Views/Layout-Home_Boxed.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/Layout-Home_Boxed_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Home_Boxed_Sidebar.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout-Home_Boxed_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Home_Boxed_Sidebar.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout-Home_Boxed_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Home_Boxed_Sidebar.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/Layout-Inner.cshtml
+msgctxt ~/Terra/Views/Layout-Inner.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout-Inner.cshtml
+msgctxt ~/Terra/Views/Layout-Inner.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout-Inner.cshtml
+msgctxt ~/Terra/Views/Layout-Inner.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/Layout-Inner_Boxed.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Boxed.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout-Inner_Boxed.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Boxed.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout-Inner_Boxed.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Boxed.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/Layout-Inner_Boxed_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Boxed_Sidebar.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout-Inner_Boxed_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Boxed_Sidebar.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout-Inner_Boxed_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Boxed_Sidebar.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/Layout-Inner_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Sidebar.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout-Inner_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Sidebar.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout-Inner_Sidebar.cshtml
+msgctxt ~/Terra/Views/Layout-Inner_Sidebar.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/Layout.cshtml
+msgctxt ~/Terra/Views/Layout.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/Terra/Views/Layout.cshtml
+msgctxt ~/Terra/Views/Layout.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/Terra/Views/Layout.cshtml
+msgctxt ~/Terra/Views/Layout.cshtml
+msgid "<strong>{0}</strong>"
+msgstr "<strong>{0}</strong>"
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Please enter your username and password."
+msgstr "Please enter your username and password."
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid " if you don't have an account."
+msgstr " if you don't have an account."
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Lost your Password?"
+msgstr "Perdiste tu contraseña"
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Login was unsuccessful. Please correct the errors and try again."
+msgstr "Login was unsuccessful. Please correct the errors and try again."
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Account Information"
+msgstr "Account Information"
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/Terra/Views/LogOn2.cshtml
+msgctxt ~/Terra/Views/LogOn2.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/TheAdmin/Views/ErrorPage.cshtml
+msgctxt ~/TheAdmin/Views/ErrorPage.cshtml
+msgid "Oops. Something went wrong ... sorry"
+msgstr "Oops. Something went wrong ... sorry"
+
+#: ~/TheAdmin/Views/ErrorPage.cshtml
+msgctxt ~/TheAdmin/Views/ErrorPage.cshtml
+msgid "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
+msgstr "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
+
+#: ~/TheAdmin/Views/Header.cshtml
+msgctxt ~/TheAdmin/Views/Header.cshtml
+msgid "Your site"
+msgstr "Your site"
+
+#: ~/TheAdmin/Views/Header.cshtml
+msgctxt ~/TheAdmin/Views/Header.cshtml
+msgid "Project Orchard"
+msgstr "Project Orchard"
+
+#: ~/TheAdmin/Views/Layout.cshtml
+msgctxt ~/TheAdmin/Views/Layout.cshtml
+msgid "Skip to navigation"
+msgstr "Skip to navigation"
+
+#: ~/TheAdmin/Views/Layout.cshtml
+msgctxt ~/TheAdmin/Views/Layout.cshtml
+msgid "Are you sure you want to remove this element?"
+msgstr "Are you sure you want to remove this element?"
+
+#: ~/TheAdmin/Views/Menu.cshtml
+msgctxt ~/TheAdmin/Views/Menu.cshtml
+msgid "Filter"
+msgstr "Filter"
+
+#: ~/TheAdmin/Views/OrchardVersion.cshtml
+msgctxt ~/TheAdmin/Views/OrchardVersion.cshtml
+msgid "Orchard v.{0}"
+msgstr "Orchard v.{0}"
+
+#: ~/TheAdmin/Views/Pager.cshtml
+msgctxt ~/TheAdmin/Views/Pager.cshtml
+msgid "&lt;"
+msgstr "&lt;"
+
+#: ~/TheAdmin/Views/Pager.cshtml
+msgctxt ~/TheAdmin/Views/Pager.cshtml
+msgid "&gt;"
+msgstr "&gt;"
+
+#: ~/TheAdmin/Views/Pager.cshtml
+msgctxt ~/TheAdmin/Views/Pager.cshtml
+msgid "Show:"
+msgstr "Show:"
+
+#: ~/TheAdmin/Views/Pager.cshtml
+
+#. "All"
+msgctxt ~/TheAdmin/Views/Pager.cshtml
+msgid "All"
+msgstr "All"
+
+#: ~/TheAdmin/Views/Pager.cshtml
+msgctxt ~/TheAdmin/Views/Pager.cshtml
+msgid "Showing items {0} - {1} of {2}"
+msgstr "Showing items {0} - {1} of {2}"
+
+#: ~/TheAdmin/Views/Pager.cshtml
+msgctxt ~/TheAdmin/Views/Pager.cshtml
+msgid "Showing all {0} items"
+msgstr "Showing all {0} items"
+
+#: ~/TheAdmin/Views/User.cshtml
+msgctxt ~/TheAdmin/Views/User.cshtml
+msgid "User:"
+msgstr "User:"
+
+#: ~/TheAdmin/Views/User.cshtml
+msgctxt ~/TheAdmin/Views/User.cshtml
+msgid "Logout"
+msgstr "Logout"
+
+#: ~/TheThemeMachine/Views/BadgeOfHonor.cshtml
+msgctxt ~/TheThemeMachine/Views/BadgeOfHonor.cshtml
+msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+msgstr "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+
+#: ~/TheThemeMachine/Views/BadgeOfHonor.cshtml
+msgctxt ~/TheThemeMachine/Views/BadgeOfHonor.cshtml
+msgid "&#169; The Theme Machine 2010."
+msgstr "&#169; The Theme Machine 2010."
+
+#: ~/TheThemeMachine/Views/Pager.cshtml
+msgctxt ~/TheThemeMachine/Views/Pager.cshtml
+msgid "Newer"
+msgstr "Newer"
+
+#: ~/TheThemeMachine/Views/Pager.cshtml
+msgctxt ~/TheThemeMachine/Views/Pager.cshtml
+msgid "Older"
+msgstr "Older"
+
+#: ~/_Backup/Bootstrap/Views/CommentGravatar.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/CommentGravatar.cshtml
+msgid "Gravatar Image"
+msgstr "Gravatar Image"
+
+#: ~/_Backup/Bootstrap/Views/CommentMetadata.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/CommentMetadata.cshtml
+msgid "Commented"
+msgstr "Commented"
+
+#: ~/_Backup/Bootstrap/Views/CommentReplyButton.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/CommentReplyButton.cshtml
+msgid "Reply"
+msgstr "Reply"
+
+#: ~/_Backup/Bootstrap/Views/Document.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Document.cshtml
+msgid "You are using an outdated browser"
+msgstr "You are using an outdated browser"
+
+#: ~/_Backup/Bootstrap/Views/Document.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Document.cshtml
+msgid "Upgrade your browser today"
+msgstr "Upgrade your browser today"
+
+#: ~/_Backup/Bootstrap/Views/Document.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Document.cshtml
+msgid "or"
+msgstr "or"
+
+#: ~/_Backup/Bootstrap/Views/Document.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Document.cshtml
+msgid "install Google Chrome Frame"
+msgstr "install Google Chrome Frame"
+
+#: ~/_Backup/Bootstrap/Views/Document.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Document.cshtml
+msgid "to better experience this site"
+msgstr "to better experience this site"
+
+#: ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgid "Remember me"
+msgstr "Recuerdame"
+
+#: ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgid "Login"
+msgstr "Iniciar Sesión**"
+
+#: ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/LogOn.cshtml
+msgid "Lost your Password?"
+msgstr "Perdiste tu contraseña"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "This user account will be linked to <b>{0}</b> when you login."
+msgstr "This user account will be linked to <b>{0}</b> when you login."
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Log in using your {0} account"
+msgstr "Log in using your {0} account"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Remember me"
+msgstr "Recuerdame"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Login"
+msgstr "Iniciar Sesión**"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthLogOn.cshtml
+msgid "Lost your Password?"
+msgstr "Perdiste tu contraseña"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "This user account will be linked to <b>{0}</b> when you login."
+msgstr "This user account will be linked to <b>{0}</b> when you login."
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Email"
+msgstr "Email"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/OpenAuthRegister.cshtml
+msgid "Login"
+msgstr "Iniciar Sesión**"
+
+#: ~/_Backup/Bootstrap/Views/Register.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Register.cshtml
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ~/_Backup/Bootstrap/Views/Register.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Register.cshtml
+msgid "Email"
+msgstr "Email"
+
+#: ~/_Backup/Bootstrap/Views/Register.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Register.cshtml
+msgid "Password"
+msgstr "Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/Register.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Register.cshtml
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ~/_Backup/Bootstrap/Views/Register.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Register.cshtml
+msgid "Register"
+msgstr "Registrar"
+
+#: ~/_Backup/Bootstrap/Views/Register.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Register.cshtml
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ~/_Backup/Bootstrap/Views/Register.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Register.cshtml
+msgid "Login"
+msgstr "Iniciar Sesión**"
+
+#: ~/_Backup/Bootstrap/Views/SearchNav.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/SearchNav.cshtml
+msgid "Search"
+msgstr "Search"
+
+#: ~/_Backup/Bootstrap/Views/SearchNav.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/SearchNav.cshtml
+msgid "Submit"
+msgstr "Submit"
+
+#: ~/_Backup/Bootstrap/Views/Ticket.Fields.Enumeration.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Ticket.Fields.Enumeration.cshtml
+msgid "{0}"
+msgstr "{0}"
+
+#: ~/_Backup/Bootstrap/Views/Ticket.Fields.Enumeration.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Ticket.Fields.Enumeration.cshtml
+msgid ", "
+msgstr ", "
+
+#: ~/_Backup/Bootstrap/Views/TicketFields.DateTime.Edit.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/TicketFields.DateTime.Edit.cshtml
+msgid "Date"
+msgstr "Date"
+
+#: ~/_Backup/Bootstrap/Views/TicketFields.DateTime.Edit.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/TicketFields.DateTime.Edit.cshtml
+msgid "Time"
+msgstr "Time"
+
+#: ~/_Backup/Bootstrap/Views/TicketFields.Enumeration.Edit.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/TicketFields.Enumeration.Edit.cshtml
+msgid "Select an option"
+msgstr "Select an option"
+
+#: ~/_Backup/Bootstrap/Views/TicketFields.Enumeration.Edit.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/TicketFields.Enumeration.Edit.cshtml
+msgid "unset"
+msgstr "unset"
+
+#: ~/_Backup/Bootstrap/Views/User.cshtml
+
+#. "Change Password"
+msgctxt ~/_Backup/Bootstrap/Views/User.cshtml
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/User.cshtml
+
+#. "Sign Out"
+msgctxt ~/_Backup/Bootstrap/Views/User.cshtml
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: ~/_Backup/Bootstrap/Views/User.cshtml
+
+#. "Dashboard"
+msgctxt ~/_Backup/Bootstrap/Views/User.cshtml
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: ~/_Backup/Bootstrap/Views/User.cshtml
+
+#. "Sign In"
+msgctxt ~/_Backup/Bootstrap/Views/User.cshtml
+msgid "Sign In"
+msgstr "Iniciar Sesión**"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Swatch"
+msgstr "Paleta de Colores"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Fluid Layout"
+msgstr "Usar Esquema Fluido"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a fluid layout (100% width)"
+msgstr "Select this checkbox to use a fluid layout (100% width)"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Fixed Navigation Bar"
+msgstr "Use Fixed Navigation Bar"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a fixed navigation"
+msgstr "Select this checkbox to use a fixed navigation"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Inverse Navigation Bar Color"
+msgstr "Use Inverse Navigation Bar Color"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use the inverse navigation color. *REQUIRES FIXED NAVIGATION BAR"
+msgstr "Select this checkbox to use the inverse navigation color. *REQUIRES FIXED NAVIGATION BAR"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Navigation Bar Search Field"
+msgstr "Use Navigation Bar Search Field"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a navigation bar search field. *REQUIRES SEARCH MODULE"
+msgstr "Select this checkbox to use a navigation bar search field. *REQUIRES SEARCH MODULE"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Use Sticky Footer"
+msgstr "Use Sticky Footer"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select this checkbox to use a sticky footer"
+msgstr "Select this checkbox to use a sticky footer"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Default"
+msgstr "Default"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Amelia"
+msgstr "Amelia"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Cerulean"
+msgstr "Cerulean"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Cosmo"
+msgstr "Cosmo"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Cyborg"
+msgstr "Cyborg"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Flatly"
+msgstr "Flatly"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Journal"
+msgstr "Journal"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Readable"
+msgstr "Readable"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Simplex"
+msgstr "Simplex"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Slate"
+msgstr "Slate"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Spacelab"
+msgstr "Spacelab"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "United"
+msgstr "United"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Select the swatch that you want"
+msgstr "Select the swatch that you want"
+
+#: ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Admin/Index.cshtml
+msgid "Save"
+msgstr "Grabar"
+
+#: ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Name"
+msgstr "Name"
+
+#: ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Email"
+msgstr "Email"
+
+#: ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Website"
+msgstr "Website"
+
+#: ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/EditorTemplates/Parts.Comment.cshtml
+msgid "Comment"
+msgstr "Comment"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+
+#. "Change Password"
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Use the form below to change your password."
+msgstr "Use the form below to change your password."
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "New passwords are required to be a minimum of {0} characters in length."
+msgstr "New passwords are required to be a minimum of {0} characters in length."
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Current Password"
+msgstr "Contraseña Actual"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/ChangePassword.cshtml
+msgid "Confirm Password"
+msgstr "Confirmar Contraseña "
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+
+#. "Change Password"
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "Use the form below to change your password."
+msgstr "Use the form below to change your password."
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "New passwords are required to be a minimum of {0} characters in length."
+msgstr "New passwords are required to be a minimum of {0} characters in length."
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/LostPassword.cshtml
+msgid "Confirm Password"
+msgstr "Confirmar Contraseña "
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Lost Password"
+msgstr "Contraseña perdida"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Please enter your username or email address. You will receive a link to create a new password via email."
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Username or Email"
+msgstr "Usuario o Email"
+
+#: ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Orchard.Users/Account/RequestLostPassword.cshtml
+msgid "Send Request"
+msgstr "Enviar solicitud"
+
+#: ~/_Backup/Bootstrap/Views/Parts/Blogs.BlogArchives.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/Blogs.BlogArchives.cshtml
+msgid "None found"
+msgstr "No encontrado"
+
+#: ~/_Backup/Bootstrap/Views/Parts/Blogs.RecentBlogPosts.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/Blogs.RecentBlogPosts.cshtml
+msgid "No posts."
+msgstr "No posts."
+
+#: ~/_Backup/Bootstrap/Views/Parts/CommentForm.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/CommentForm.cshtml
+msgid "Comments have been disabled for this content."
+msgstr "Comments have been disabled for this content."
+
+#: ~/_Backup/Bootstrap/Views/Parts/CommentForm.cshtml
+
+#. "You must {0} to comment."
+msgctxt ~/_Backup/Bootstrap/Views/Parts/CommentForm.cshtml
+msgid "You must {0} to comment."
+msgstr "You must {0} to comment."
+
+#: ~/_Backup/Bootstrap/Views/Parts/CommentForm.cshtml
+
+#. "sign in"
+msgctxt ~/_Backup/Bootstrap/Views/Parts/CommentForm.cshtml
+msgid "sign in"
+msgstr "Iniciar Sesión**"
+
+#: ~/_Backup/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: ~/_Backup/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/Comments.Count.cshtml
+msgid "{0} Comments"
+msgstr "{0} Comments"
+
+#: ~/_Backup/Bootstrap/Views/Parts/Common.Body.Summary.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/Common.Body.Summary.cshtml
+msgid "Read More..."
+msgstr "Read More..."
+
+#: ~/_Backup/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgid "No Comments"
+msgstr "No Comments"
+
+#: ~/_Backup/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgctxt ~/_Backup/Bootstrap/Views/Parts/ListOfComments.cshtml
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: ~/_Backup/Bootstrap/Views/Parts/TwitterWidget.cshtml
+msgctxt "~/Core/Contents/Views/Content.cshtml"
+msgid "People"
+msgstr "Colaboradores"
+
+
+msgctxt ~/_Backup/Bootstrap/Views/Parts/TwitterWidget.cshtml
+msgid " "
+msgstr " "
+
+
+msgctxt "~/Themes/Bootstrap/Views/Content-139.Detail.cshtml"
+msgid "Properties"
+msgstr "Propiedades"
+
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Properties.cshtml"
+msgid "Properties"
+msgstr "Propiedades"
+
+msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.cshtml"
+msgid "People"
+msgstr "Colaboradores"

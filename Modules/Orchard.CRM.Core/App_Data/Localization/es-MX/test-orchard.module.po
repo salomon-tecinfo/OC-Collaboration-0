@@ -1,0 +1,69 @@
+
+msgid "Dates"
+msgstr "Fechas"
+
+msgid "Creation Date"
+msgstr "Fecha de Creación"
+
+msgid "Due Date"
+msgstr "Fecha de vencimiento"
+
+
+msgid "People"
+msgstr "Colaboradores"
+
+msgid "Assignee Group"
+msgstr "Grupo Responsable"
+
+msgid "Assignee User"
+msgstr "Usuario Responsable"
+
+msgid "Assignee Group:"
+msgstr "Grupo Responsable:"
+
+msgid "Assignee User:"
+msgstr "Usuario Responsable:"
+
+msgid "Reporter"
+msgstr "Supervisor"
+
+msgid "Properties"
+msgstr "Propiedades"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Priority"
+msgstr "Prioridad"
+
+msgid "Service"
+msgstr "Trámite"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Project"
+msgstr "Unidad/Dirección"
+
+msgid "Status Items:"
+msgstr "Estado:"
+
+msgid "Priority:"
+msgstr "Prioridad:"
+
+msgid "Service:"
+msgstr "Trámite:"
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Project:"
+msgstr "Unidad/Dirección:"
+
+msgid "Milestone:"
+msgstr "Suceso:"
+
+msgid "Size:"
+msgstr "Tamaño:"
+
+

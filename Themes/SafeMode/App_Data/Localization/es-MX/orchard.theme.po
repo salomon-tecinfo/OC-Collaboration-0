@@ -1,0 +1,35 @@
+#. "Name"
+#: "~/Themes/SafeMode/Theme.txt"
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "SafeMode"
+msgstr "ModoSeguro"
+
+#. "Author"
+#: "~/Themes/SafeMode/Theme.txt"
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "Jonathan Wall"
+msgstr "Jonathan Wall"
+
+#. "Description"
+#: "~/Themes/SafeMode/Theme.txt"
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "The Orchard Theme for setup and failure conditions."
+msgstr "El tema de Orchard para instalación o condiciones de fallos."
+
+#. "Tags"
+#: "~/Themes/SafeMode/Theme.txt"
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "hidden"
+msgstr "oculto"
+
+#. "Website"
+#: "~/Themes/SafeMode/Theme.txt"
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "http://www.orchardproject.net"
+msgstr "http://www.orchardproject.net"
+
+#: "~/Themes/SafeMode/Views/Layout.cshtml"
+msgctxt "~/Themes/SafeMode/Views/Layout.cshtml"
+msgid "Welcome to Orchard"
+msgstr "Bienvenido a Orchard"
+

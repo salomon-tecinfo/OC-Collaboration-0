@@ -1,0 +1,149 @@
+#. "Name"
+#: "~/Modules/S22.IMAP/Module.txt"
+msgctxt "~/Modules/S22.IMAP/Module.txt"
+msgid "IMAP Email Client"
+msgstr "IMAP Email Client"
+
+#. "Author"
+#: "~/Modules/S22.IMAP/Module.txt"
+msgctxt "~/Modules/S22.IMAP/Module.txt"
+msgid "Siyamand Ayubi"
+msgstr "Siyamand Ayubi"
+
+#. "Website"
+#: "~/Modules/S22.IMAP/Module.txt"
+msgctxt "~/Modules/S22.IMAP/Module.txt"
+msgid "http://orchardcollaboration.com/imap-email-client-module"
+msgstr "http://orchardcollaboration.com/imap-email-client-module"
+
+#. "Description"
+#: "~/Modules/S22.IMAP/Module.txt"
+msgctxt "~/Modules/S22.IMAP/Module.txt"
+msgid "This module is a wrapper around the IMAP client which is implementated here https://github.com/smiley22/S22.Imap. For more information, please visit the post here: http://orchardcollaboration.com/imap-email-client-module"
+msgstr "This module is a wrapper around the IMAP client which is implementated here https://github.com/smiley22/S22.Imap. For more information, please visit the post here: http://orchardcollaboration.com/imap-email-client-module"
+
+#: "S22.IMAP.Activities.IMapEmailReceivedActivity"
+msgctxt "S22.IMAP.Activities.IMapEmailReceivedActivity"
+msgid "An email is received"
+msgstr "An email is received"
+
+#. "Done"
+msgctxt "S22.IMAP.Activities.IMapEmailReceivedActivity"
+msgid "Done"
+msgstr "Done"
+
+#: "S22.IMAP.Activities.IMapEmailReceivedActivity"
+msgctxt "S22.IMAP.Activities.IMapEmailReceivedActivity"
+msgid "Email"
+msgstr "Email"
+
+#: "S22.IMAP.Handlers.IMAPClientTaskHandler"
+msgctxt "S22.IMAP.Handlers.IMAPClientTaskHandler"
+msgid "[No subject]"
+msgstr "[No subject]"
+
+#: "S22.IMAP.Handlers.IMAPSettingPartHandler"
+msgctxt "S22.IMAP.Handlers.IMAPSettingPartHandler"
+msgid "IMAP Email Client"
+msgstr "IMAP Email Client"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "IMAP Email Client Setting"
+msgstr "IMAP Email Client Setting"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Host name"
+msgstr "Host name"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Host Name of the IMAP Server, e.g. <i>imap.gmail.com</i>."
+msgstr "Host Name of the IMAP Server, e.g. <i>imap.gmail.com</i>."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Port number"
+msgstr "Port number"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "The IMAP server port, usually 993."
+msgstr "The IMAP server port, usually 993."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Default email box"
+msgstr "Default email box"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "The email box, e.g. <i>INBOX</i>."
+msgstr "The email box, e.g. <i>INBOX</i>."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Enable SSL communications"
+msgstr "Enable SSL communications"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Check if the server requires SSL communications."
+msgstr "Check if the server requires SSL communications."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "User name"
+msgstr "User name"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "The username for authentication."
+msgstr "The username for authentication."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Password"
+msgstr "Password"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "The password for authentication."
+msgstr "The password for authentication."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Download emails from "
+msgstr "Download emails from "
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid " minutes ago."
+msgstr " minutes ago."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Note: The attachments size limit is 5Mb. Attachments with larger size will not be downloaded."
+msgstr "Note: The attachments size limit is 5Mb. Attachments with larger size will not be downloaded."
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Error in connecting to the IMAP server"
+msgstr "Error in connecting to the IMAP server"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Error Time:"
+msgstr "Error Time:"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "Last successfull connection was at:"
+msgstr "Last successfull connection was at:"
+
+#: "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgctxt "~/Modules/S22.IMAP/Views/EditorTemplates/Parts/IMAPSettings.cshtml"
+msgid "No connection is made so far. The next try to connect will be in less than 2 minutes."
+msgstr "No connection is made so far. The next try to connect will be in less than 2 minutes."
+

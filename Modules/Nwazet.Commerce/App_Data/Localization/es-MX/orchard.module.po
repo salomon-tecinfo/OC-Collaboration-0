@@ -1,0 +1,510 @@
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Commerce"
+msgstr "Nwazet Commerce"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Bertrand Le Roy, Sipke Schoorstra"
+msgstr "Bertrand Le Roy, Sipke Schoorstra"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "http://nwazet.com"
+msgstr "http://nwazet.com"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce for small online businesses"
+msgstr "Funciones de comercio electrónico para las pequeñas empresas"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Commerce"
+msgstr "Nwazet Commerce"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce for small online businesses"
+msgstr "Funciones de comercio electrónico para las pequeñas empresas"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Comercio"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Shipping"
+msgstr "Nwazet Shipping"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Define shipping options to work with Nwazet Commerce"
+msgstr "Definir opciones de venta que funcionan con Nwazet commerce"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Comercio"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Google Checkout"
+msgstr "Google Checkout"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Google Checkout part that can be added to any content type"
+msgstr "Part de Google Checkout que puede añadirse a cualquier content type"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Comercio"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Referrals"
+msgstr "Nwazet Referrals"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Keeps track of the domain the user came from, in order to honor partner referral fees."
+msgstr "Almacena el domino del que procede el usuario, de forma que pueda reconocerse y retribuirse al parter sus comisiones acordadas por referidos."
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Comercio"
+
+#: Nwazet.Commerce.Handlers.GoogleCheckoutSettingsPartHandler
+#| msgid "Google Checkout"
+msgctxt "Nwazet.Commerce.Handlers.GoogleCheckoutSettingsPartHandler"
+msgid "Google Checkout"
+msgstr "Google Checkout"
+
+#: Nwazet.Commerce.Menus.ProductAdminMenu
+#| msgid "Commerce"
+msgctxt "Nwazet.Commerce.Menus.ProductAdminMenu"
+msgid "Commerce"
+msgstr "Comercio"
+
+#: Nwazet.Commerce.Menus.ProductAdminMenu
+#| msgid "Products"
+msgctxt "Nwazet.Commerce.Menus.ProductAdminMenu"
+msgid "Products"
+msgstr "Productos"
+
+#: Nwazet.Commerce.Menus.ShippingAdminMenu
+#| msgid "Commerce"
+msgctxt "Nwazet.Commerce.Menus.ShippingAdminMenu"
+msgid "Commerce"
+msgstr "Comercio"
+
+#: Nwazet.Commerce.Menus.ShippingAdminMenu
+#| msgid "Shipping Methods"
+msgctxt "Nwazet.Commerce.Menus.ShippingAdminMenu"
+msgid "Shipping Methods"
+msgstr "Tipos de envío"
+
+#: Nwazet.Commerce.Services.WeightBasedShippingMethodProvider
+#| msgid "Weight-Based Shipping Method"
+msgctxt "Nwazet.Commerce.Services.WeightBasedShippingMethodProvider"
+msgid "Weight-Based Shipping Method"
+msgstr "Tipo de envío basado en el peso"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Content Items"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Content Items"
+msgstr "Content Items"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Sku"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Sku"
+msgstr "Referencia"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The SKU for the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The SKU for the product."
+msgstr "La referencia del producto."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Price"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Price"
+msgstr "Precio"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The price of the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The price of the product."
+msgstr "El precio del producto."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Is Digital"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Is Digital"
+msgstr "Es Digital"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "True if this is a digital product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "True if this is a digital product."
+msgstr "Es verdadero si este es un producto digital."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Shipping Cost"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Shipping Cost"
+msgstr "Costes de envío"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The fixed shipping cost of the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The fixed shipping cost of the product."
+msgstr "El precio fijo de envío del producto."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Weight"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Weight"
+msgstr "Peso"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The weight of the item."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The weight of the item."
+msgstr "El peso del ítem."
+
+#: ~/Modules/Nwazet.Commerce/Views/GoogleCheckout.cshtml
+#| msgid "Fast checkout through Google"
+msgctxt "~/Modules/Nwazet.Commerce/Views/GoogleCheckout.cshtml"
+msgid "Fast checkout through Google"
+msgstr "Confirmación de entrega rápida a través de Google"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "You don't have any items in your shopping cart."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "You don't have any items in your shopping cart."
+msgstr "No tienes ningún ítem en tu cesta de la compra."
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Article"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Article"
+msgstr "Artículo"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Unit Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Unit Price"
+msgstr "Precio unitario"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Quantity"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Total Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Total Price"
+msgstr "Precio Total"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Subtotal:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Update All"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Update All"
+msgstr "Actualizar todo"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Your Cart"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Your Cart"
+msgstr "Tu cesta de la compra"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Remove"
+msgstr "Quitar de la lista"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Update All"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Update All"
+msgstr "Actualizar todo"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Subtotal:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Tax and shipping will be calculated at checkout."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Tax and shipping will be calculated at checkout."
+msgstr "Impuestos y envío deben calcularse a la entrega"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Google Checkout Merchant Id"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Google Checkout Merchant Id"
+msgstr "Google Checkout Merchant Id"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Google Analytics Id"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Google Analytics Id"
+msgstr "Google Analytics Id"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Currency"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Currency"
+msgstr "Moneda"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Shipping Weight Unit"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Shipping Weight Unit"
+msgstr "Unidad de peso de la entrega"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Use Sandbox"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Use Sandbox"
+msgstr "Usar Sandbox"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Sku"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Sku"
+msgstr "Referencia"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Price"
+msgstr "Precio"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Weight"
+msgstr "Peso"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Shipping Cost"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Shipping Cost"
+msgstr "Coste de entrega"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Specify a shipping cost if you want the shipping cost to be fixed. Otherwise, leave this empty and only specify the weight. The shipping will be computed based on the shipping provider that the customer will pick."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Specify a shipping cost if you want the shipping cost to be fixed. Otherwise, leave this empty and only specify the weight. The shipping will be computed based on the shipping provider that the customer will pick."
+msgstr "Establece un coste de entrega si quieres que el coste de venta sea fijo. De otro modo, déjalo vacío y especifica sólo el peso. La venta se calculará basándose en el proveedor de mensajería que el consumidor ha elegido."
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "digital product"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "digital product"
+msgstr "producto digital"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Method Name"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Method Name"
+msgstr "Nombre del método"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "The technical name of the shipping method (this is different from the title, which is the method's friendly name that will be displayed to end-users)."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "The technical name of the shipping method (this is different from the title, which is the method's friendly name that will be displayed to end-users)."
+msgstr "El nombre técnico del método de envío (es diferente del título, el cual es el nombre amigable que debe ser mostrado a los usuarios finales)"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Shipping Company"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Shipping Company"
+msgstr "Empresa de mensajería"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Price"
+msgstr "Precio"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Minimum Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Minimum Weight"
+msgstr "Peso mínimo"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Maximum Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Maximum Weight"
+msgstr "Peso máximo"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Specify the weight interval for which this shipping price is valid. Leave the maximum weight field empty for unlimited weight. The weight will be computed for all non-digital products that don't have a shipping price overload specified."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Specify the weight interval for which this shipping price is valid. Leave the maximum weight field empty for unlimited weight. The weight will be computed for all non-digital products that don't have a shipping price overload specified."
+msgstr "Especifica el intervalo para el que el precio del envío es válido. Deja el campo de peso máximo vacío para permitir peso ilimitado. El peso será calculado para los productos no digitales que no tienen un precio de envío para el sobrepeso especificado."
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Areas for which this method is valid:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Areas for which this method is valid:"
+msgstr "Áreas para las que este método es válido:"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Areas for which this method is not valid:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Areas for which this method is not valid:"
+msgstr "Áreas en las que este método no es válido:"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Use this to restrict what areas this method is available from. For example, an international shipping method would have World included, but US excluded, so that it can't be selected for domestic shipping."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Use this to restrict what areas this method is available from. For example, an international shipping method would have World included, but US excluded, so that it can't be selected for domestic shipping."
+msgstr "Usa esto para restringir las áreas para las que este método está disponible. Por ejemplo, un envío internacional debería tener Mundo (World) incluido, pero EE. UU. excluido, de manera que no pueda seleccionarse para envíos nacionales."
+
+#: ~/Modules/Nwazet.Commerce/Views/Parts/Product.AddButton.cshtml
+#| msgid "Add to cart"
+msgctxt "~/Modules/Nwazet.Commerce/Views/Parts/Product.AddButton.cshtml"
+msgid "Add to cart"
+msgstr "Añadir a la cesta"
+
+#: ~/Modules/Nwazet.Commerce/Views/Parts/Product.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/Parts/Product.cshtml"
+msgid "Price"
+msgstr "Precio"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Manage Products"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Manage Products"
+msgstr "Administrar productos"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Create New Product"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Create New Product"
+msgstr "Crear un producto nuevo"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Actions:"
+msgstr "Acciones:"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Choose action..."
+msgstr "Elegir una acción"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Publish Now"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Publish Now"
+msgstr "Publicar ahora"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Unpublish"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Unpublish"
+msgstr "Quitar de publicados"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Apply"
+msgstr "Apuntarse"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Ordered by"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Ordered by"
+msgstr "Ordenar por"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently created"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently created"
+msgstr "Creado recientemente"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently modified"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently modified"
+msgstr "Modificado recientemente"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently published"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently published"
+msgstr "Publicado recientemente"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Manage Shipping Methods"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Manage Shipping Methods"
+msgstr "Administrar tipos de envío"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Add a new {0}"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Add a new {0}"
+msgstr "Añadir un nuevo {0}"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Name"
+msgstr "Nombre"
+

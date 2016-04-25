@@ -1,0 +1,222 @@
+#: ~/Modules/Contrib.Cache/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Contrib.Cache/Module.txt"
+msgid "Cache"
+msgstr "Caché"
+
+#: ~/Modules/Contrib.Cache/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Contrib.Cache/Module.txt"
+msgid "Sébastien Ros"
+msgstr "Sébastien Ros"
+
+#: ~/Modules/Contrib.Cache/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Contrib.Cache/Module.txt"
+msgid "http://orchardcache.codeplex.com/"
+msgstr "http://orchardcache.codeplex.com/"
+
+#: ~/Modules/Contrib.Cache/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Contrib.Cache/Module.txt"
+msgid "Adds Caching functionality."
+msgstr "Añade funcionalidad de Caché."
+
+#: ~/Modules/Contrib.Cache/Module.txt
+#| msgid "Contrib.Cache.Description"
+msgctxt "~/Modules/Contrib.Cache/Module.txt"
+msgid "Adds Caching functionality."
+msgstr "Añade funcionalidad de Caché."
+
+#: ~/Modules/Contrib.Cache/Module.txt
+#| msgid "Contrib.Cache.Category"
+msgctxt "~/Modules/Contrib.Cache/Module.txt"
+msgid "Performance"
+msgstr "Rendimiento"
+
+#: Contrib.Cache.AdminMenu
+#| msgid "Settings"
+msgctxt "Contrib.Cache.AdminMenu"
+msgid "Settings"
+msgstr "Configuración"
+
+#: Contrib.Cache.AdminMenu
+#| msgid "Cache"
+msgctxt "Contrib.Cache.AdminMenu"
+msgid "Cache"
+msgstr "Caché"
+
+#: Contrib.Cache.AdminMenu
+#| msgid "Statistics"
+msgctxt "Contrib.Cache.AdminMenu"
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: Contrib.Cache.Controllers.AdminController
+#| msgid "Not allowed to manage cache"
+msgctxt "Contrib.Cache.Controllers.AdminController"
+msgid "Not allowed to manage cache"
+msgstr "No está permitido administrar la caché"
+
+#: Contrib.Cache.Controllers.AdminController
+#| msgid "Cache Settings saved successfully."
+msgctxt "Contrib.Cache.Controllers.AdminController"
+msgid "Cache Settings saved successfully."
+msgstr "La configuración de caché se ha guardado satisfactoriamente."
+
+#: Contrib.Cache.Controllers.AdminController
+#| msgid "Could not save Cache Settings."
+msgctxt "Contrib.Cache.Controllers.AdminController"
+msgid "Could not save Cache Settings."
+msgstr "No se pueden guardar las estadísticas de caché."
+
+#: Contrib.Cache.Controllers.StatisticsController
+#| msgid "Not allowed to manage cache"
+msgctxt "Contrib.Cache.Controllers.StatisticsController"
+msgid "Not allowed to manage cache"
+msgstr "No está permitido administrar la caché"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Cache Settings"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Cache Settings"
+msgstr "Configuración de la Caché"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Default Cache Duration"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Default Cache Duration"
+msgstr "Duración predeterminada de la Caché"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Number of seconds the pages should be kept in cache on the server."
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Number of seconds the pages should be kept in cache on the server."
+msgstr "Cantidad de segundos que deben permanecer las páginas en la caché del servidor."
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Max Age"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Max Age"
+msgstr "Antigüedad máxima"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "When defined, a cache-control header with a max-age property will be added. Use this in order to enable kernel cache on IIS."
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "When defined, a cache-control header with a max-age property will be added. Use this in order to enable kernel cache on IIS."
+msgstr "Cuando está definido, una cabecera cache-control con una propiedad max-age se añadirá a las respuestas del servidor. Usa esto para activar la caché de Kernel en IIS."
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Ignored urls"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Ignored urls"
+msgstr "Urls ignoradas"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "This must be a set of relative paths, e.g., /, /About. Please ensure that you enter only one path per line."
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "This must be a set of relative paths, e.g., /, /About. Please ensure that you enter only one path per line."
+msgstr "Esto debe ser un conjunto de rutas relativas, por ej., /, /About. Por favor asegúrese de introducir sólo una ruta por línea."
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "You can add comments by starting the line with #."
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "You can add comments by starting the line with #."
+msgstr "Puede añadir comentarios empezando la línea con #."
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Culture"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Culture"
+msgstr "Cultura"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Differentiate cultures"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Differentiate cultures"
+msgstr "Diferenciar culturas"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "When checked, the cached content will differ per culture too. For performance reasons leave it unchecked if you website uses only one culture."
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "When checked, the cached content will differ per culture too. For performance reasons leave it unchecked if you website uses only one culture."
+msgstr "Cuando está marcado, el contenido cacheado puede diferenciarse por cultura también. Para mejorar el rendimiento déjelo desmarcado si su sitio web sólo utiliza una cultura."
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Debug mode"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Debug mode"
+msgstr "Modo Debug"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Render caching information in cached pages"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Render caching information in cached pages"
+msgstr "Renderizar información de caché para las páginas cacheadas"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Route"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Route"
+msgstr "Ruta"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Priority"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Priority"
+msgstr "Prioridad"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Duration"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Duration"
+msgstr "Duración"
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Leave empty to use default duration, 0 to disable caching on this route."
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Leave empty to use default duration, 0 to disable caching on this route."
+msgstr "Déjelo vacío para usar la duración predeterminada, ponga 0 para desactivar la caché en esta ruta."
+
+#: ~/Modules/Contrib.Cache/Views/Admin/Index.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Contrib.Cache/Views/Admin/Index.cshtml"
+msgid "Save"
+msgstr "Guardar"
+
+#: ~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml
+#| msgid "Cache Statistics"
+msgctxt "~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml"
+msgid "Cache Statistics"
+msgstr "Estadísticas de Caché"
+
+#: ~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml
+#| msgid "Cached pages"
+msgctxt "~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml"
+msgid "Cached pages"
+msgstr "Páginas cacheadas"
+
+#: ~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml
+#| msgid "Url"
+msgctxt "~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml"
+msgid "Url"
+msgstr "Url"
+
+#: ~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml
+#| msgid "Cached On"
+msgctxt "~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml"
+msgid "Cached On"
+msgstr "Cacheado"
+
+#: ~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml
+#| msgid "Cached Until"
+msgctxt "~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml"
+msgid "Cached Until"
+msgstr "Cachea hasta que"
+
+#: ~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml
+#| msgid "Evict"
+msgctxt "~/Modules/Contrib.Cache/Views/Statistics/Index.cshtml"
+msgid "Evict"
+msgstr "Desalojar"
+

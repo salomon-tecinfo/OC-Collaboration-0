@@ -1,0 +1,134 @@
+#. "Name"
+#: "~/Modules/Orchard.PublishLater/Module.txt"
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "Publish Later"
+msgstr "Publicar después"
+
+#. "Author"
+#: "~/Modules/Orchard.PublishLater/Module.txt"
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "The Orchard Team"
+msgstr "El equipo Orchard"
+
+#. "Website"
+#: "~/Modules/Orchard.PublishLater/Module.txt"
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.PublishLater/Module.txt"
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "The PublishLater module introduces draft creation and scheduled publishing functionality."
+msgstr "El módulo PublishLater introduce la creación de proyectos y la funcionalidad de publicación programada."
+
+#: "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgctxt "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgid "You cannot schedule a publishing date in the past."
+msgstr "No puedes programar una publicación para una fecha en el pasado."
+
+#: "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgctxt "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgid "'{0} {1}' could not be parsed as a valid date and time."
+msgstr "'{0} {1}' no se pudo analizar como una fecha y hora válidas."
+
+#: "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgctxt "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgid "Both the date and time need to be specified for when this is to be published. If you don't want to schedule publishing then click Save or Publish Now."
+msgstr "Tanto la fecha como la hora deben ser especificados para cuando esto sea publicado. Si no desea programar la publicación haga clic en Guardar o en Publicar ahora."
+
+#: "Orchard.PublishLater.Services.PublishLaterService"
+msgctxt "Orchard.PublishLater.Services.PublishLaterService"
+msgid "Couldn't publish selected content."
+msgstr "No se pudo publicar el contenido seleccionado."
+
+#: "Orchard.PublishLater.Services.XmlRpcHandler"
+msgctxt "Orchard.PublishLater.Services.XmlRpcHandler"
+msgid "The username or e-mail or password provided is incorrect."
+msgstr "El nombre de usuario, e-mail o contraseña proporcionada es incorrecta."
+
+#: "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgid "Publish"
+msgstr "Publicar"
+
+#: "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgid "Publish Later"
+msgstr "Publicar más tarde"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.cshtml"
+msgid "Published: {0}"
+msgstr "Publicado: {0}"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgid "Published: {0}"
+msgstr "Publicado: {0}"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Online"
+msgstr "En línea"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is currently online"
+msgstr "Ahora mismo la página está en línea"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Published"
+msgstr "Publicado"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Offline"
+msgstr "fuera de línea"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is currently offline"
+msgstr "Ahora mismo la página está fuera de línea"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Not Published"
+msgstr "No publicada"
+
+#. "Draft"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Draft"
+msgstr "Borrador"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page has a draft"
+msgstr "La página tiene un borrador"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "No Draft"
+msgstr "Sin borrador"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Published: {0}"
+msgstr "Publicado: {0}"
+
+#. "Scheduled"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Scheduled"
+msgstr "Programado"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is scheduled for publishing"
+msgstr "La página está programada para su publicación"
+

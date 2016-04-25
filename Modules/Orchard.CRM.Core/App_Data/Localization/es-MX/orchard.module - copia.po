@@ -1,0 +1,2728 @@
+#. "Name"
+#: "~/Modules/Orchard.CRM.Core/Module.txt"
+msgctxt "~/Modules/Orchard.CRM.Core/Module.txt"
+msgid "OrchardCollaboration"
+msgstr "OrchardCollaboration"
+
+#. "Author"
+#: "~/Modules/Orchard.CRM.Core/Module.txt"
+msgctxt "~/Modules/Orchard.CRM.Core/Module.txt"
+msgid "Siyamand Ayubi"
+msgstr "Siyamand Ayubi"
+
+#. "Website"
+#: "~/Modules/Orchard.CRM.Core/Module.txt"
+msgctxt "~/Modules/Orchard.CRM.Core/Module.txt"
+msgid "http://OrchardCollaboration.com"
+msgstr "http://OrchardCollaboration.com"
+
+#. "Description"
+#: "~/Modules/Orchard.CRM.Core/Module.txt"
+msgctxt "~/Modules/Orchard.CRM.Core/Module.txt"
+msgid "The module adds an integrated ticketing system to Orchard."
+msgstr "The module adds an integrated ticketing system to Orchard."
+
+#. "Orchard Collaboration"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "Orchard Collaboration"
+msgstr "Orchard Collaboration"
+
+#: "Orchard.CRM.Core.AdminMenu"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "CRM Basic Data"
+msgstr "CRM Basic Data"
+
+#: "Orchard.CRM.Core.AdminMenu"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "Priorities"
+msgstr "Prioridades"
+
+#: "Orchard.CRM.Core.AdminMenu"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "Email Templates"
+msgstr "Plantillas de correos"
+
+#: "Orchard.CRM.Core.AdminMenu"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "Ticket Types"
+msgstr "Tipos de Asuntos"
+
+#: "Orchard.CRM.Core.AdminMenu"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "Ticket Status"
+msgstr "Estados de Asuntos"
+
+#: "Orchard.CRM.Core.AdminMenu"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "Services"
+msgstr "Trámites"
+
+#: "Orchard.CRM.Core.AdminMenu"
+msgctxt "Orchard.CRM.Core.AdminMenu"
+msgid "Business Units"
+msgstr "Unidades/Direcciones"
+
+#: "Orchard.CRM.Core.Activities.BasicDataBranchActivity<TBasicData>"
+msgctxt "Orchard.CRM.Core.Activities.BasicDataBranchActivity<TBasicData>"
+msgid "CRM Core"
+msgstr "CRM Core"
+
+#: "Orchard.CRM.Core.Activities.BasicDataBranchActivity<TBasicData>"
+msgctxt "Orchard.CRM.Core.Activities.BasicDataBranchActivity<TBasicData>"
+msgid "Branch the workflow based on the "
+msgstr "Branch the workflow based on the "
+
+#. "Failed"
+msgctxt "Orchard.CRM.Core.Activities.BasicDataBranchActivity<TBasicData>"
+msgid "Failed"
+msgstr "Fallo"
+
+#: "Orchard.CRM.Core.Activities.CreateTicketActivity"
+msgctxt "Orchard.CRM.Core.Activities.CreateTicketActivity"
+msgid "CRM Core"
+msgstr "CRM Core"
+
+#: "Orchard.CRM.Core.Activities.CreateTicketActivity"
+msgctxt "Orchard.CRM.Core.Activities.CreateTicketActivity"
+msgid "Create a new Ticket"
+msgstr "Crear nuevo Asunto"
+
+#. "Done"
+msgctxt "Orchard.CRM.Core.Activities.CreateTicketActivity"
+msgid "Done"
+msgstr "Terminar"
+
+#: "Orchard.CRM.Core.Activities.PermissionCreatedActivity"
+msgctxt "Orchard.CRM.Core.Activities.PermissionCreatedActivity"
+msgid "CRM Core"
+msgstr "CRM Core"
+
+#: "Orchard.CRM.Core.Activities.PermissionCreatedActivity"
+msgctxt "Orchard.CRM.Core.Activities.PermissionCreatedActivity"
+msgid "The event activity that will be fired when a new Permission will be Created"
+msgstr "The event activity that will be fired when a new Permission will be Created"
+
+#. "Done"
+msgctxt "Orchard.CRM.Core.Activities.PermissionCreatedActivity"
+msgid "Done"
+msgstr "Terminar"
+
+#: "Orchard.CRM.Core.Activities.SendPermissionEmailActivity"
+msgctxt "Orchard.CRM.Core.Activities.SendPermissionEmailActivity"
+msgid "CRM Core"
+msgstr "CRM Core"
+
+#: "Orchard.CRM.Core.Activities.SendPermissionEmailActivity"
+msgctxt "Orchard.CRM.Core.Activities.SendPermissionEmailActivity"
+msgid "Send email to the people who is related to the Permission in the list of the tokens of the workflow"
+msgstr "Send email to the people who is related to the Permission in the list of the tokens of the workflow"
+
+#. "Done"
+msgctxt "Orchard.CRM.Core.Activities.SendPermissionEmailActivity"
+msgid "Done"
+msgstr "Terminar"
+
+#. "Failed"
+msgctxt "Orchard.CRM.Core.Activities.SendPermissionEmailActivity"
+msgid "Failed"
+msgstr "Fallo"
+
+#: "Orchard.CRM.Core.Activities.SendTicketEmailActivity"
+msgctxt "Orchard.CRM.Core.Activities.SendTicketEmailActivity"
+msgid "CRM Core"
+msgstr "CRM Core"
+
+#: "Orchard.CRM.Core.Activities.SendTicketEmailActivity"
+msgctxt "Orchard.CRM.Core.Activities.SendTicketEmailActivity"
+msgid "Send email to the people who is related to the ticket"
+msgstr "Send email to the people who is related to the ticket"
+
+#. "Done"
+msgctxt "Orchard.CRM.Core.Activities.SendTicketEmailActivity"
+msgid "Done"
+msgstr "Terminar"
+
+#. "Failed"
+msgctxt "Orchard.CRM.Core.Activities.SendTicketEmailActivity"
+msgid "Failed"
+msgstr "Fallo"
+
+#: "Orchard.CRM.Core.Activities.UpdateTicketActivity"
+msgctxt "Orchard.CRM.Core.Activities.UpdateTicketActivity"
+msgid "CRM Core"
+msgstr "CRM Core"
+
+#: "Orchard.CRM.Core.Activities.UpdateTicketActivity"
+msgctxt "Orchard.CRM.Core.Activities.UpdateTicketActivity"
+msgid "Update the Ticket"
+msgstr "Actualizar Asunto"
+
+#. "Done"
+msgctxt "Orchard.CRM.Core.Activities.UpdateTicketActivity"
+msgid "Done"
+msgstr "Terminar"
+
+#. "There is no priority with the given Id"
+msgctxt "Orchard.CRM.Core.Controllers.BasicDataController"
+msgid "There is no priority with the given Id"
+msgstr "There is no priority with the given Id"
+
+#. "There is no status with the given Id"
+msgctxt "Orchard.CRM.Core.Controllers.BasicDataController"
+msgid "There is no status with the given Id"
+msgstr "There is no status with the given Id"
+
+#. "There is no service with the given Id"
+msgctxt "Orchard.CRM.Core.Controllers.BasicDataController"
+msgid "There is no service with the given Id"
+msgstr "There is no service with the given Id"
+
+#. "There is no ticketType with the given Id"
+msgctxt "Orchard.CRM.Core.Controllers.BasicDataController"
+msgid "There is no ticketType with the given Id"
+msgstr "There is no ticketType with the given Id"
+
+#: "Orchard.CRM.Core.Controllers.ContentOwnershipController"
+msgctxt "Orchard.CRM.Core.Controllers.ContentOwnershipController"
+msgid "You don't have permission to change access to the contentItem"
+msgstr "You don't have permission to change access to the contentItem"
+
+#: "Orchard.CRM.Core.Controllers.CRMCommentController"
+msgctxt "Orchard.CRM.Core.Controllers.CRMCommentController"
+msgid "Ticket"
+msgstr "Asunto"
+
+#: "Orchard.CRM.Core.Controllers.EmailTemplateController"
+msgctxt "Orchard.CRM.Core.Controllers.EmailTemplateController"
+msgid "Not authorized to list users"
+msgstr "Not authorized to list users"
+
+#. "There is no emailTemplate with the given Id"
+msgctxt "Orchard.CRM.Core.Controllers.EmailTemplateController"
+msgid "There is no emailTemplate with the given Id"
+msgstr "There is no emailTemplate with the given Id"
+
+#: "Orchard.CRM.Core.Controllers.FileUploadController"
+msgctxt "Orchard.CRM.Core.Controllers.FileUploadController"
+msgid "You are not permitted to upload files"
+msgstr "You are not permitted to upload files"
+
+#: "Orchard.CRM.Core.Controllers.FileUploadController"
+msgctxt "Orchard.CRM.Core.Controllers.FileUploadController"
+msgid "ContentItem"
+msgstr "ContentItem"
+
+#. "There is no businessUnit with the given Id"
+msgctxt "Orchard.CRM.Core.Controllers.OrganizationController"
+msgid "There is no businessUnit with the given Id"
+msgstr "There is no businessUnit with the given Id"
+
+#. "There is no team with the given Id"
+msgctxt "Orchard.CRM.Core.Controllers.OrganizationController"
+msgid "There is no team with the given Id"
+msgstr "There is no team with the given Id"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Groups"
+msgstr "Grupos"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Tickets related to"
+msgstr "Tickets related to"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Tickets related to ContentId"
+msgstr "Tickets related to ContentId"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Users"
+msgstr "Usuarios"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Unassigned"
+msgstr "Sin asignar"
+
+###
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Status"
+msgstr "Estado"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "No Status"
+msgstr "No Status"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Not Overdue"
+msgstr "Sin vencer"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Due Date"
+msgstr "Fecha de Vencimiento"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Overdue"
+msgstr "Vencido"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "All visible Tickets by the selected agents or groups"
+msgstr "All visible Tickets by the selected agents or groups"
+
+#: "Orchard.CRM.Core.Controllers.TicketController"
+msgctxt "Orchard.CRM.Core.Controllers.TicketController"
+msgid "Term"
+msgstr "Term"
+
+#: "Orchard.CRM.Core.Drivers.ActivityStreamPartDriver"
+msgctxt "Orchard.CRM.Core.Drivers.ActivityStreamPartDriver"
+msgid "Today"
+msgstr "Hoy"
+
+#: "Orchard.CRM.Core.Drivers.ActivityStreamPartDriver"
+msgctxt "Orchard.CRM.Core.Drivers.ActivityStreamPartDriver"
+msgid "System"
+msgstr "Sistema"
+
+#: "Orchard.CRM.Core.Drivers.ProjectionWithDynamicSortDriver"
+msgctxt "Orchard.CRM.Core.Drivers.ProjectionWithDynamicSortDriver"
+msgid "Suffix should not contain special characters."
+msgstr "Suffix should not contain special characters."
+
+#. "You don't have permission to view the item"
+msgctxt "Orchard.CRM.Core.Drivers.TicketDriver"
+msgid "You don't have permission to view the item"
+msgstr "You don't have permission to view the item"
+
+#: "Orchard.CRM.Core.Handlers.TicketSettingPartHandler"
+msgctxt "Orchard.CRM.Core.Handlers.TicketSettingPartHandler"
+msgid "Orchard Collaboration"
+msgstr "Orchard Collaboration"
+
+#: "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "ETitle"
+msgstr "ETitle"
+
+#. "Title"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Title"
+msgstr "Título"
+
+#. "EEmail"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "EEmail"
+msgstr "EEmail"
+
+#. "Subject"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Subject"
+msgstr "Tema"
+
+#. "Body"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Body"
+msgstr "Mensaje"
+
+#. "From"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "From"
+msgstr "De"
+
+#: "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "EComment"
+msgstr "EComment"
+
+#: "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Comment"
+msgstr "Seguimiento"
+
+#. "CommentText"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "CommentText"
+msgstr "CommentText"
+
+#: "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "EUser"
+msgstr "EUser"
+
+#: "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "User"
+msgstr "Usuario"
+
+#. "Email"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Email"
+msgstr "Email"
+
+#. "Username"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+#. "ETeam"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "ETeam"
+msgstr "ETeam"
+
+#. "Id"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Id"
+msgstr "Id"
+
+#. "EBusinessUnit"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "EBusinessUnit"
+msgstr "EBusinessUnit"
+
+#. "ETicket"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "ETicket"
+msgstr "ETicket"
+
+#. "Number"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Number"
+msgstr "Numero"
+
+#. "RequestingUserEmail"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "RequestingUserEmail"
+msgstr "RequestingUserEmail"
+
+#. "RequestingUserName"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "RequestingUserName"
+msgstr "RequestingUserName"
+
+#. "RequestingUserFullName"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "RequestingUserFullName"
+msgstr "RequestingUserFullName"
+
+#. "Service"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Service"
+msgstr "Trámite"
+
+#. "Priority"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Priority"
+msgstr "Prioridad"
+
+#. "TicketType"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "TicketType"
+msgstr "TicketType"
+
+###
+#. "Status"
+msgctxt "Orchard.CRM.Core.Providers.ActivityTokenProvider"
+msgid "Status"
+msgstr "Estado"
+
+#: "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgctxt "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgid "Tomorrow"
+msgstr "Mañana"
+
+#: "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgctxt "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgid "Three days later"
+msgstr "Three days later"
+
+#: "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgctxt "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgid "One week later"
+msgstr "One week later"
+
+#: "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgctxt "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgid "One month later"
+msgstr "One month later"
+
+#: "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgctxt "Orchard.CRM.Core.Providers.BasicDataSelectForm"
+msgid "-"
+msgstr "-"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "Main ContentItem"
+msgstr "Main ContentItem"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "Main ContentItem to use in widgets"
+msgstr "Main ContentItem to use in widgets"
+
+#. "Id"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "Id"
+msgstr "Id"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "ContentItem Id"
+msgstr "ContentItem Id"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "Team"
+msgstr "Team"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "The current Team"
+msgstr "The current Team"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "The Team Id"
+msgstr "The Team Id"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "Ticket"
+msgstr "Asunto"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "The current Ticket"
+msgstr "The current Ticket"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "The Ticket Id"
+msgstr "The Ticket Id"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "BusinessUnit"
+msgstr "BusinessUnit"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "The current BusinessUnit"
+msgstr "The current BusinessUnit"
+
+#: "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgctxt "Orchard.CRM.Core.Providers.CurrentContentItemForWidgetTokenProvider"
+msgid "The BusinessUnit Id"
+msgstr "The BusinessUnit Id"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgid "Assignee"
+msgstr "Responsable"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgid "Edit Access"
+msgstr "Edit Access"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgid "Watcher Access"
+msgstr "Watcher Access"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgid "[NULL]"
+msgstr "[NULL]"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.ContentItemPermissionPartStreamWriter"
+msgid " group"
+msgstr " group"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.FieldActivityStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.FieldActivityStreamWriter"
+msgid "[NULL]"
+msgstr "[NULL]"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "Ticket is created"
+msgstr "Ticket is created"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "null"
+msgstr "null"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "changed the DueDate to: '{0}'"
+msgstr "changed the DueDate to: '{0}'"
+
+#. "Empty"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "Empty"
+msgstr "Empty"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "changed the Title to: '{0}'"
+msgstr "changed the Title to: '{0}'"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "changed the Description"
+msgstr "changed the Description"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "on Ticket"
+msgstr "on Ticket"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "[NULL]"
+msgstr "[NULL]"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "Creates a new Ticket"
+msgstr "Creates a new Ticket"
+
+#: "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgctxt "Orchard.CRM.Core.Providers.ActivityStream.TicketStreamWriter"
+msgid "for"
+msgstr "for"
+
+#: "Orchard.CRM.Core.Providers.Filters.BasicDataFilterForm"
+msgctxt "Orchard.CRM.Core.Providers.Filters.BasicDataFilterForm"
+msgid "Any"
+msgstr "Any"
+
+#. "ContentItemPermission Fields"
+msgctxt "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgid "ContentItemPermission Fields"
+msgstr "ContentItemPermission Fields"
+
+#: "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgid "User Selection"
+msgstr "User Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgid "Team Selection"
+msgstr "Team Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgid "BusinessUnit Selection"
+msgstr "BusinessUnit Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgid "All items that current user has access to them"
+msgstr "All items that current user has access to them"
+
+#: "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgid "All items that belong to any of the given teams, users and businessUnits. (This is only used by the system)"
+msgstr "All items that belong to any of the given teams, users and businessUnits. (This is only used by the system)"
+
+#: "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.ContentItemPermissionFilter"
+msgid "All items without any assignee"
+msgstr "All items without any assignee"
+
+#. "Ticket Fields"
+msgctxt "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgid "Ticket Fields"
+msgstr "Ticket Fields"
+
+#: "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgid "RequestingUser Selection"
+msgstr "RequestingUser Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgid "RelatedContentItem Selection"
+msgstr "RelatedContentItem Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgid "Status Selection"
+msgstr "Status Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgid "Ticke Type Selection"
+msgstr "Ticke Type Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgid "Not Equal Status Selection"
+msgstr "Not Equal Status Selection"
+
+#: "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgctxt "Orchard.CRM.Core.Providers.Filters.TicketFieldsFilter"
+msgid "Ticket Due Date"
+msgstr "Vencimiento de Asunto"
+
+#: "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgctxt "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgid "Html"
+msgstr "Html"
+
+#: "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgctxt "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgid "Html Layouts"
+msgstr "Html Layouts"
+
+#: "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgctxt "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgid "Tickets List"
+msgstr "Tickets List"
+
+#: "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgctxt "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgid "Uses a build-in list-based shape to render a list of tickets. (This layout doesn't support 'Properties Display Mode')"
+msgstr "Uses a build-in list-based shape to render a list of tickets. (This layout doesn't support 'Properties Display Mode')"
+
+#: "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgctxt "Orchard.CRM.Core.Providers.Layouts.TicketListShapeLayout"
+msgid "Ticket list shape"
+msgstr "Ticket list shape"
+
+#. "Ticket Fields"
+msgctxt "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgid "Ticket Fields"
+msgstr "Ticket Fields"
+
+#: "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgctxt "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgid "Sort by status"
+msgstr "Sort by status"
+
+#: "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgctxt "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgid "Sort by Priority"
+msgstr "Sort by Priority"
+
+#: "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgctxt "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgid "Sort by Service"
+msgstr "Sort by Service"
+
+#: "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgctxt "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgid "Sort by Identity"
+msgstr "Sort by Identity"
+
+#: "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgctxt "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgid "Sort by Title"
+msgstr "Sort by Title"
+
+#: "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgctxt "Orchard.CRM.Core.Providers.SortCriterias.TicketFieldsSortCriteria"
+msgid "Sort by DueDate"
+msgstr "Sort by DueDate"
+
+#: "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgctxt "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgid "AccessType value is not valid"
+msgstr "AccessType value is not valid"
+
+#: "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgctxt "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgid "Items atleast must have only one assignee"
+msgstr "Items atleast must have only one assignee"
+
+#: "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgctxt "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgid "One of the parameters must have a value"
+msgstr "One of the parameters must have a value"
+
+#: "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgctxt "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgid "The ContentItem doesn't have any ContentItemPermissionPart part."
+msgstr "The ContentItem doesn't have any ContentItemPermissionPart part."
+
+#. "You don't have permission to change access to the contentItem"
+msgctxt "Orchard.CRM.Core.Services.ContentOwnershipHelper"
+msgid "You don't have permission to change access to the contentItem"
+msgstr "You don't have permission to change access to the contentItem"
+
+#. "The ContentItem doesn't have any ContentItemPermissionPart part."
+msgctxt "Orchard.CRM.Core.Services.CRMContentOwnershipService"
+msgid "The ContentItem doesn't have any ContentItemPermissionPart part."
+msgstr "The ContentItem doesn't have any ContentItemPermissionPart part."
+
+#: "Orchard.CRM.Core.Services.CRMContentOwnershipService"
+msgctxt "Orchard.CRM.Core.Services.CRMContentOwnershipService"
+msgid "There is no permission associated with the given contentItem."
+msgstr "There is no permission associated with the given contentItem."
+
+#: "Orchard.CRM.Core.Services.CRMContentOwnershipService"
+msgctxt "Orchard.CRM.Core.Services.CRMContentOwnershipService"
+msgid "You don't have permission to change access to the contentItem"
+msgstr "You don't have permission to change access to the contentItem"
+
+#: "Orchard.CRM.Core.Services.CRMContentOwnershipService"
+msgctxt "Orchard.CRM.Core.Services.CRMContentOwnershipService"
+msgid "You can't delete owner permission"
+msgstr "You can't delete owner permission"
+
+#: "Orchard.CRM.Core.Services.FileService"
+msgctxt "Orchard.CRM.Core.Services.FileService"
+msgid "File exceeds maximum size allowed"
+msgstr "File exceeds maximum size allowed"
+
+#: "Orchard.CRM.Core.Services.FileService"
+msgctxt "Orchard.CRM.Core.Services.FileService"
+msgid "Maximum number of files allowed has been reached"
+msgstr "Maximum number of files allowed has been reached"
+
+#. "Invalid search query: {0}"
+msgctxt "Orchard.CRM.Core.Services.SearchTicketService"
+msgid "Invalid search query: {0}"
+msgstr "Invalid search query: {0}"
+
+#: "Orchard.CRM.Core.Services.WidgetService"
+msgctxt "Orchard.CRM.Core.Services.WidgetService"
+msgid "An error occured during layer evaluation on: {0}"
+msgstr "An error occured during layer evaluation on: {0}"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Create Ticket Activity"
+msgstr "Create Ticket Activity"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "This activity creates a new Ticket. You can specify the default values of the ticket fields here."
+msgstr "This activity creates a new Ticket. You can specify the default values of the ticket fields here."
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Priority"
+msgstr "Prioridad"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Service"
+msgstr "Trámite"
+
+###
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Status"
+msgstr "Estado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Group"
+msgstr "Grupo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Please note that you must only select a User or a BusinessUnit. Selecting both of them is not possible"
+msgstr "Please note that you must only select a User or a BusinessUnit. Selecting both of them is not possible"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "User"
+msgstr "Usuario"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Due Date"
+msgstr "Fecha de Vencimiento"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Title"
+msgstr "Título"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Email based Tickets"
+msgstr "Email based Tickets"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "These fields are only applied to tickets related to the received emails"
+msgstr "These fields are only applied to tickets related to the received emails"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Ignore Unknown Email"
+msgstr "Ignore Unknown Email"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CreateTicketActivity.cshtml"
+msgid "Download Email Attachments"
+msgstr "Download Email Attachments"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CurrentContentItemPermissions.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CurrentContentItemPermissions.cshtml"
+msgid "Current Permissions"
+msgstr "Current Permissions"
+
+#: "~/Modules/Orchard.CRM.Core/Views/CurrentContentItemPermissions.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/CurrentContentItemPermissions.cshtml"
+msgid "X"
+msgstr "X"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgid "Select Email Template"
+msgstr "Select Email Template"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgid "Subject"
+msgstr "Tema"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgid "Type"
+msgstr "Tipo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgid "Send to Requesting User"
+msgstr "Send to Requesting User"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgid "Send to Assignee"
+msgstr "Send to Assignee"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplateActivityForm.cshtml"
+msgid "Send to users who have shared/read only access to the ticket"
+msgstr "Send to users who have shared/read only access to the ticket"
+
+#: "~/Modules/Orchard.CRM.Core/Views/FileLinkPartial.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/FileLinkPartial.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.Common.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.Common.Metadata.cshtml"
+msgid "Creation Date:"
+msgstr "Fecha Creación:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.Common.Metadata.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.Common.Metadata.Summary.cshtml"
+msgid "Creation Date:"
+msgstr "Fecha Creación:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgid "Uploaded Files"
+msgstr "Archivos Cargados"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgid "No files have been uploaded"
+msgstr "No se han cargado archivos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgid " delete items"
+msgstr " eliminar items"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgid "Are you sure you want to delete the file?"
+msgstr "Are you sure you want to delete the file?"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgid "Yes"
+msgstr "Si"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts.FilesList.cshtml"
+msgid "No"
+msgstr "No"
+
+#. "hide ticket menus for contentItems"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/TicketsForContentItemFlipFlop.cshtml"
+msgid "hide ticket menus for contentItems"
+msgstr "hide ticket menus for contentItems"
+
+#: "~/Modules/Orchard.CRM.Core/Views/TicketsForContentItemFlipFlop.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/TicketsForContentItemFlipFlop.cshtml"
+msgid "show ticket menus for contentItems"
+msgstr "show ticket menus for contentItems"
+
+#: "~/Modules/Orchard.CRM.Core/Views/TicketsListShape.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/TicketsListShape.cshtml"
+msgid "Id"
+msgstr "Id"
+
+#: "~/Modules/Orchard.CRM.Core/Views/TicketsListShape.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/TicketsListShape.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Update Priority"
+msgstr "Actualizar Prioridad"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Priority"
+msgstr "Prioridad"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Update Service"
+msgstr "Actualizar Trámite"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Service"
+msgstr "Trámite"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Update Status"
+msgstr "Actualizar Estado"
+
+###
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Status"
+msgstr "Estado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Update DueDate"
+msgstr "Actualizar Vencimiento"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Dates"
+msgstr "Fechas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Due Date:"
+msgstr "Fecha de Vencimiento"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Update Title"
+msgstr "Actualizar Título"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Title"
+msgstr "Título xxx"
+
+#: "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/UpdateTicketActivity.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Users.BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Users.BusinessUnitMembers.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Users.TeamMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Users.TeamMembers.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgid "Create Priority"
+msgstr "Crear Prioridad"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreatePriority.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgid "Create Service"
+msgstr "Crear Trámite"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateService.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "New"
+msgstr "Nuevo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Open"
+msgstr "Abierto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Solved"
+msgstr "Resuelto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Closed"
+msgstr "Cerrado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Create Status"
+msgstr "Create Status"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Status Type"
+msgstr "Tipo de Estado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "OrchardCollaboration needs four basic status items. ('New', 'Open', 'Solved' and 'Closed'). You can change items, add new items, or remove items. But the four basic status items must remain in the system. This field allows you to announce the system whether the current item is one of the four basic ones and which one or not."
+msgstr "OrchardCollaboration needs four basic status items. ('New', 'Open', 'Solved' and 'Closed'). You can change items, add new items, or remove items. But the four basic status items must remain in the system. This field allows you to announce the system whether the current item is one of the four basic ones and which one or not."
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateStatus.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgid "Create Ticket Type"
+msgstr "Create Ticket Type"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/CreateTicketType.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditPriority.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditPriority.cshtml"
+msgid "Edit Priority"
+msgstr "Editar Prioridad"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditPriority.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditPriority.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditPriority.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditPriority.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditPriority.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgid "Edit Service"
+msgstr "Edit Service"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditService.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "New"
+msgstr "Nuevo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Open"
+msgstr "Abierto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Solved"
+msgstr "Resuelto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Closed"
+msgstr "Cerrado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Edit Status"
+msgstr "Editar Estado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Status Type"
+msgstr "Tipo de Estado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "OrchardCollaboration needs four basic status items. ('New', 'Open', 'Solved' and 'Closed'). You can change items, add new items, or remove items. But the four basic status items must remain in the system. This field allows you to announce the system whether the current item is one of the four basic ones and which one or not."
+msgstr "OrchardCollaboration needs four basic status items. ('New', 'Open', 'Solved' and 'Closed'). You can change items, add new items, or remove items. But the four basic status items must remain in the system. This field allows you to announce the system whether the current item is one of the four basic ones and which one or not."
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditStatus.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgid "Edit Ticket Type"
+msgstr "Edit Ticket Type"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/EditTicketType.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgid "CRM Basic Data"
+msgstr "CRM Basic Data"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgid "Priorities"
+msgstr "Prioridades"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgid "Ticket Types"
+msgstr "Tipos de Asuntos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgid "Services"
+msgstr "Trámite"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgid "Business Units"
+msgstr "Unidades/Direcciones"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Index.cshtml"
+msgid "Email Templates"
+msgstr "Plantillas de correos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgid "Priorities"
+msgstr "Prioridades"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Priorities.cshtml"
+msgid "Remove"
+msgstr "Quitar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgid "Services"
+msgstr "Trámite"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/Services.cshtml"
+msgid "Remove"
+msgstr "Quitar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Status List"
+msgstr "Status List"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Type"
+msgstr "Tipo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "New"
+msgstr "Nuevo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Open"
+msgstr "Abierto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Solved"
+msgstr "Resuelto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Closed"
+msgstr "Cerrado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketStatusList.cshtml"
+msgid "Remove"
+msgstr "Quitar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgid "Ticket Types"
+msgstr "Tipos de Asuntos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgid "Order"
+msgstr "Ordenamiento"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/BasicData/TicketTypes.cshtml"
+msgid "Remove"
+msgstr "Quitar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Change Permissions of the Selected Items"
+msgstr "Change Permissions of the Selected Items"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "permission types"
+msgstr "permission types"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Assignee"
+msgstr "Responsable"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Edit Access"
+msgstr "Edit Access"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Access (Watcher)"
+msgstr "Access (Watcher)"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Groups"
+msgstr "Grupos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Agents"
+msgstr "Agents"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Remove old permission"
+msgstr "Remove old permission"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Apply"
+msgstr "Aplicar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Return"
+msgstr "Regresar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Tickets"
+msgstr "Asuntos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid " delete items"
+msgstr " delete items"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Are you sure you want to delete the given permission?"
+msgstr "Are you sure you want to delete the given permission?"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "Yes"
+msgstr "Si"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/Edit.cshtml"
+msgid "No"
+msgstr "No"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/PermissionError.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/PermissionError.cshtml"
+msgid "Permission Error"
+msgstr "Permission Error"
+
+#: "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/PermissionError.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/ContentOwnership/PermissionError.cshtml"
+msgid "You don't have permission to do this operation"
+msgstr "You don't have permission to do this operation"
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "Leave blank to use default settings on the Part definition"
+msgstr "Leave blank to use default settings on the Part definition"
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "How many files can be uploaded per part instance?"
+msgstr "How many files can be uploaded per part instance?"
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "When attached to a content item, how many files can be uploaded to that item?"
+msgstr "When attached to a content item, how many files can be uploaded to that item?"
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "How big can each file be? (MB)"
+msgstr "How big can each file be? (MB)"
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "Max Size of each file in MB."
+msgstr "Max Size of each file in MB."
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "Allowed File Types"
+msgstr "Allowed File Types"
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "Separate file extensions with comma."
+msgstr "Separate file extensions with comma."
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "Where should uploaded files be placed?"
+msgstr "Where should uploaded files be placed?"
+
+#: "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/DefinitionTemplates/FileUploadPartSettings.cshtml"
+msgid "The pattern used to determine where resource items are uploaded to"
+msgstr "The pattern used to determine where resource items are uploaded to"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/BusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/BusinessUnit.cshtml"
+msgid "Description:"
+msgstr "Descripción:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/ContentItemPermission.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/ContentItemPermission.cshtml"
+msgid "Assignee Group:"
+msgstr "Grupo Responsable xx:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/ContentItemPermission.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/ContentItemPermission.cshtml"
+msgid "Assignee User:"
+msgstr "Usuario Responsable:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgid "Title:"
+msgstr "Título:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgid "Description:"
+msgstr "Descripción:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgid "Service:"
+msgstr "Trámite:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgid "Priority:"
+msgstr "Prioridad:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/CustomerTicket.cshtml"
+msgid "Type:"
+msgstr "Tipo:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Service.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Service.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Team.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Team.cshtml"
+msgid "Description:"
+msgstr "Descripción:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgid "Title:"
+msgstr "Título:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgid "Description:"
+msgstr "Descripción:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgid "Service:"
+msgstr "Trámite:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgid "Status Items:"
+msgstr "Estado de Items:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgid "Priority:"
+msgstr "Prioridad:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgid "Type:"
+msgstr "Tipo:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.cshtml"
+msgid "Due Date:"
+msgstr "Fecha de Vencimiento:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "Orchard Collaboration settings"
+msgstr "Orchard Collaboration settings"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "Default Due date for customer ticket after"
+msgstr "Default Due date for customer ticket after"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "days."
+msgstr "days."
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "Default state for tickets created by customer"
+msgstr "Default state for tickets created by customer"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "Render ticket related pages by Default Theme of the module"
+msgstr "Render ticket related pages by Default Theme of the module"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "Position of the 'show/hide' menu of the 'Tickets menus for ContentItems'. 'Tickets menus for ContentItems' are only visible for ContentItems that have the TicketsForContentItemPart."
+msgstr "Position of the 'show/hide' menu of the 'Tickets menus for ContentItems'. 'Tickets menus for ContentItems' are only visible for ContentItems that have the TicketsForContentItemPart."
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "top-left"
+msgstr "top-left"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "top-right"
+msgstr "top-right"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "bottom-left"
+msgstr "bottom-left"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/Ticket.TicketSetting.cshtml"
+msgid "bottom-right"
+msgstr "bottom-right"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgid "Group"
+msgstr "Grupo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgid "User"
+msgstr "Usuario"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgid "Please note: if you select a user, then the Group field will be ignored"
+msgstr "Please note: if you select a user, then the Group field will be ignored"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgid "Due Date Before"
+msgstr "Due Date Before"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EditorTemplates/Parts/TicketMenuItem.cshtml"
+msgid "Status"
+msgstr "Estado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgid "Subject"
+msgstr "Tema"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgid "TypeId"
+msgstr "TypeId"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgid "Email Body"
+msgstr "Mensaje de Correo"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Create.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgid "Email Templates Edit"
+msgstr "Email Templates Edit"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgid "Subject"
+msgstr "Tema"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgid "TypeId"
+msgstr "TypeId"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgid "Email Body"
+msgstr "Mensaje de Correo"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Edit.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Email Templates"
+msgstr "Plantillas de correos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Subject"
+msgstr "Tema"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Type"
+msgstr "Tipo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/EmailTemplate/Index.cshtml"
+msgid "Remove"
+msgstr "Quitar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Item/Create.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Item/Create.cshtml"
+msgid "New {0}"
+msgstr "Nuevo {0}"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Item/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Item/Edit.cshtml"
+msgid "Edit Content"
+msgstr "Editar Contenido"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Item/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Item/Edit.cshtml"
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgid "Members"
+msgstr "Members"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgid "Full Name"
+msgstr "Nombre Completo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgid "Email"
+msgstr "Email"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnitMembers.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgid "Business Units"
+msgstr "Unidades/Direcciones"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgid "Users"
+msgstr "Usuarios"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/BusinessUnits.cshtml"
+msgid "Remove"
+msgstr "Quitar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgid "Create  Business Unit"
+msgstr "Create  Business Unit"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/CreateBusinessUnit.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/EditBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/EditBusinessUnit.cshtml"
+msgid "Edit Business Unit"
+msgstr "Edit Business Unit"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/EditBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/EditBusinessUnit.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/EditBusinessUnit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/EditBusinessUnit.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/EditBusinessUnit.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/EditTeam.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/EditTeam.cshtml"
+msgid "Name:"
+msgstr "Nombre:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/EditTeam.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/EditTeam.cshtml"
+msgid "Description:"
+msgstr "Descripción:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/EditTeam.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/EditTeam.cshtml"
+msgid "Submit"
+msgstr "Enviar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/Error.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/Error.cshtml"
+msgid "Error"
+msgstr "Error"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/TeamMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/TeamMembers.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/TeamMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/TeamMembers.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgid "Teams"
+msgstr "Equipos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgid "Name"
+msgstr "Nombre"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Organization/Teams.cshtml"
+msgid "Remove"
+msgstr "Quitar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/BusinessUnitMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/BusinessUnitMembers.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.cshtml"
+msgid "Assignee"
+msgstr "Responsable"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Summary.cshtml"
+msgid "Assignee Group"
+msgstr "Grupo Responsable"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Summary.cshtml"
+msgid "Assignee User"
+msgstr "Usuario Responsable"
+
+#: ~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.People.cshtml
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.People.cshtml"
+msgid "People"
+msgstr "Colaboradores"
+
+#: ~/Views/Item.MenuView.cshtml
+msgctxt ~/Views/Item.MenuView.cshtml
+msgid "People"
+msgstr "Colaboradores"
+
+#: Orchard.CRM.Project.Services.ExtendedProjectService
+msgctxt Orchard.CRM.Project.Services.ExtendedProjectService
+msgid "People"
+msgstr "Colaboradores"
+
+
+#: ~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.People.cshtml
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.People.cshtml"
+msgid "Reporter"
+msgstr "Supervisor"
+
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Toolbar.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Toolbar.cshtml"
+msgid "Share"
+msgstr "Compartir"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Toolbar.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/ContentItemPermission.Toolbar.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/CRMComments.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/CRMComments.cshtml"
+msgid "Add Comment"
+msgstr "Agregar Seguimiento"
+
+#. "Your tickets summary"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgid "Your tickets summary"
+msgstr "Tu resumen de asuntos"
+
+#. "Overdue items"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgid "Overdue items"
+msgstr "Asuntos vencidos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgid "All tickets summary"
+msgstr "Resumen de Asuntos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgid "All Overdue items"
+msgstr "All Overdue items"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.cshtml"
+msgid "unassigned tickets"
+msgstr "Asuntos sin asignar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Dashboard.Summary.cshtml"
+msgid "Tickets Dashboard"
+msgstr "Tablero de Asuntos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/DashboardActivityStream.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/DashboardActivityStream.cshtml"
+msgid "Activity Stream"
+msgstr "Histórico de Actividades"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/DashboardActivityStream.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/DashboardActivityStream.cshtml"
+msgid "There is no activity so far"
+msgstr "There is no activity so far"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TeamMembers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TeamMembers.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Status"
+msgstr "Estado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Priority"
+msgstr "Prioridad"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Service"
+msgstr "Trámite"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Type"
+msgstr "Tipo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Due Date"
+msgstr "Fecha de Vencimiento"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "-"
+msgstr "-"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Reporter"
+msgstr "Supervisor"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Description"
+msgstr "Descripción"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.cshtml"
+msgid "Sub tickets"
+msgstr "Sub tickets"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.EditTitle.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.EditTitle.cshtml"
+msgid "Create Ticket"
+msgstr "Crear Asunto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.EditTitle.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.EditTitle.cshtml"
+msgid "Edit "
+msgstr "Editar "
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.HeaderTitle.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.HeaderTitle.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.HeaderTitle.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.HeaderTitle.cshtml"
+msgid "Create Sub Ticket"
+msgstr "Create Sub Ticket"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.HeaderTitle.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.HeaderTitle.cshtml"
+msgid "Share"
+msgstr "Compartir"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Type:"
+msgstr "Tipo:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Title:"
+msgstr "Título:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Creation Date:"
+msgstr "Fecha Creación:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "-"
+msgstr "-"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Publish Date:"
+msgstr "Fecha Publicación:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Not Published"
+msgstr "No Publicado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Creator:"
+msgstr "Creado:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Unpublish"
+msgstr "Des publicar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Publish"
+msgstr "Publicar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.RelatedContentItem.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgid "Due Date:"
+msgstr "Fecha de Vencimiento:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgid "Status:"
+msgstr "Estado:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgid "Priority:"
+msgstr "Prioridad:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.Summary.cshtml"
+msgid "Type:"
+msgstr "Tipo:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.SummaryAdmin.cshtml"
+msgid "Ticket Identity:"
+msgstr "Ticket Identity:"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgid "Today"
+msgstr "Hoy"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgid "Tomorrow"
+msgstr "Mañana"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgid "In three days"
+msgstr "In three days"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgid "overdue in "
+msgstr "overdue in "
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/Ticket.TableRow.cshtml"
+msgid "Overdue"
+msgstr "Vencido"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Tickets"
+msgstr "Asuntos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Add  ticket"
+msgstr "Agregar asunto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Add"
+msgstr "Agregar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Overdue tickets"
+msgstr "Overdue tickets"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Overdue"
+msgstr "Vencido"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Ticket"
+msgstr "Asunto"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Unassigned tickets"
+msgstr "Asuntos sin asignar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Parts/TicketsForContentItem.cshtml"
+msgid "Unassigned"
+msgstr "Sin asignar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Create.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Create.cshtml"
+msgid "New {0}"
+msgstr "Nuevo {0}"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Display.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Display.cshtml"
+msgid "Create Child"
+msgstr "Create Child"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Display.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Display.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Display.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Display.cshtml"
+msgid "Share"
+msgstr "Compartir"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Edit.cshtml"
+msgid "Edit Content"
+msgstr "Editar Contenido"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Edit.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Edit.cshtml"
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Tickets"
+msgstr "Asuntos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Total number of items"
+msgstr "Total number of items"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Advance search"
+msgstr "Busqueda avanzada"
+
+
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Due Date"
+msgstr "Fecha de Vencimiento"
+
+#. "Agents"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Agents"
+msgstr "Agents"
+
+#. "Select Agents"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Select Agents"
+msgstr "Select Agents"
+
+#. "Groups"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Groups"
+msgstr "Grupos"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "All visible Tickets by the selected agents or groups"
+msgstr "All visible Tickets by the selected agents or groups"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Unassigned tickets"
+msgstr "Asuntos sin asignar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Assign"
+msgstr "Asignar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Close"
+msgstr "Cerrado"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Reopen"
+msgstr "Re abrir"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Create"
+msgstr "Crear"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Id"
+msgstr "Id"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Title"
+msgstr "Título"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Time"
+msgstr "Hora"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Priority"
+msgstr "Prioridad"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Group"
+msgstr "Grupo"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "User"
+msgstr "Usuario"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Links"
+msgstr "Ligas"
+
+#. "Edit"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Edit"
+msgstr "Editar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "There is no ticket matched with the given filter."
+msgstr "There is no ticket matched with the given filter."
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid " delete items"
+msgstr " delete items"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Are you sure you want to delete the given items?"
+msgstr "Are you sure you want to delete the given items?"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Yes"
+msgstr "Si"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "No"
+msgstr "No"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid " share or assign selected items"
+msgstr " share or assign selected items"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid " please select a group or a user"
+msgstr " please select a group or a user"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "tickets can not have multiple assignee"
+msgstr "tickets can not have multiple assignee"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Permission type"
+msgstr "Permission type"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Assignee"
+msgstr "Responsable"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Readonly"
+msgstr "Readonly"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid " select businessunits"
+msgstr " select businessunits"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid " select agents"
+msgstr " select agents"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Remove old permission"
+msgstr "Remove old permission"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "View in full detail"
+msgstr "View in full detail"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Share"
+msgstr "Compartir"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Ticket/Search.cshtml"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Users/AddUserToService.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Users/AddUserToService.cshtml"
+msgid "Save"
+msgstr "Grabar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Users/BusinessUnitMember.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Users/BusinessUnitMember.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Users/ServiceUsers.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Users/ServiceUsers.cshtml"
+msgid "Add remove customers"
+msgstr "Add remove customers"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Users/TeamMember.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Users/TeamMember.cshtml"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: "~/Modules/Orchard.CRM.Core/Views/Users/Users.cshtml"
+msgctxt "~/Modules/Orchard.CRM.Core/Views/Users/Users.cshtml"
+msgid "Users"
+msgstr "Usuarios"
+
+###. "STrings added by JAS"
+
+msgid "Add Comment"
+msgstr "Agregar Seguimiento"
+
+msgid "Comment"
+msgstr "Seguimiento"
+
+msgid "Dates"
+msgstr "Fechas"
+
+msgid "Creation Date"
+msgstr "Fecha de Creación"
+
+msgid "Due Date"
+msgstr "Fecha de vencimiento"
+
+msgid "Due Date:"
+msgstr "Fecha de vencimiento"
+
+msgid "People"
+msgstr "Colaboradores"
+
+msgid "Assignee Group"
+msgstr "Grupo Responsable"
+
+msgid "Assignee User"
+msgstr "Usuario Responsable"
+
+msgid "Assignee Group:"
+msgstr "Grupo Responsable:"
+
+msgid "Assignee User:"
+msgstr "Usuario Responsable:"
+
+msgid "Reporter"
+msgstr "Supervisor"
+
+msgid "Properties"
+msgstr "Propiedades"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Priority"
+msgstr "Prioridad"
+
+msgid "Service"
+msgstr "Trámite"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Project"
+msgstr "Unidad/Dirección"
+
+msgid "Status Items:"
+msgstr "Estado:"
+
+msgid "Priority:"
+msgstr "Prioridad:"
+
+msgid "Service:"
+msgstr "Trámite:"
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Project:"
+msgstr "Unidad/Dirección:"
+
+msgid "Milestone:"
+msgstr "Suceso:"
+
+msgid "Size:"
+msgstr "Tamaño:"
+
+msgid "Save"
+msgstr "Grabar"
+
+msgid "Activity Stream"
+msgstr "Histórico de Actividades"
+
+msgid "Search"
+msgstr "Búsqueda"
+

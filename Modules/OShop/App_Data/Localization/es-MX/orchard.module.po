@@ -1,0 +1,3020 @@
+#: "OShop.Activities.OrderActivity"
+msgctxt "OShop.Activities.OrderActivity"
+msgid "Orders"
+msgstr ""
+
+#. "Done"
+msgctxt "OShop.Activities.OrderActivity"
+msgid "Done"
+msgstr ""
+
+#: "OShop.Activities.OrderCanceledActivity"
+msgctxt "OShop.Activities.OrderCanceledActivity"
+msgid "An order is canceled."
+msgstr ""
+
+#: "OShop.Activities.OrderCompletedActivity"
+msgctxt "OShop.Activities.OrderCompletedActivity"
+msgid "An order is completed."
+msgstr ""
+
+#: "OShop.Activities.OrderCreatedActivity"
+msgctxt "OShop.Activities.OrderCreatedActivity"
+msgid "An order is created."
+msgstr ""
+
+#: "OShop.Controllers.CheckoutController"
+msgctxt "OShop.Controllers.CheckoutController"
+msgid "Please provide your billing address."
+msgstr ""
+
+#: "OShop.Controllers.CheckoutController"
+msgctxt "OShop.Controllers.CheckoutController"
+msgid "Please provide your shipping address."
+msgstr ""
+
+#: "OShop.Controllers.CheckoutController"
+msgctxt "OShop.Controllers.CheckoutController"
+msgid "Please select a shipping method."
+msgstr ""
+
+#: "OShop.Controllers.CustomerController"
+msgctxt "OShop.Controllers.CustomerController"
+msgid "You are not allowed to view this account."
+msgstr ""
+
+#: "OShop.Controllers.CustomerController"
+msgctxt "OShop.Controllers.CustomerController"
+msgid "You are not allowed to remove this address."
+msgstr ""
+
+#: "OShop.Controllers.CustomerController"
+msgctxt "OShop.Controllers.CustomerController"
+msgid "Your address was successfully removed."
+msgstr ""
+
+#. "You are not allowed to create an account."
+msgctxt "OShop.Controllers.CustomerController"
+msgid "You are not allowed to create an account."
+msgstr ""
+
+#: "OShop.Controllers.CustomerController"
+msgctxt "OShop.Controllers.CustomerController"
+msgid "Your customer account was successfully created."
+msgstr ""
+
+#. "You are not allowed to edit this account."
+msgctxt "OShop.Controllers.CustomerController"
+msgid "You are not allowed to edit this account."
+msgstr ""
+
+#: "OShop.Controllers.CustomerController"
+msgctxt "OShop.Controllers.CustomerController"
+msgid "Your customer account was successfully updated."
+msgstr ""
+
+#. "You are not allowed to create an address."
+msgctxt "OShop.Controllers.CustomerController"
+msgid "You are not allowed to create an address."
+msgstr ""
+
+#: "OShop.Controllers.CustomerController"
+msgctxt "OShop.Controllers.CustomerController"
+msgid "Your address was successfully created."
+msgstr ""
+
+#. "You are not allowed to edit this address."
+msgctxt "OShop.Controllers.CustomerController"
+msgid "You are not allowed to edit this address."
+msgstr ""
+
+#: "OShop.Controllers.CustomerController"
+msgctxt "OShop.Controllers.CustomerController"
+msgid "Your address was successfully updated."
+msgstr ""
+
+#. "Not allowed to manage customers"
+msgctxt "OShop.Controllers.CustomersAdminController"
+msgid "Not allowed to manage customers"
+msgstr ""
+
+#: "OShop.Controllers.CustomersAdminController"
+msgctxt "OShop.Controllers.CustomersAdminController"
+msgid "Customers successfully removed."
+msgstr ""
+
+#: "OShop.Controllers.CustomersAdminController"
+msgctxt "OShop.Controllers.CustomersAdminController"
+msgid "You are not allowed to remove this address."
+msgstr ""
+
+#: "OShop.Controllers.CustomersAdminController"
+msgctxt "OShop.Controllers.CustomersAdminController"
+msgid "Address was successfully removed."
+msgstr ""
+
+#. "Not allowed to manage Countries"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Not allowed to manage Countries"
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Unknown zone : Unable to update contry zones"
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Country {0} successfully added."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Country {0} successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Country {0} successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Country {0} successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Country {0} successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Country {0} successfully defined as default."
+msgstr ""
+
+#. "Not allowed to manage States"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Not allowed to manage States"
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "Unknown zone : Unable to update state zones"
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "State {0} successfully added."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "State {0} successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "State {0} successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "State {0} successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "State {0} successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One country successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} countries successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One country successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} countries successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One country successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} countries successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One country zone successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} countries zones successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One state successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} states successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One state successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} states successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One state successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} states successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "One state zone successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.LocationsAdminController"
+msgctxt "OShop.Controllers.LocationsAdminController"
+msgid "{0} states zones successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.OfflinePaymentController"
+msgctxt "OShop.Controllers.OfflinePaymentController"
+msgid "Not allowed to manage Offline Payment Settings"
+msgstr ""
+
+#: "OShop.Controllers.OfflinePaymentController"
+msgctxt "OShop.Controllers.OfflinePaymentController"
+msgid "Not allowed to manage Offline Payment Settings Settings"
+msgstr ""
+
+#: "OShop.Controllers.OfflinePaymentController"
+msgctxt "OShop.Controllers.OfflinePaymentController"
+msgid "Offline Payment Settings saved successfully."
+msgstr ""
+
+#: "OShop.Controllers.OfflinePaymentController"
+msgctxt "OShop.Controllers.OfflinePaymentController"
+msgid "Could not save Offline Payment Settings."
+msgstr ""
+
+#: "OShop.Controllers.OfflinePaymentController"
+msgctxt "OShop.Controllers.OfflinePaymentController"
+msgid "Nothing left to pay on this document."
+msgstr ""
+
+#: "OShop.Controllers.OfflinePaymentController"
+msgctxt "OShop.Controllers.OfflinePaymentController"
+msgid "Transaction reference : <b>{0}</b><br/>Transaction amount : <b>{1}</b>"
+msgstr ""
+
+#: "OShop.Controllers.OrdersAdminController"
+msgctxt "OShop.Controllers.OrdersAdminController"
+msgid "Not allowed to view orders"
+msgstr ""
+
+#: "OShop.Controllers.OrdersAdminController"
+msgctxt "OShop.Controllers.OrdersAdminController"
+msgid "Not allowed to manage orders"
+msgstr ""
+
+#: "OShop.Controllers.OrdersAdminController"
+msgctxt "OShop.Controllers.OrdersAdminController"
+msgid "Customers successfully removed."
+msgstr ""
+
+#. "Not allowed to manage products"
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "Not allowed to manage products"
+msgstr ""
+
+#. "There is no product enabled content type. Please create one."
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "There is no product enabled content type. Please create one."
+msgstr ""
+
+#: "OShop.Controllers.ProductsAdminController"
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "Couldn't publish selected content."
+msgstr ""
+
+#: "OShop.Controllers.ProductsAdminController"
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "Content successfully published."
+msgstr ""
+
+#: "OShop.Controllers.ProductsAdminController"
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "Couldn't unpublish selected content."
+msgstr ""
+
+#: "OShop.Controllers.ProductsAdminController"
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "Content successfully unpublished."
+msgstr ""
+
+#: "OShop.Controllers.ProductsAdminController"
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "Couldn't remove selected content."
+msgstr ""
+
+#: "OShop.Controllers.ProductsAdminController"
+msgctxt "OShop.Controllers.ProductsAdminController"
+msgid "Content successfully removed."
+msgstr ""
+
+#. "Not allowed to manage Shop Settings"
+msgctxt "OShop.Controllers.SettingsController"
+msgid "Not allowed to manage Shop Settings"
+msgstr ""
+
+#: "OShop.Controllers.SettingsController"
+msgctxt "OShop.Controllers.SettingsController"
+msgid "OShop Settings saved successfully."
+msgstr ""
+
+#: "OShop.Controllers.SettingsController"
+msgctxt "OShop.Controllers.SettingsController"
+msgid "Could not save OShop Settings."
+msgstr ""
+
+#. "Not allowed to manage shipping options"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Not allowed to manage shipping options"
+msgstr ""
+
+#: "OShop.Controllers.ShippingProvidersAdminController"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Shipping Providers successfully published."
+msgstr ""
+
+#: "OShop.Controllers.ShippingProvidersAdminController"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Shipping Providers successfully unpublished."
+msgstr ""
+
+#: "OShop.Controllers.ShippingProvidersAdminController"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Shipping Providers successfully removed."
+msgstr ""
+
+#: "OShop.Controllers.ShippingProvidersAdminController"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Shipping option {0} successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.ShippingProvidersAdminController"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Option {0} successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.ShippingProvidersAdminController"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Option {0} successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.ShippingProvidersAdminController"
+msgctxt "OShop.Controllers.ShippingProvidersAdminController"
+msgid "Option {0} successfully disabled."
+msgstr ""
+
+#. "Not allowed to manage shipping zones"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "Not allowed to manage shipping zones"
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "Shipping zone {0} successfully created."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "Country {0} successfully updated."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "Zone {0} successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "Zone {0} successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "Zone {0} successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "One zone successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "{0} zones successfully enabled."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "One zone successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "{0} zones successfully disabled."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "One zone successfully deleted."
+msgstr ""
+
+#: "OShop.Controllers.ShippingZonesAdminController"
+msgctxt "OShop.Controllers.ShippingZonesAdminController"
+msgid "{0} zones successfully deleted."
+msgstr ""
+
+#. "Not allowed to manage VAT Settings"
+msgctxt "OShop.Controllers.VatAdminController"
+msgid "Not allowed to manage VAT Settings"
+msgstr ""
+
+#: "OShop.Controllers.VatAdminController"
+msgctxt "OShop.Controllers.VatAdminController"
+msgid "VAT Settings saved successfully."
+msgstr ""
+
+#: "OShop.Controllers.VatAdminController"
+msgctxt "OShop.Controllers.VatAdminController"
+msgid "Could not save VAT Settings."
+msgstr ""
+
+#. "Not allowed to manage VAT rates"
+msgctxt "OShop.Controllers.VatAdminController"
+msgid "Not allowed to manage VAT rates"
+msgstr ""
+
+#: "OShop.Controllers.VatAdminController"
+msgctxt "OShop.Controllers.VatAdminController"
+msgid "VAT rates successfully removed."
+msgstr ""
+
+#: "OShop.Drivers.CustomerAddressPartDriver"
+msgctxt "OShop.Drivers.CustomerAddressPartDriver"
+msgid "Please select your country."
+msgstr ""
+
+#: "OShop.Drivers.CustomerAddressPartDriver"
+msgctxt "OShop.Drivers.CustomerAddressPartDriver"
+msgid "Please select your state."
+msgstr ""
+
+#: "OShop.Drivers.LocationFieldDriver"
+msgctxt "OShop.Drivers.LocationFieldDriver"
+msgid "Please select your country."
+msgstr ""
+
+#: "OShop.Drivers.LocationFieldDriver"
+msgctxt "OShop.Drivers.LocationFieldDriver"
+msgid "Please select your state."
+msgstr ""
+
+#: "OShop.Drivers.OrderPartDriver"
+msgctxt "OShop.Drivers.OrderPartDriver"
+msgid "Order total"
+msgstr ""
+
+#: "OShop.Drivers.OrderProductsPartDriver"
+msgctxt "OShop.Drivers.OrderProductsPartDriver"
+msgid "Products total"
+msgstr ""
+
+#: "OShop.Drivers.OrderShippingPartDriver"
+msgctxt "OShop.Drivers.OrderShippingPartDriver"
+msgid "Shipping"
+msgstr ""
+
+#: "OShop.Drivers.OrderVatPartDriver"
+msgctxt "OShop.Drivers.OrderVatPartDriver"
+msgid "VAT"
+msgstr ""
+
+#: "OShop.Drivers.VatPartDriver"
+msgctxt "OShop.Drivers.VatPartDriver"
+msgid "There is no VAT rate available, please create one."
+msgstr ""
+
+#: "OShop.Extensions.VatExtensions"
+msgctxt "OShop.Extensions.VatExtensions"
+msgid "{0} ({1:P})"
+msgstr ""
+
+#: "OShop.Models.OrderPart"
+msgctxt "OShop.Models.OrderPart"
+msgid "Order {0}"
+msgstr ""
+
+#: "OShop.Navigation.AdminMenu"
+msgctxt "OShop.Navigation.AdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.AdminMenu"
+msgctxt "OShop.Navigation.AdminMenu"
+msgid "Settings"
+msgstr ""
+
+#: "OShop.Navigation.AdminMenu"
+msgctxt "OShop.Navigation.AdminMenu"
+msgid "General"
+msgstr ""
+
+#: "OShop.Navigation.CustomersAdminMenu"
+msgctxt "OShop.Navigation.CustomersAdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.CustomersAdminMenu"
+msgctxt "OShop.Navigation.CustomersAdminMenu"
+msgid "Customers"
+msgstr ""
+
+#: "OShop.Navigation.LocationsAdminMenu"
+msgctxt "OShop.Navigation.LocationsAdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.LocationsAdminMenu"
+msgctxt "OShop.Navigation.LocationsAdminMenu"
+msgid "Locations"
+msgstr ""
+
+#: "OShop.Navigation.LocationsAdminMenu"
+msgctxt "OShop.Navigation.LocationsAdminMenu"
+msgid "Countries"
+msgstr ""
+
+#: "OShop.Navigation.LocationsAdminMenu"
+msgctxt "OShop.Navigation.LocationsAdminMenu"
+msgid "States"
+msgstr ""
+
+#: "OShop.Navigation.OfflinePaymentAdminMenu"
+msgctxt "OShop.Navigation.OfflinePaymentAdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.OfflinePaymentAdminMenu"
+msgctxt "OShop.Navigation.OfflinePaymentAdminMenu"
+msgid "Settings"
+msgstr ""
+
+#: "OShop.Navigation.OfflinePaymentAdminMenu"
+msgctxt "OShop.Navigation.OfflinePaymentAdminMenu"
+msgid "Offline Payment"
+msgstr ""
+
+#: "OShop.Navigation.OrdersAdminMenu"
+msgctxt "OShop.Navigation.OrdersAdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.OrdersAdminMenu"
+msgctxt "OShop.Navigation.OrdersAdminMenu"
+msgid "Orders"
+msgstr ""
+
+#: "OShop.Navigation.ProductsAdminMenu"
+msgctxt "OShop.Navigation.ProductsAdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.ProductsAdminMenu"
+msgctxt "OShop.Navigation.ProductsAdminMenu"
+msgid "Products"
+msgstr ""
+
+#: "OShop.Navigation.ShippingAdminMenu"
+msgctxt "OShop.Navigation.ShippingAdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.ShippingAdminMenu"
+msgctxt "OShop.Navigation.ShippingAdminMenu"
+msgid "Shipping"
+msgstr ""
+
+#: "OShop.Navigation.ShippingAdminMenu"
+msgctxt "OShop.Navigation.ShippingAdminMenu"
+msgid "Providers"
+msgstr ""
+
+#: "OShop.Navigation.ShippingAdminMenu"
+msgctxt "OShop.Navigation.ShippingAdminMenu"
+msgid "Zones"
+msgstr ""
+
+#: "OShop.Navigation.VatAdminMenu"
+msgctxt "OShop.Navigation.VatAdminMenu"
+msgid "OShop"
+msgstr ""
+
+#: "OShop.Navigation.VatAdminMenu"
+msgctxt "OShop.Navigation.VatAdminMenu"
+msgid "Settings"
+msgstr ""
+
+#: "OShop.Navigation.VatAdminMenu"
+msgctxt "OShop.Navigation.VatAdminMenu"
+msgid "VAT"
+msgstr ""
+
+#: "OShop.Navigation.VatAdminMenu"
+msgctxt "OShop.Navigation.VatAdminMenu"
+msgid "VAT rates"
+msgstr ""
+
+#: "OShop.Services.CheckoutService"
+msgctxt "OShop.Services.CheckoutService"
+msgid "Checkout"
+msgstr ""
+
+#: "OShop.Services.OfflinePaymentProvider"
+msgctxt "OShop.Services.OfflinePaymentProvider"
+msgid "Offline payment"
+msgstr ""
+
+#: "OShop.Services.OfflinePaymentProvider"
+msgctxt "OShop.Services.OfflinePaymentProvider"
+msgid "Pay by check or bank wire"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Order"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Tokens for order"
+msgstr ""
+
+#. "Customer"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Customer"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Order's customer"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Tokens for customer"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "First name"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Customer's first name"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Last name"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Customer's last name"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Email"
+msgstr ""
+
+#: "OShop.Tokens.CustomerOrderTokens"
+msgctxt "OShop.Tokens.CustomerOrderTokens"
+msgid "Customer's e-mail"
+msgstr ""
+
+#: "OShop.Tokens.LocationsTokens"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Order Address"
+msgstr ""
+
+#: "OShop.Tokens.LocationsTokens"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Tokens for order address"
+msgstr ""
+
+#. "Company name"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Company name"
+msgstr ""
+
+#. "First name"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "First name"
+msgstr ""
+
+#. "Last name"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Last name"
+msgstr ""
+
+#. "Address line 1"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Address line 1"
+msgstr ""
+
+#. "Address line 2"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Address line 2"
+msgstr ""
+
+#. "Zip Code"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Zip Code"
+msgstr ""
+
+#. "City"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "City"
+msgstr ""
+
+#. "Country"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Country"
+msgstr ""
+
+#. "State"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "State"
+msgstr ""
+
+#: "OShop.Tokens.LocationsTokens"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Tokens for country"
+msgstr ""
+
+#. "Country name"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Country name"
+msgstr ""
+
+#. "Country ISO code"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Country ISO code"
+msgstr ""
+
+#: "OShop.Tokens.LocationsTokens"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "Tokens for State"
+msgstr ""
+
+#. "State name"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "State name"
+msgstr ""
+
+#. "State ISO code"
+msgctxt "OShop.Tokens.LocationsTokens"
+msgid "State ISO code"
+msgstr ""
+
+#: "OShop.Tokens.OrderTokens"
+msgctxt "OShop.Tokens.OrderTokens"
+msgid "Order"
+msgstr ""
+
+#: "OShop.Tokens.OrderTokens"
+msgctxt "OShop.Tokens.OrderTokens"
+msgid "Tokens for order"
+msgstr ""
+
+#: "OShop.Tokens.OrderTokens"
+msgctxt "OShop.Tokens.OrderTokens"
+msgid "Reference"
+msgstr ""
+
+#: "OShop.Tokens.OrderTokens"
+msgctxt "OShop.Tokens.OrderTokens"
+msgid "Order reference"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Check-out"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Your addresses :"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Create new address"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Billing address"
+msgstr ""
+
+#. " (Default)"
+msgctxt "~/Views/Checkout.cshtml"
+msgid " (Default)"
+msgstr ""
+
+#. "Edit"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Edit"
+msgstr ""
+
+#. "Are you sure you want to remove this address ?"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Are you sure you want to remove this address ?"
+msgstr ""
+
+#. "Remove"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Shipping address"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Return"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "Validate"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "You have no address, please"
+msgstr ""
+
+#: "~/Views/Checkout.cshtml"
+msgctxt "~/Views/Checkout.cshtml"
+msgid "create one."
+msgstr ""
+
+#: "~/Views/Checkout.Validate.cshtml"
+msgctxt "~/Views/Checkout.Validate.cshtml"
+msgid "Validate your order"
+msgstr ""
+
+#. "Validate"
+msgctxt "~/Views/Checkout.Validate.cshtml"
+msgid "Validate"
+msgstr ""
+
+#: "~/Views/Checkout.Validate.cshtml"
+msgctxt "~/Views/Checkout.Validate.cshtml"
+msgid "Return"
+msgstr ""
+
+#: "~/Views/Content-Order.Detail.cshtml"
+msgctxt "~/Views/Content-Order.Detail.cshtml"
+msgid "SKU"
+msgstr ""
+
+#: "~/Views/Content-Order.Detail.cshtml"
+msgctxt "~/Views/Content-Order.Detail.cshtml"
+msgid "Product"
+msgstr ""
+
+#: "~/Views/Content-Order.Detail.cshtml"
+msgctxt "~/Views/Content-Order.Detail.cshtml"
+msgid "Unit Price"
+msgstr ""
+
+#: "~/Views/Content-Order.Detail.cshtml"
+msgctxt "~/Views/Content-Order.Detail.cshtml"
+msgid "Qty."
+msgstr ""
+
+#: "~/Views/Content-Order.Detail.cshtml"
+msgctxt "~/Views/Content-Order.Detail.cshtml"
+msgid "Total"
+msgstr ""
+
+#: "~/Views/Price-Vat.cshtml"
+msgctxt "~/Views/Price-Vat.cshtml"
+msgid "VAT Inc."
+msgstr ""
+
+#: "~/Views/Price-Vat.cshtml"
+msgctxt "~/Views/Price-Vat.cshtml"
+msgid "VAT Ex."
+msgstr ""
+
+#: "~/Views/Price.SummaryAdmin-Vat.cshtml"
+msgctxt "~/Views/Price.SummaryAdmin-Vat.cshtml"
+msgid "VAT Inc."
+msgstr ""
+
+#: "~/Views/Price.SummaryAdmin-Vat.cshtml"
+msgctxt "~/Views/Price.SummaryAdmin-Vat.cshtml"
+msgid "VAT Ex."
+msgstr ""
+
+#: "~/Views/ShoppingCart.Actions.cshtml"
+msgctxt "~/Views/ShoppingCart.Actions.cshtml"
+msgid "Update"
+msgstr ""
+
+#. "Check out"
+msgctxt "~/Views/ShoppingCart.Actions.cshtml"
+msgid "Check out"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Empty cart"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Product"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Unit Price"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Qty."
+msgstr ""
+
+#. "Total"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Total"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Are you sure you want to remove this item from your cart ?"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Items total"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Shipping"
+msgstr ""
+
+#: "~/Views/ShoppingCart.CartItems.cshtml"
+msgctxt "~/Views/ShoppingCart.CartItems.cshtml"
+msgid "Taxes"
+msgstr ""
+
+#: "~/Views/ShoppingCart.cshtml"
+msgctxt "~/Views/ShoppingCart.cshtml"
+msgid "My shopping cart"
+msgstr ""
+
+#: "~/Views/ShoppingCart.Empty.cshtml"
+msgctxt "~/Views/ShoppingCart.Empty.cshtml"
+msgid "Your shopping cart is empty."
+msgstr ""
+
+#: "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgctxt "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgid "Location"
+msgstr ""
+
+#: "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgctxt "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgid "Select your location to estimate taxes and shipping."
+msgstr ""
+
+#: "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgctxt "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgctxt "~/Views/ShoppingCart.LocationEdit.cshtml"
+msgid "State"
+msgstr ""
+
+#: "~/Views/ShoppingCart.ShippingOptions.cshtml"
+msgctxt "~/Views/ShoppingCart.ShippingOptions.cshtml"
+msgid "Shipping method :"
+msgstr ""
+
+#: "~/Views/ShoppingCart.ShippingOptions.cshtml"
+msgctxt "~/Views/ShoppingCart.ShippingOptions.cshtml"
+msgid "Shipping options for {0}."
+msgstr ""
+
+#: "~/Views/ShoppingCart.Widget.cshtml"
+msgctxt "~/Views/ShoppingCart.Widget.cshtml"
+msgid "My cart"
+msgstr ""
+
+#: "~/Views/ShoppingCart.Widget.cshtml"
+msgctxt "~/Views/ShoppingCart.Widget.cshtml"
+msgid "1 item"
+msgstr ""
+
+#: "~/Views/ShoppingCart.Widget.cshtml"
+msgctxt "~/Views/ShoppingCart.Widget.cshtml"
+msgid "{0} items"
+msgstr ""
+
+#: "~/Views/Customer/Create.cshtml"
+msgctxt "~/Views/Customer/Create.cshtml"
+msgid "Create customer account"
+msgstr ""
+
+#: "~/Views/Customer/CreateAddress.cshtml"
+msgctxt "~/Views/Customer/CreateAddress.cshtml"
+msgid "Create address"
+msgstr ""
+
+#: "~/Views/Customer/Edit.cshtml"
+msgctxt "~/Views/Customer/Edit.cshtml"
+msgid "Edit customer account"
+msgstr ""
+
+#: "~/Views/Customer/EditAddress.cshtml"
+msgctxt "~/Views/Customer/EditAddress.cshtml"
+msgid "Edit address"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "Manage Customers"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "Create New Customer"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "Ordered by"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "recently created"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "recently modified"
+msgstr ""
+
+#: "~/Views/CustomersAdmin/Index.cshtml"
+msgctxt "~/Views/CustomersAdmin/Index.cshtml"
+msgid "recently published"
+msgstr ""
+
+#: "~/Views/DefinitionTemplates/LocationFieldSettings.cshtml"
+msgctxt "~/Views/DefinitionTemplates/LocationFieldSettings.cshtml"
+msgid "Required"
+msgstr ""
+
+#: "~/Views/DefinitionTemplates/LocationFieldSettings.cshtml"
+msgctxt "~/Views/DefinitionTemplates/LocationFieldSettings.cshtml"
+msgid "Check if the field is required."
+msgstr ""
+
+#: "~/Views/EditorTemplates/Fields/Location.cshtml"
+msgctxt "~/Views/EditorTemplates/Fields/Location.cshtml"
+msgid "Location"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Fields/Location.cshtml"
+msgctxt "~/Views/EditorTemplates/Fields/Location.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Fields/Location.cshtml"
+msgctxt "~/Views/EditorTemplates/Fields/Location.cshtml"
+msgid "State"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgid "Customer account"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgid "First name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgid "Last name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.AdminEdit.cshtml"
+msgid "Email"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgid "Customer account"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgid "First name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgid "Last name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Customer.cshtml"
+msgid "Email"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "Address alias"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "(e.g.: Home, Office...)"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "Set as default address"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "Company"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "First name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "Last name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "Address"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "Zip code"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "City"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerAddress.cshtml"
+msgid "State"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/CustomerOrder.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/CustomerOrder.cshtml"
+msgid "Customer account"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Order {0}"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "New order"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Order"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Status"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Canceled"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Pending"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Processing"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Completed"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.cshtml"
+msgid "Billing address"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgid "Products"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgid "SKU"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgid "Product"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgid "Unit Price"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgid "Qty."
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgid "Total"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Products.cshtml"
+msgid "Products total"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Shipping.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Shipping.cshtml"
+msgid "Shipping"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Shipping.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Shipping.cshtml"
+msgid "Status"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Shipping.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Shipping.cshtml"
+msgid "Shipping address"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgid "Shipping"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgid "Shipping provider"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgid "Unit Price"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgid "Qty."
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgid "Total"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.ShippingDetails.cshtml"
+msgid "Shipping total"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgid "VAT"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgid "Base"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgid "Rate"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgid "Total"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Order.Vat.cshtml"
+msgid "VAT total"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Payments"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Date"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Method"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Transaction ID"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Status"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Amount"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Add"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Amount paid"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Payable amount"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Payment.cshtml"
+msgid "Outstanding amount"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Product.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Product"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Product.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "SKU"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Product.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Unit Price"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgid "Shipping"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgid "Requires shipping"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgid "Weight"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Shipping.cshtml"
+msgid "Size"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Shipping options"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Zone"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Priority"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Price"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Actions"
+msgstr ""
+
+#. "Disabled"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Disabled"
+msgstr ""
+
+#. "Enabled"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Enabled"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Disable"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Enable"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/ShippingProvider.cshtml"
+msgid "Add option"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgid "Stock"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgid "Enable stock management"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgid "In stock Qty."
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgid "{0} in order."
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgid "Alert Qty."
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Stock.cshtml"
+msgid "Allow out of stock orders"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Vat.cshtml"
+msgid "VAT rate"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/Vat.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/Vat.cshtml"
+msgid "None"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/VatRate.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/VatRate.cshtml"
+msgid "VAT Rate"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/VatRate.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/VatRate.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/EditorTemplates/Parts/VatRate.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts/VatRate.cshtml"
+msgid "Rate"
+msgstr ""
+
+#: "~/Views/Fields/Location.cshtml"
+msgctxt "~/Views/Fields/Location.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/Fields/Location.cshtml"
+msgctxt "~/Views/Fields/Location.cshtml"
+msgid "State"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Add Country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "New country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Active"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "ISO Code"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Address format"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Shipping zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Select zone..."
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddCountry.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Add State"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "New state"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Active"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "ISO Code"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Shipping zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Select zone..."
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/AddState.cshtml"
+msgctxt "~/Views/LocationsAdmin/AddState.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Edit Country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Active"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "ISO Code"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Address format"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Shipping zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Select zone..."
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditCountry.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Edit State"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "State"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Active"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "ISO Code"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Shipping zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Select zone..."
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/EditState.cshtml"
+msgctxt "~/Views/LocationsAdmin/EditState.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Manage countries"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Create Country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#. "Enable"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Enable"
+msgstr ""
+
+#. "Disable"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Disable"
+msgstr ""
+
+#. "Delete"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Filter by"
+msgstr ""
+
+#. "All"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "All"
+msgstr ""
+
+#. "Enabled"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Enabled"
+msgstr ""
+
+#. "Disabled"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Disabled"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "For zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "ISO code"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "States"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Actions"
+msgstr ""
+
+#. "Default"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Default"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "States ({0})"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Edit"
+msgstr ""
+
+#. " | "
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid " | "
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Set default"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "Set zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "None"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/Index.cshtml"
+msgctxt "~/Views/LocationsAdmin/Index.cshtml"
+msgid "There is no Country."
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Manage {0} states"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Manage states"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Create State"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#. "Enable"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Enable"
+msgstr ""
+
+#. "Disable"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Disable"
+msgstr ""
+
+#. "Delete"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Filter by"
+msgstr ""
+
+#. "All"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "All"
+msgstr ""
+
+#. "Enabled"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Enabled"
+msgstr ""
+
+#. "Disabled"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Disabled"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "For country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "For zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "ISO code"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Country"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Actions"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Edit"
+msgstr ""
+
+#. " | "
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid " | "
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "Set zone"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "None"
+msgstr ""
+
+#: "~/Views/LocationsAdmin/States.cshtml"
+msgctxt "~/Views/LocationsAdmin/States.cshtml"
+msgid "There is no State."
+msgstr ""
+
+#: "~/Views/OfflinePayment/Settings.cshtml"
+msgctxt "~/Views/OfflinePayment/Settings.cshtml"
+msgid "Offline Payment Settings"
+msgstr ""
+
+#: "~/Views/OfflinePayment/Settings.cshtml"
+msgctxt "~/Views/OfflinePayment/Settings.cshtml"
+msgid "Empty"
+msgstr ""
+
+#: "~/Views/OfflinePayment/Settings.cshtml"
+msgctxt "~/Views/OfflinePayment/Settings.cshtml"
+msgid "Content Item"
+msgstr ""
+
+#: "~/Views/OfflinePayment/Settings.cshtml"
+msgctxt "~/Views/OfflinePayment/Settings.cshtml"
+msgid "Browse"
+msgstr ""
+
+#: "~/Views/OfflinePayment/Settings.cshtml"
+msgctxt "~/Views/OfflinePayment/Settings.cshtml"
+msgid "Select the Content Item to display offline payment instructions."
+msgstr ""
+
+#: "~/Views/OfflinePayment/Settings.cshtml"
+msgctxt "~/Views/OfflinePayment/Settings.cshtml"
+msgid "Save"
+msgstr ""
+
+#. "My orders"
+msgctxt "~/Views/Orders/Index.cshtml"
+msgid "My orders"
+msgstr ""
+
+#: "~/Views/Orders/Index.cshtml"
+msgctxt "~/Views/Orders/Index.cshtml"
+msgid "There is no order in your customer account."
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "Manage Orders"
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "Create New Order"
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "Ordered by"
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "recently created"
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "recently modified"
+msgstr ""
+
+#: "~/Views/OrdersAdmin/Index.cshtml"
+msgctxt "~/Views/OrdersAdmin/Index.cshtml"
+msgid "recently published"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgid "Addresses"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgid " (Default)"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgid "Are you sure you want to remove this address ?"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgid "Customer has no registered address."
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.Admin.cshtml"
+msgid "Create new"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.cshtml"
+msgid "Create new address"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.cshtml"
+msgid "Your addresses"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.cshtml"
+msgid "Are you sure you want to remove this address ?"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Addresses.cshtml"
+msgctxt "~/Views/Parts/Customer.Addresses.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Admin.cshtml"
+msgid "Customer account"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Admin.cshtml"
+msgid "Edit"
+msgstr ""
+
+#. "Your customer account"
+msgctxt "~/Views/Parts/Customer.cshtml"
+msgid "Your customer account"
+msgstr ""
+
+#: "~/Views/Parts/Customer.cshtml"
+msgctxt "~/Views/Parts/Customer.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Orders.Admin.cshtml"
+msgctxt "~/Views/Parts/Customer.Orders.Admin.cshtml"
+msgid "Orders"
+msgstr ""
+
+#: "~/Views/Parts/Customer.Orders.cshtml"
+msgctxt "~/Views/Parts/Customer.Orders.cshtml"
+msgid "Your orders"
+msgstr ""
+
+#: "~/Views/Parts/CustomerOrder.cshtml"
+msgctxt "~/Views/Parts/CustomerOrder.cshtml"
+msgid "Customer :"
+msgstr ""
+
+#: "~/Views/Parts/CustomerOrder.cshtml"
+msgctxt "~/Views/Parts/CustomerOrder.cshtml"
+msgid "First name : {0}"
+msgstr ""
+
+#: "~/Views/Parts/CustomerOrder.cshtml"
+msgctxt "~/Views/Parts/CustomerOrder.cshtml"
+msgid "Last name : {0}"
+msgstr ""
+
+#: "~/Views/Parts/CustomerOrder.cshtml"
+msgctxt "~/Views/Parts/CustomerOrder.cshtml"
+msgid "E-mail : {0}"
+msgstr ""
+
+#: "~/Views/Parts/Order.BillingAddress.cshtml"
+msgctxt "~/Views/Parts/Order.BillingAddress.cshtml"
+msgid "Billing Address :"
+msgstr ""
+
+#: "~/Views/Parts/Order.cshtml"
+msgctxt "~/Views/Parts/Order.cshtml"
+msgid "Order {0}"
+msgstr ""
+
+#: "~/Views/Parts/Order.Reference.cshtml"
+msgctxt "~/Views/Parts/Order.Reference.cshtml"
+msgid "Order number : {0}"
+msgstr ""
+
+#: "~/Views/Parts/Order.ShippingAddress.cshtml"
+msgctxt "~/Views/Parts/Order.ShippingAddress.cshtml"
+msgid "Shipping Address :"
+msgstr ""
+
+#: "~/Views/Parts/Order.ShippingProvider.cshtml"
+msgctxt "~/Views/Parts/Order.ShippingProvider.cshtml"
+msgid "Shipping :"
+msgstr ""
+
+#: "~/Views/Parts/Order.ShippingStatus.cshtml"
+msgctxt "~/Views/Parts/Order.ShippingStatus.cshtml"
+msgid "Shipping status : {0}"
+msgstr ""
+
+#: "~/Views/Parts/Order.Status.cshtml"
+msgctxt "~/Views/Parts/Order.Status.cshtml"
+msgid "Order status : {0}"
+msgstr ""
+
+#: "~/Views/Parts/Order.Summary.cshtml"
+msgctxt "~/Views/Parts/Order.Summary.cshtml"
+msgid "Order {0}"
+msgstr ""
+
+#: "~/Views/Parts/Order.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts/Order.SummaryAdmin.cshtml"
+msgid "Order status"
+msgstr ""
+
+#: "~/Views/Parts/Order.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts/Order.SummaryAdmin.cshtml"
+msgid "Order total"
+msgstr ""
+
+#: "~/Views/Parts/Payment.cshtml"
+msgctxt "~/Views/Parts/Payment.cshtml"
+msgid "Payment :"
+msgstr ""
+
+#: "~/Views/Parts/Payment.cshtml"
+msgctxt "~/Views/Parts/Payment.cshtml"
+msgid "Amount paid : "
+msgstr ""
+
+#: "~/Views/Parts/Payment.Providers.cshtml"
+msgctxt "~/Views/Parts/Payment.Providers.cshtml"
+msgid "Validate"
+msgstr ""
+
+#: "~/Views/Parts/Product.AddToCart.cshtml"
+msgctxt "~/Views/Parts/Product.AddToCart.cshtml"
+msgid "Add to cart"
+msgstr ""
+
+#: "~/Views/Parts/Stock.cshtml"
+msgctxt "~/Views/Parts/Stock.cshtml"
+msgid "In stock"
+msgstr ""
+
+#: "~/Views/Parts/Stock.cshtml"
+msgctxt "~/Views/Parts/Stock.cshtml"
+msgid "Few remaining"
+msgstr ""
+
+#: "~/Views/Parts/Stock.cshtml"
+msgctxt "~/Views/Parts/Stock.cshtml"
+msgid "Out of stock"
+msgstr ""
+
+#: "~/Views/Parts/Vat.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts/Vat.SummaryAdmin.cshtml"
+msgid "VAT {0:P}"
+msgstr ""
+
+#: "~/Views/Parts/Vat.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts/Vat.SummaryAdmin.cshtml"
+msgid "No VAT"
+msgstr ""
+
+#: "~/Views/Parts/VatRate.cshtml"
+msgctxt "~/Views/Parts/VatRate.cshtml"
+msgid "{0:P}"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Create.cshtml"
+msgctxt "~/Views/ProductsAdmin/Create.cshtml"
+msgid "Create new products"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Manage Products"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Create New Product"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Manage {0} products"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Create New {0}"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Publish Now"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Unpublish"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Show"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "any (show all)"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Ordered by"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "recently created"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "recently modified"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "recently published"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "Filter by"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "latest"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "published"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "unpublished"
+msgstr ""
+
+#: "~/Views/ProductsAdmin/Index.cshtml"
+msgctxt "~/Views/ProductsAdmin/Index.cshtml"
+msgid "all versions"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "OShop Settings"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Currency"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Symbol"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Iso Code"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Numbers"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Decimal digits"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Number format"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Positive pattern"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Negative pattern"
+msgstr ""
+
+#: "~/Views/Settings/Index.cshtml"
+msgctxt "~/Views/Settings/Index.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Edit Shipping option for {0}"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Shipping options"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Active"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "None"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Priority"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Price"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Property"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Operator"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Value"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Action"
+msgstr ""
+
+#. "Total price"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Total price"
+msgstr ""
+
+#. "Total weight"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Total weight"
+msgstr ""
+
+#. "Total volume"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Total volume"
+msgstr ""
+
+#. "Item longest dimension"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Item longest dimension"
+msgstr ""
+
+#. "Max item length"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Max item length"
+msgstr ""
+
+#. "Max item width"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Max item width"
+msgstr ""
+
+#. "Max item height"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Max item height"
+msgstr ""
+
+#. "Less than"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Less than"
+msgstr ""
+
+#. "Less than or equal"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Less than or equal"
+msgstr ""
+
+#. "Equal"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Equal"
+msgstr ""
+
+#. "Greater than"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Greater than"
+msgstr ""
+
+#. "Greater than or equal"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Greater than or equal"
+msgstr ""
+
+#. "Not equal"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Not equal"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Add"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/EditOption.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Manage Shipping Providers"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Create New Shipping Provider"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Publish Now"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Unpublish"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Ordered by"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "recently created"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "recently modified"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "recently published"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "Filter by"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "latest"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "published"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "unpublished"
+msgstr ""
+
+#: "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingProvidersAdmin/Index.cshtml"
+msgid "all versions"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgid "Add Shipping zone"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgid "New shipping zone"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgid "Active"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Add.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgid "Edit Shipping Zone"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgid "Shipping zone"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgid "Active"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Edit.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Manage Shipping zones"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Create zone"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#. "Enable"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Enable"
+msgstr ""
+
+#. "Disable"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Disable"
+msgstr ""
+
+#. "Delete"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Filter by"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "All"
+msgstr ""
+
+#. "Enabled"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Enabled"
+msgstr ""
+
+#. "Disabled"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Disabled"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Name"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Actions"
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "Edit"
+msgstr ""
+
+#. " | "
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid " | "
+msgstr ""
+
+#: "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgctxt "~/Views/ShippingZonesAdmin/Index.cshtml"
+msgid "There is no shipping zone."
+msgstr ""
+
+#: "~/Views/VatAdmin/Index.cshtml"
+msgctxt "~/Views/VatAdmin/Index.cshtml"
+msgid "VAT Settings"
+msgstr ""
+
+#: "~/Views/VatAdmin/Index.cshtml"
+msgctxt "~/Views/VatAdmin/Index.cshtml"
+msgid "Price display"
+msgstr ""
+
+#: "~/Views/VatAdmin/Index.cshtml"
+msgctxt "~/Views/VatAdmin/Index.cshtml"
+msgid "Show VAT price in front-end"
+msgstr ""
+
+#: "~/Views/VatAdmin/Index.cshtml"
+msgctxt "~/Views/VatAdmin/Index.cshtml"
+msgid "Show VAT price in admin dashboard"
+msgstr ""
+
+#: "~/Views/VatAdmin/Index.cshtml"
+msgctxt "~/Views/VatAdmin/Index.cshtml"
+msgid "Save"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "Manage VAT rates"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "Create New VAT rate"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "Delete"
+msgstr ""
+
+#. "Apply"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "Ordered by"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "recently created"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "recently modified"
+msgstr ""
+
+#: "~/Views/VatAdmin/Rates.cshtml"
+msgctxt "~/Views/VatAdmin/Rates.cshtml"
+msgid "recently published"
+msgstr ""
+

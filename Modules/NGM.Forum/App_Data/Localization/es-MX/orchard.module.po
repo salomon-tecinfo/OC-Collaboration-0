@@ -1,0 +1,656 @@
+#: "NGM.Forum.AdminMenu"
+msgctxt "NGM.Forum.AdminMenu"
+msgid "Forum"
+msgstr "Forum"
+
+#: "NGM.Forum.AdminMenu"
+msgctxt "NGM.Forum.AdminMenu"
+msgid "Manage Forums"
+msgstr "Manage Forums"
+
+#: "NGM.Forum.AdminMenu"
+msgctxt "NGM.Forum.AdminMenu"
+msgid "Manage Forum"
+msgstr "Manage Forum"
+
+#: "NGM.Forum.AdminMenu"
+msgctxt "NGM.Forum.AdminMenu"
+msgid "New Forum"
+msgstr "New Forum"
+
+#. "Not allowed to create forums"
+msgctxt "NGM.Forum.Controllers.ForumAdminController"
+msgid "Not allowed to create forums"
+msgstr "Not allowed to create forums"
+
+#. "You have no forum types available. Add one to create a forum."
+msgctxt "NGM.Forum.Controllers.ForumAdminController"
+msgid "You have no forum types available. Add one to create a forum."
+msgstr "You have no forum types available. Add one to create a forum."
+
+#. "Not allowed to edit forum"
+msgctxt "NGM.Forum.Controllers.ForumAdminController"
+msgid "Not allowed to edit forum"
+msgstr "Not allowed to edit forum"
+
+#: "NGM.Forum.Controllers.ForumAdminController"
+msgctxt "NGM.Forum.Controllers.ForumAdminController"
+msgid "Forum information updated"
+msgstr "Forum information updated"
+
+#: "NGM.Forum.Controllers.ForumAdminController"
+msgctxt "NGM.Forum.Controllers.ForumAdminController"
+msgid "Forum was successfully deleted"
+msgstr "Forum was successfully deleted"
+
+#: "NGM.Forum.Controllers.ForumAdminController"
+msgctxt "NGM.Forum.Controllers.ForumAdminController"
+msgid "Not allowed to view forum"
+msgstr "Not allowed to view forum"
+
+#: "NGM.Forum.Controllers.ForumController"
+msgctxt "NGM.Forum.Controllers.ForumController"
+msgid "Not allowed to view forum"
+msgstr "Not allowed to view forum"
+
+#. "Not allowed to create post"
+msgctxt "NGM.Forum.Controllers.PostController"
+msgid "Not allowed to create post"
+msgstr "Not allowed to create post"
+
+#: "NGM.Forum.Controllers.PostController"
+msgctxt "NGM.Forum.Controllers.PostController"
+msgid "Your {0} has been created."
+msgstr "Your {0} has been created."
+
+#: "NGM.Forum.Controllers.PostController"
+msgctxt "NGM.Forum.Controllers.PostController"
+msgid "Not allowed to delete thread"
+msgstr "Not allowed to delete thread"
+
+#. "Thread has been deleted."
+msgctxt "NGM.Forum.Controllers.PostController"
+msgid "Thread has been deleted."
+msgstr "Thread has been deleted."
+
+#: "NGM.Forum.Controllers.PostController"
+msgctxt "NGM.Forum.Controllers.PostController"
+msgid "Not allowed to delete post"
+msgstr "Not allowed to delete post"
+
+#: "NGM.Forum.Controllers.PostController"
+msgctxt "NGM.Forum.Controllers.PostController"
+msgid "Post has been deleted."
+msgstr "Post has been deleted."
+
+#: "NGM.Forum.Controllers.ThreadAdminController"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "Not allowed to view forum"
+msgstr "Not allowed to view forum"
+
+#: "NGM.Forum.Controllers.ThreadAdminController"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "Not allowed to view thread"
+msgstr "Not allowed to view thread"
+
+#. "Could not find thread"
+#. "could not find thread"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "could not find thread"
+msgstr "could not find thread"
+
+#. "Not allowed to move thread"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "Not allowed to move thread"
+msgstr "Not allowed to move thread"
+
+#: "NGM.Forum.Controllers.ThreadAdminController"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "Could not find forum"
+msgstr "Could not find forum"
+
+#: "NGM.Forum.Controllers.ThreadAdminController"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "{0} has been moved from {1} to {2}."
+msgstr "{0} has been moved from {1} to {2}."
+
+#. "Not allowed to close thread"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "Not allowed to close thread"
+msgstr "Not allowed to close thread"
+
+#: "NGM.Forum.Controllers.ThreadAdminController"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "{0} has been closed."
+msgstr "{0} has been closed."
+
+#: "NGM.Forum.Controllers.ThreadAdminController"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "Not allowed to open thread"
+msgstr "Not allowed to open thread"
+
+#: "NGM.Forum.Controllers.ThreadAdminController"
+msgctxt "NGM.Forum.Controllers.ThreadAdminController"
+msgid "{0} has been opened."
+msgstr "{0} has been opened."
+
+#. "Not allowed to create thread"
+msgctxt "NGM.Forum.Controllers.ThreadController"
+msgid "Not allowed to create thread"
+msgstr "Not allowed to create thread"
+
+#: "NGM.Forum.Controllers.ThreadController"
+msgctxt "NGM.Forum.Controllers.ThreadController"
+msgid "Not allowed to create post"
+msgstr "Not allowed to create post"
+
+#: "NGM.Forum.Controllers.ThreadController"
+msgctxt "NGM.Forum.Controllers.ThreadController"
+msgid "Your {0} has been created."
+msgstr "Your {0} has been created."
+
+#: "NGM.Forum.Controllers.ThreadController"
+msgctxt "NGM.Forum.Controllers.ThreadController"
+msgid "Not allowed to view thread"
+msgstr "Not allowed to view thread"
+
+#: "~/Views/Content-Forum.DetailAdmin.cshtml"
+msgctxt "~/Views/Content-Forum.DetailAdmin.cshtml"
+msgid "New Thread"
+msgstr "New Thread"
+
+#. "Delete"
+msgctxt "~/Views/Forum.DeleteButton.cshtml"
+msgid "Delete"
+msgstr "Delete"
+
+#: "~/Views/Forum.Metadata.Latest.cshtml"
+msgctxt "~/Views/Forum.Metadata.Latest.cshtml"
+msgid "Latest post by {0},"
+msgstr "Latest post by {0},"
+
+#: "~/Views/Parts.Common.Metadata-Post.cshtml"
+msgctxt "~/Views/Parts.Common.Metadata-Post.cshtml"
+msgid "By {0}"
+msgstr "By {0}"
+
+#: "~/Views/Parts.Common.Metadata-Post.cshtml"
+msgctxt "~/Views/Parts.Common.Metadata-Post.cshtml"
+msgid ","
+msgstr ","
+
+#: "~/Views/Parts.Common.Metadata.Summary-Thread.cshtml"
+msgctxt "~/Views/Parts.Common.Metadata.Summary-Thread.cshtml"
+msgid "Started by {0}"
+msgstr "Started by {0}"
+
+#: "~/Views/Parts.Common.Metadata.Summary-Thread.cshtml"
+msgctxt "~/Views/Parts.Common.Metadata.Summary-Thread.cshtml"
+msgid ","
+msgstr ","
+
+#: "~/Views/Parts.Forum.Manage.cshtml"
+msgctxt "~/Views/Parts.Forum.Manage.cshtml"
+msgid "Create Thread"
+msgstr "Create Thread"
+
+#: "~/Views/Parts.Forums.Forum.ForumReplyCount.cshtml"
+msgctxt "~/Views/Parts.Forums.Forum.ForumReplyCount.cshtml"
+msgid "1 reply"
+msgstr "1 reply"
+
+#: "~/Views/Parts.Forums.Forum.ForumReplyCount.cshtml"
+msgctxt "~/Views/Parts.Forums.Forum.ForumReplyCount.cshtml"
+msgid "{0} replies"
+msgstr "{0} replies"
+
+#: "~/Views/Parts.Forums.Forum.ForumThreadCount.cshtml"
+msgctxt "~/Views/Parts.Forums.Forum.ForumThreadCount.cshtml"
+msgid "1 thread"
+msgstr "1 thread"
+
+#: "~/Views/Parts.Forums.Forum.ForumThreadCount.cshtml"
+msgctxt "~/Views/Parts.Forums.Forum.ForumThreadCount.cshtml"
+msgid "{0} threads"
+msgstr "{0} threads"
+
+#: "~/Views/Parts.Forums.Forum.Manage.cshtml"
+msgctxt "~/Views/Parts.Forums.Forum.Manage.cshtml"
+msgid "Forum Properties"
+msgstr "Forum Properties"
+
+#. "List Threads"
+msgctxt "~/Views/Parts.Forums.Forum.SummaryAdmin.cshtml"
+msgid "List Threads"
+msgstr "List Threads"
+
+#. " | "
+msgctxt "~/Views/Parts.Forums.Forum.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#. "New Thread"
+msgctxt "~/Views/Parts.Forums.Forum.SummaryAdmin.cshtml"
+msgid "New Thread"
+msgstr "New Thread"
+
+#: "~/Views/Parts.Forums.Thread.List.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.List.cshtml"
+msgid "There are no threads for this forum. Be the first to <a href=\"{0}\">create one</a>?"
+msgstr "There are no threads for this forum. Be the first to <a href=\"{0}\">create one</a>?"
+
+#: "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgid "Actions:"
+msgstr "Actions:"
+
+#: "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgid "Choose action..."
+msgstr "Choose action..."
+
+#: "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgid "Publish Now"
+msgstr "Publish Now"
+
+#: "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgid "Unpublish"
+msgstr "Unpublish"
+
+#: "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgid "Delete"
+msgstr "Delete"
+
+#: "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgid "Apply"
+msgstr "Apply"
+
+#: "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Forums.Thread.ListAdmin.cshtml"
+msgid "There are no threads for this forum."
+msgstr "There are no threads for this forum."
+
+#: "~/Views/Parts.Post.Manage.cshtml"
+msgctxt "~/Views/Parts.Post.Manage.cshtml"
+msgid "Delete"
+msgstr "Delete"
+
+#: "~/Views/Parts.Post.Manage.cshtml"
+msgctxt "~/Views/Parts.Post.Manage.cshtml"
+msgid "Reply"
+msgstr "Reply"
+
+#: "~/Views/Parts.Post.Manage.cshtml"
+msgctxt "~/Views/Parts.Post.Manage.cshtml"
+msgid "Reply with Quote"
+msgstr "Reply with Quote"
+
+#: "~/Views/Parts.Thread.Manage.cshtml"
+msgctxt "~/Views/Parts.Thread.Manage.cshtml"
+msgid "Delete"
+msgstr "Delete"
+
+#: "~/Views/Parts.Thread.Manage.cshtml"
+msgctxt "~/Views/Parts.Thread.Manage.cshtml"
+msgid "Reply to this Thread"
+msgstr "Reply to this Thread"
+
+#: "~/Views/Parts.Thread.Post.Create.cshtml"
+msgctxt "~/Views/Parts.Thread.Post.Create.cshtml"
+msgid "Quick Reply"
+msgstr "Quick Reply"
+
+#: "~/Views/Parts.Thread.Post.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Thread.Post.Metadata.SummaryAdmin.cshtml"
+msgid "Parent post"
+msgstr "Parent post"
+
+#. " | "
+msgctxt "~/Views/Parts.Thread.Post.Metadata.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Views/Parts.Thread.Post.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Thread.Post.Metadata.SummaryAdmin.cshtml"
+msgid "In reply to {0}"
+msgstr "In reply to {0}"
+
+#: "~/Views/Parts.Thread.Posts.Users.cshtml"
+msgctxt "~/Views/Parts.Thread.Posts.Users.cshtml"
+msgid "Users in thread"
+msgstr "Users in thread"
+
+#: "~/Views/Parts.Threads.Post.Body.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.Body.cshtml"
+msgid "Automated Response: I decided to write nothing."
+msgstr "Automated Response: I decided to write nothing."
+
+#: "~/Views/Parts.Threads.Post.Body.Summary.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.Body.Summary.cshtml"
+msgid "more"
+msgstr "more"
+
+#: "~/Views/Parts.Threads.Post.List.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.List.cshtml"
+msgid "There are no replies to this post."
+msgstr "There are no replies to this post."
+
+#: "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgid "Actions:"
+msgstr "Actions:"
+
+#: "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgid "Choose action..."
+msgstr "Choose action..."
+
+#: "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgid "Publish Now"
+msgstr "Publish Now"
+
+#: "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgid "Unpublish"
+msgstr "Unpublish"
+
+#: "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgid "Delete"
+msgstr "Delete"
+
+#: "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgid "Apply"
+msgstr "Apply"
+
+#: "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Post.ListAdmin.cshtml"
+msgid "There are no posts for this thread."
+msgstr "There are no posts for this thread."
+
+#: "~/Views/Parts.Threads.Thread.Closed.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.Closed.cshtml"
+msgid "Closed on {0} by {1}"
+msgstr "Closed on {0} by {1}"
+
+#: "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgid "Sticky Thread"
+msgstr "Sticky Thread"
+
+#: "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgid "The thread is a Sticky Thread"
+msgstr "The thread is a Sticky Thread"
+
+#: "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgid "Sticky"
+msgstr "Sticky"
+
+#: "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgid "Closed Thread"
+msgstr "Closed Thread"
+
+#: "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgid "The thread is closed"
+msgstr "The thread is closed"
+
+#: "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.Metadata.SummaryAdmin.cshtml"
+msgid "Closed"
+msgstr "Closed"
+
+#. "List Posts"
+msgctxt "~/Views/Parts.Threads.Thread.SummaryAdmin.cshtml"
+msgid "List Posts"
+msgstr "List Posts"
+
+#. " | "
+msgctxt "~/Views/Parts.Threads.Thread.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#. "Move"
+msgctxt "~/Views/Parts.Threads.Thread.SummaryAdmin.cshtml"
+msgid "Move"
+msgstr "Move"
+
+#. "Reopen"
+msgctxt "~/Views/Parts.Threads.Thread.SummaryAdmin.cshtml"
+msgid "Reopen"
+msgstr "Reopen"
+
+#. "Close"
+msgctxt "~/Views/Parts.Threads.Thread.SummaryAdmin.cshtml"
+msgid "Close"
+msgstr "Close"
+
+#: "~/Views/Parts.Threads.Thread.ThreadReplyCount.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.ThreadReplyCount.cshtml"
+msgid "1 reply"
+msgstr "1 reply"
+
+#: "~/Views/Parts.Threads.Thread.ThreadReplyCount.cshtml"
+msgctxt "~/Views/Parts.Threads.Thread.ThreadReplyCount.cshtml"
+msgid "{0} replies"
+msgstr "{0} replies"
+
+#: "~/Views/DefinitionTemplates/ForumPartSettings.cshtml"
+msgctxt "~/Views/DefinitionTemplates/ForumPartSettings.cshtml"
+msgid "Use threaded posts by default"
+msgstr "Use threaded posts by default"
+
+#: "~/Views/DefinitionTemplates/ForumPartSettings.cshtml"
+msgctxt "~/Views/DefinitionTemplates/ForumPartSettings.cshtml"
+msgid "The Content Type to use when creating posts. This type must have PostPart attached."
+msgstr "The Content Type to use when creating posts. This type must have PostPart attached."
+
+#: "~/Views/DefinitionTemplates/ForumPartSettings.cshtml"
+msgctxt "~/Views/DefinitionTemplates/ForumPartSettings.cshtml"
+msgid "The Content Type to use when creating threads. This type must have ThreadPart attached."
+msgstr "The Content Type to use when creating threads. This type must have ThreadPart attached."
+
+#: "~/Views/DefinitionTemplates/PostPartSettings.cshtml"
+msgctxt "~/Views/DefinitionTemplates/PostPartSettings.cshtml"
+msgid "Default flavor"
+msgstr "Default flavor"
+
+#: "~/Views/DefinitionTemplates/PostTypePartSettings.cshtml"
+msgctxt "~/Views/DefinitionTemplates/PostTypePartSettings.cshtml"
+msgid "Flavor"
+msgstr "Flavor"
+
+#: "~/Views/EditorTemplates/Parts.Forums.Forum.Fields.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts.Forums.Forum.Fields.cshtml"
+msgid "Description"
+msgstr "Description"
+
+#: "~/Views/EditorTemplates/Parts.Forums.Forum.Fields.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts.Forums.Forum.Fields.cshtml"
+msgid "If specified, will be used to sort forums"
+msgstr "If specified, will be used to sort forums"
+
+#: "~/Views/EditorTemplates/Parts.Threads.Post.Body.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts.Threads.Post.Body.cshtml"
+msgid "Body"
+msgstr "Body"
+
+#: "~/Views/EditorTemplates/Parts.Threads.Thread.Fields.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts.Threads.Thread.Fields.cshtml"
+msgid "Is Sticky"
+msgstr "Is Sticky"
+
+#: "~/Views/EditorTemplates/Parts.Threads.Thread.Fields.cshtml"
+msgctxt "~/Views/EditorTemplates/Parts.Threads.Thread.Fields.cshtml"
+msgid "Threads that are important but rarely receive posts are stickyed. A sticky thread will always appear in front of normal threads."
+msgstr "Threads that are important but rarely receive posts are stickyed. A sticky thread will always appear in front of normal threads."
+
+#: "~/Views/Forum/List.cshtml"
+msgctxt "~/Views/Forum/List.cshtml"
+msgid "Forums"
+msgstr "Forums"
+
+#: "~/Views/Forum/List.cshtml"
+msgctxt "~/Views/Forum/List.cshtml"
+msgid "No forums found."
+msgstr "No forums found."
+
+#: "~/Views/ForumAdmin/Create.cshtml"
+msgctxt "~/Views/ForumAdmin/Create.cshtml"
+msgid "New Forum"
+msgstr "New Forum"
+
+#: "~/Views/ForumAdmin/Edit.cshtml"
+msgctxt "~/Views/ForumAdmin/Edit.cshtml"
+msgid "Forum Properties"
+msgstr "Forum Properties"
+
+#: "~/Views/ForumAdmin/Item.cshtml"
+msgctxt "~/Views/ForumAdmin/Item.cshtml"
+msgid "Manage Forum"
+msgstr "Manage Forum"
+
+#: "~/Views/ForumAdmin/List.cshtml"
+msgctxt "~/Views/ForumAdmin/List.cshtml"
+msgid "Manage Forums"
+msgstr "Manage Forums"
+
+#: "~/Views/ForumAdmin/List.cshtml"
+msgctxt "~/Views/ForumAdmin/List.cshtml"
+msgid "New Forum"
+msgstr "New Forum"
+
+#: "~/Views/ForumAdmin/List.cshtml"
+msgctxt "~/Views/ForumAdmin/List.cshtml"
+msgid "Actions:"
+msgstr "Actions:"
+
+#: "~/Views/ForumAdmin/List.cshtml"
+msgctxt "~/Views/ForumAdmin/List.cshtml"
+msgid "Choose action..."
+msgstr "Choose action..."
+
+#: "~/Views/ForumAdmin/List.cshtml"
+msgctxt "~/Views/ForumAdmin/List.cshtml"
+msgid "Delete"
+msgstr "Delete"
+
+#: "~/Views/ForumAdmin/List.cshtml"
+msgctxt "~/Views/ForumAdmin/List.cshtml"
+msgid "Apply"
+msgstr "Apply"
+
+#: "~/Views/ForumAdmin/List.cshtml"
+msgctxt "~/Views/ForumAdmin/List.cshtml"
+msgid "There are no forums for you to see. Want to <a href=\"{0}\">add one</a>?"
+msgstr "There are no forums for you to see. Want to <a href=\"{0}\">add one</a>?"
+
+#: "~/Views/ForumAdmin/SelectType.cshtml"
+msgctxt "~/Views/ForumAdmin/SelectType.cshtml"
+msgid "Create New Forum"
+msgstr "Create New Forum"
+
+#: "~/Views/Post/Create.cshtml"
+msgctxt "~/Views/Post/Create.cshtml"
+msgid "New Post"
+msgstr "New Post"
+
+#: "~/Views/Thread/Create.cshtml"
+msgctxt "~/Views/Thread/Create.cshtml"
+msgid "Create Thread"
+msgstr "Create Thread"
+
+#: "~/Views/ThreadAdmin/Close.cshtml"
+msgctxt "~/Views/ThreadAdmin/Close.cshtml"
+msgid "Close Thread"
+msgstr "Close Thread"
+
+#: "~/Views/ThreadAdmin/Close.cshtml"
+msgctxt "~/Views/ThreadAdmin/Close.cshtml"
+msgid "Description"
+msgstr "Description"
+
+#: "~/Views/ThreadAdmin/Close.cshtml"
+msgctxt "~/Views/ThreadAdmin/Close.cshtml"
+msgid "This is why you are closing the thread."
+msgstr "This is why you are closing the thread."
+
+#: "~/Views/ThreadAdmin/Close.cshtml"
+msgctxt "~/Views/ThreadAdmin/Close.cshtml"
+msgid "Close"
+msgstr "Close"
+
+#: "~/Views/ThreadAdmin/Item.cshtml"
+msgctxt "~/Views/ThreadAdmin/Item.cshtml"
+msgid "Manage Thread"
+msgstr "Manage Thread"
+
+#: "~/Views/ThreadAdmin/List.cshtml"
+msgctxt "~/Views/ThreadAdmin/List.cshtml"
+msgid "Manage Threads"
+msgstr "Manage Threads"
+
+#: "~/Views/ThreadAdmin/List.cshtml"
+msgctxt "~/Views/ThreadAdmin/List.cshtml"
+msgid "New Forum"
+msgstr "New Forum"
+
+#: "~/Views/ThreadAdmin/List.cshtml"
+msgctxt "~/Views/ThreadAdmin/List.cshtml"
+msgid "Actions:"
+msgstr "Actions:"
+
+#: "~/Views/ThreadAdmin/List.cshtml"
+msgctxt "~/Views/ThreadAdmin/List.cshtml"
+msgid "Choose action..."
+msgstr "Choose action..."
+
+#: "~/Views/ThreadAdmin/List.cshtml"
+msgctxt "~/Views/ThreadAdmin/List.cshtml"
+msgid "Delete"
+msgstr "Delete"
+
+#: "~/Views/ThreadAdmin/List.cshtml"
+msgctxt "~/Views/ThreadAdmin/List.cshtml"
+msgid "Apply"
+msgstr "Apply"
+
+#: "~/Views/ThreadAdmin/List.cshtml"
+msgctxt "~/Views/ThreadAdmin/List.cshtml"
+msgid "There are no threads for you to see."
+msgstr "There are no threads for you to see."
+
+#: "~/Views/ThreadAdmin/Move.cshtml"
+msgctxt "~/Views/ThreadAdmin/Move.cshtml"
+msgid "Move Thread"
+msgstr "Move Thread"
+
+#: "~/Views/ThreadAdmin/Move.cshtml"
+msgctxt "~/Views/ThreadAdmin/Move.cshtml"
+msgid "Details"
+msgstr "Details"
+
+#: "~/Views/ThreadAdmin/Move.cshtml"
+msgctxt "~/Views/ThreadAdmin/Move.cshtml"
+msgid "Destination"
+msgstr "Destination"
+
+#: "~/Views/ThreadAdmin/Move.cshtml"
+msgctxt "~/Views/ThreadAdmin/Move.cshtml"
+msgid "This is the forum that the thread will be moved to."
+msgstr "This is the forum that the thread will be moved to."
+
+#: "~/Views/ThreadAdmin/Move.cshtml"
+msgctxt "~/Views/ThreadAdmin/Move.cshtml"
+msgid "Update"
+msgstr "Update"
+
